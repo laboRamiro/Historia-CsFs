@@ -1,0 +1,1104 @@
+id,capitulo,bloque,trigger,personaje,texto,direccion,palabras,duracion_s
+C1_BRF01_010,C1,C1_BRF01,INICIO,CORVO,"Doscientas catorce personas en cuatro meses, Darío. Comieron fruta marciana y murieron antes del postre.","Grave, sin mirarlo",15,5.8
+C1_BRF01_020,C1,C1_BRF01,CONT,LUNE,¿Y la fruta? ¿Qué dicen los análisis?,Concentrado,7,2.7
+C1_BRF01_030,C1,C1_BRF01,CONT,FERRÁN,Nada. Ninguna toxina conocida. Ninguna bacteria que sepamos cultivar. Mata y desaparece.,"Pausado, pipa en mano",12,4.6
+C1_BRF01_040,C1,C1_BRF01,CONT,CORVO,"La Tierra come gracias a Marte y a las lunas de Júpiter. Si cerramos las importaciones, en seis semanas tenemos hambre. Si no las cerramos, seguimos enterrando gente.",Tensa,28,10.8
+C1_BRF01_050,C1,C1_BRF01,CONT,LUNE,Entonces voy a Marte.,Decidido,4,1.5
+C1_BRF01_060,C1,C1_BRF01,CONT,CORVO,"Vas al laboratorio lunar, con el equipo de análisis. Es seguro, es útil y es una orden.",Firme,17,6.5
+C1_BRF01_070,C1,C1_BRF01,CONT,FERRÁN,Helena…,Conciliador,1,0.4
+C1_BRF01_080,C1,C1_BRF01,CONT,CORVO,"No, Ismael. Tiene veinticuatro años y una placa recién estrenada.",Cortante,10,3.8
+C1_BRF01_090A,C1,C1_BRF01,ELECCIÓN,LUNE (A),"Entendido, directora. Laboratorio lunar.",Neutro: la mentira se nota,4,1.5
+C1_BRF01_090B,C1,C1_BRF01,ELECCIÓN,LUNE (B),"Por todas las órbitas, Helena, ya no tengo doce años.",Respetuoso pero firme,10,3.8
+C1_BRF01_100,C1,C1_BRF01,CONT,CORVO,"Retírese, inspector.",Seca. Se gira al ventanal,2,0.8
+C1_BRF01_110,C1,C1_BRF01,SALIDA,FERRÁN,"(en voz baja, en la puerta) Su hangar está abierto. Yo no te dije nada.","Cómplice, susurro",9,3.5
+C1_BRF01_120,C1,C1_BRF01,CONT,LUNE,Ya lo sabía. Por eso dejé una nota en su escritorio.,Sonrisa contenida,11,4.2
+C1_VIA01_010,C1,C1_VIA01,RUTA 0%,ERRANTE,"Despegue autorizado. Destino: Marte, Puerto Hesperia. Tiempo estimado: cuarenta y una horas comprimidas.",Sintético,13,5.0
+C1_VIA01_020,C1,C1_VIA01,CONT,LUNE,"Gracias, *Errante*. Un día de estos vas a decir «buen viaje».",Ironía cariñosa,11,4.2
+C1_VIA01_030,C1,C1_VIA01,CONT,ERRANTE,Expresión no registrada.,Sintético,3,1.2
+C1_VIA01_040,C1,C1_VIA01,RUTA 10%,LUNE,(para sí) Cuatro meses de muertes y ni un patrón. Fruta de doce granjas distintas… pero todas pasan por la misma cooperativa de Hesperia.,"Pensativo, voz en off",22,8.5
+C1_VIA01_050,C1,C1_VIA01,RUTA 25%,ERRANTE,Mensaje entrante. Prioridad: personal. Remitente: H. Corvo.,Sintético,7,2.7
+C1_VIA01_060,C1,C1_VIA01,CONT,LUNE,Ahí viene.,Resignado,2,0.8
+C1_VIA01_070,C1,C1_VIA01,CONT,CORVO,"«Laboratorio lunar», ¿eh? Leí tu nota. «Me llevé la nave. Vuelvo con el culpable. No se enfade». ¿Eso es una broma?","Furiosa, contenida",21,8.1
+C1_VIA01_080,C1,C1_VIA01,CONT,LUNE,Es una cita textual de lo que usted iba a pensar dentro de una semana.,Sereno,15,5.8
+C1_VIA01_090,C1,C1_VIA01,CONT,CORVO,(suspira) Ismael dice que te estábamos empujando a ir. Que te prohibí ir para que fueras.,Más bajo,15,5.8
+C1_VIA01_100,C1,C1_VIA01,CONT,LUNE,Lo sé. Me di cuenta en la segunda frase.,Divertido,9,3.5
+C1_VIA01_110,C1,C1_VIA01,CONT,CORVO,"Entonces trabaja de incógnito. Ni placa ni nombre. En Marte, la ACS es «esa gente de la Tierra». No te van a abrir ni una puerta.",Profesional,26,10.0
+C1_VIA01_120,C1,C1_VIA01,CONT,LUNE,"Me llamaré Leo Varga. Peón de granja, sin papeles y con ganas de trabajar.",Probando la voz,14,5.4
+C1_VIA01_130,C1,C1_VIA01,CONT,CORVO,Darío… vuelve.,Quiebre breve,2,0.8
+C1_VIA01_140,C1,C1_VIA01,CONT,LUNE,Siempre vuelvo.,Cálido,2,0.8
+C1_VIA01_150,C1,C1_VIA01,RUTA 50%,FERRÁN,"Inspector, una sola cosa científica antes de que llegues. Si el veneno no está en la fruta cuando sale de Marte…",Llamada de voz,21,8.1
+C1_VIA01_160,C1,C1_VIA01,CONT,LUNE,…alguien lo pone en algún momento del camino. O lo pone sabiendo que va a desaparecer.,Completa la idea,16,6.2
+C1_VIA01_170,C1,C1_VIA01,CONT,FERRÁN,Exacto. Busca a alguien que sepa de bacterias marcianas. No hay tantos.,Satisfecho,12,4.6
+C1_VIA01_180,C1,C1_VIA01,EVT(micrometeoritos),ERRANTE,Alerta: lluvia de micrometeoritos. Se recomienda maniobra evasiva.,Alerta,8,3.1
+C1_VIA01_190,C1,C1_VIA01,CONT,LUNE,"Arena del espacio. Vamos, *Errante*, baila conmigo.","Concentrado, con humor",7,2.7
+C1_VIA01_200,C1,C1_VIA01,EVT fin,ERRANTE,Integridad del casco: noventa y ocho por ciento.,Sintético,8,3.1
+C1_VIA01_210,C1,C1_VIA01,CONT,LUNE,Lo dejamos en «impecable».,Alivio,4,1.5
+C1_VIA01_220,C1,C1_VIA01,RUTA 75%,LUNE,(para sí) Mis padres viajaban a Venus cuando los atacaron. Nunca pensé que el primer caso me iba a llevar hacia el otro lado del Sol.,Íntimo; establece el trasfondo,24,9.2
+C1_VIA01_230,C1,C1_VIA01,RUTA 95%,ERRANTE,Marte a la vista. Gravedad: treinta y ocho por ciento de la estándar. Respire por el filtro en el exterior.,Sintético,20,7.7
+C1_VIA01_240,C1,C1_VIA01,CONT,LUNE,"Hola, granero de la Tierra. Veamos quién te está pudriendo.",Determinado,10,3.8
+C1_VIA01_R01,C1,C1_VIA01,IDLE ≥15 s,LUNE,(para sí) Fruta que mata y no deja rastro. O es magia o es alguien muy listo. Y no creo en la magia.,Relleno,21,8.1
+C1_VIA01_R02,C1,C1_VIA01,IDLE ≥15 s,ERRANTE,Consumo de combustible: nominal.,Relleno,4,1.5
+C1_VIA01_R03,C1,C1_VIA01,IDLE ≥15 s,LUNE,"(silba dos notas, se detiene) Debería poner música aquí dentro. O conseguir compañía.",Relleno; anticipa a GOLIAT,8,3.1
+C1_VIA01_R04,C1,C1_VIA01,IDLE ≥15 s,LUNE,(para sí) Leo Varga. Leo Varga. Tiene que sonar como si lo hubiera dicho toda la vida.,Relleno,15,5.8
+C1_LOC02_010,C1,C1_LOC02,LLEGADA,ERRANTE,Aterrizaje completado. Nave registrada a nombre de Leo Varga.,Sintético,9,3.5
+C1_LOC02_020,C1,C1_LOC02,CONT,LUNE,"Bienvenido a casa, Leo.",Se pone el filtro,4,1.5
+C1_LOC02_030,C1,C1_LOC02,EXPLORAR,PNJ PEÓN,"Si buscas trabajo, la cola es ahí. Si buscas trabajo bueno, vuelve a la Tierra.",Ambiente,15,5.8
+C1_LOC02_040,C1,C1_LOC02,EXPLORAR,PNJ CAJERA,¿Granja Valdés? Pagan bien. Lo que no pagan es la gente que se les va.,Ambiente; pista suave,15,5.8
+C1_LOC02_050,C1,C1_LOC02,INTERACT(desguace),HASK,¡A la prensa con esa chatarra! Tiene la memoria podrida. Ve cosas que no existen.,Gritando a un operario,15,5.8
+C1_LOC02_060,C1,C1_LOC02,CONT,GOLIAT,"¡No tengo la memoria podrida! ¡Tengo la memoria EXCELENTE! ¡Y le exijo que me suelte, gorila de invernadero!","Indignación enorme, voz grave",18,6.9
+C1_LOC02_070,C1,C1_LOC02,CONT,OPERARIO,"Es un GL-7, capataz. Treinta años picando roca. Vale más como piezas que entero.",Indiferente,15,5.8
+C1_LOC02_080A,C1,C1_LOC02,ELECCIÓN,LUNE (A),Yo me lo llevo. Lo pago a precio de chatarra.,Tranquilo,10,3.8
+C1_LOC02_080B,C1,C1_LOC02,ELECCIÓN,LUNE (B),"¿Qué es lo que vio, exactamente?","Curioso, mirando a Hask",6,2.3
+C1_LOC02_090,C1,C1_LOC02,COND(B),HASK,Vio lo que vio un cerebro de lata quemado. ¿Y tú quién eres?,Amenazante,13,5.0
+C1_LOC02_100,C1,C1_LOC02,CONT,LUNE,"Leo Varga. Busco trabajo. Y por lo visto, también un robot.",Sereno,11,4.2
+C1_LOC02_110,C1,C1_LOC02,CONT,HASK,"Treinta créditos y te lo llevas. Si te da problemas, la prensa sigue aquí.",Desprecio; se aleja,14,5.4
+C1_LOC02_120,C1,C1_LOC02,CONT,GOLIAT,¿Treinta? ¿TREINTA? Mi chasis sólo ya vale cuarenta. ¡Exijo una tasación justa!,Ofendido,12,4.6
+C1_LOC02_130,C1,C1_LOC02,CONT,LUNE,¿Prefieres la prensa?,Divertido,3,1.2
+C1_LOC02_140,C1,C1_LOC02,CONT,GOLIAT,…Treinta está bien. Treinta es un precio de amigo.,Cambio inmediato,9,3.5
+C1_LOC02_150,C1,C1_LOC02,CONT,LUNE,"¿Tienes nombre, o te llamo «unidad»?",Probándolo,6,2.3
+C1_LOC02_160,C1,C1_LOC02,CONT,GOLIAT,"Si me llama «unidad», le pico los tobillos. Me llamo GOLIAT. Designación GL-7. Un metro diez de pura ingeniería marciana.","Orgulloso, saca pecho",21,8.1
+C1_LOC02_170,C1,C1_LOC02,CONT,LUNE,¿Goliat?,Contiene la risa,1,0.4
+C1_LOC02_180,C1,C1_LOC02,CONT,GOLIAT,"Sí. ¿Algún problema con el nombre, terrícola?",Desafiante,7,2.7
+C1_LOC02_190,C1,C1_LOC02,CONT,LUNE,Ninguno. Te queda… grande.,Seco,4,1.5
+C1_LOC02_200,C1,C1_LOC02,CONT,GOLIAT,Ja. Ja. Se me van a fundir los circuitos de la risa.,Sarcasmo,12,4.6
+C1_LOC02_210,C1,C1_LOC02,CONT,GOLIAT,"Gracias, por cierto. Te debo una. Los GL-7 pagamos nuestras deudas.","Más bajo, sincero",12,4.6
+C1_LOC02_220,C1,C1_LOC02,CONT,LUNE,Entonces págamela ahora: ¿qué viste?,Directo,5,1.9
+C1_LOC02_230,C1,C1_LOC02,CONT,GOLIAT,"El tractor de arena de Hask, saliendo hacia el desierto a medianoche. Tres noches seguidas. Lo registré. Al día siguiente me declararon «averiado».","Bajo, confidencial",23,8.8
+C1_LOC02_240,C1,C1_LOC02,CONT,GOLIAT,El archivo está dañado. Alguien lo borró a medias. Me queda el rumbo… y un manchón de colores.,Frustrado,18,6.9
+C1_LOC02_250,C1,C1_LOC02,CONT,LUNE,Guárdalo. Vale más que treinta créditos.,Serio. **Pista P1-02**,6,2.3
+C1_LOC02_260,C1,C1_LOC02,CONT,GOLIAT,¿Ves? Te lo dije: memoria EXCELENTE.,Triunfal. **Flag `F_GOLIAT_RECLUTADO`**,6,2.3
+C1_LOC02_270,C1,C1_LOC02,EXPLORAR,GOLIAT,El contratista de la Granja Valdés es aquel de la gorra. No le digas que vienes de la Tierra. Se te nota en el andar.,Ayuda contextual,25,9.6
+C1_LOC02_280,C1,C1_LOC02,INTERACT(contratista),PNJ CONTRATISTA,¿Experiencia?,Aburrido,1,0.4
+C1_LOC02_290,C1,C1_LOC02,CONT,LUNE,Cuatro años en hidroponía. Y traigo mi propio robot.,Mentira tranquila,9,3.5
+C1_LOC02_300,C1,C1_LOC02,CONT,PNJ CONTRATISTA,¿Esa cosa? Bueno. Empiezas mañana. Sales hacia el Valle Ares esta tarde.,Firma,12,4.6
+C1_LOC02_310,C1,C1_LOC02,SALIDA,GOLIAT,Primer viaje juntos. Te advierto que mareo a los pilotos malos.,Fanfarrón,11,4.2
+C1_VIA02_010,C1,C1_VIA02,RUTA 0%,GOLIAT,Bonita nave. ¿Cuánto costó? ¿Más que yo? Seguro que más que yo.,"Curioso, celoso",12,4.6
+C1_VIA02_020,C1,C1_VIA02,CONT,LUNE,"*Errante*, saluda a GOLIAT.",Divertido,4,1.5
+C1_VIA02_030,C1,C1_VIA02,CONT,ERRANTE,Pasajero no humano registrado.,Sintético,4,1.5
+C1_VIA02_040,C1,C1_VIA02,CONT,GOLIAT,«Pasajero no humano». Qué conversación tan rica tiene tu nave. ¿Habláis mucho por las noches?,Sarcasmo,15,5.8
+C1_VIA02_050,C1,C1_VIA02,RUTA 25%,GOLIAT,"Por cierto, «Leo Varga»… Te reconocí en el desguace. Saliste en las noticias cuando te graduaste. Eres de la ACS.","Bajo, cómplice",20,7.7
+C1_VIA02_060,C1,C1_VIA02,CONT,LUNE,¿Y qué vas a hacer con esa información?,Tenso,8,3.1
+C1_VIA02_070,C1,C1_VIA02,CONT,GOLIAT,Archivarla en la sección «secretos de amigos». Es una sección nueva. Tú eres el primero.,Solemne y cómico,15,5.8
+C1_VIA02_080,C1,C1_VIA02,CONT,LUNE,Me llamo Darío. Darío Lune.,Le confía el nombre,5,1.9
+C1_VIA02_090,C1,C1_VIA02,EVT(cañón estrecho),GOLIAT,¡Pared a la izquierda! ¡Pared a la derecha! ¡Paredes por todas partes!,Pánico cómico,12,4.6
+C1_VIA02_100,C1,C1_VIA02,CONT,LUNE,"Lo estoy viendo, GOLIAT.",Concentrado,4,1.5
+C1_VIA02_110,C1,C1_VIA02,EVT fin,GOLIAT,Bien. Bien pilotado. Para ser terrícola.,Recupera la compostura,6,2.3
+C1_VIA02_120,C1,C1_VIA02,RUTA 75%,GOLIAT,"En la Granja Valdés, cuidado con Gorski. Pega primero y pregunta nunca. Y con Zell, que es la sombra de Hask.",Informativo,21,8.1
+C1_VIA02_130,C1,C1_VIA02,CONT,LUNE,¿Y el agrónomo?,Interesado,3,1.2
+C1_VIA02_140,C1,C1_VIA02,CONT,GOLIAT,¿Brenner? Un señor encantador. Me aceitaba las juntas los domingos. Cree que hay marcianos de verdad bajo tierra. Nadie le hace caso.,Afecto sincero (ironía dramática),22,8.5
+C1_VIA02_150,C1,C1_VIA02,RUTA 95%,ERRANTE,Granja Valdés a dos kilómetros. Pista de tierra.,Sintético,8,3.1
+C1_VIA02_160,C1,C1_VIA02,CONT,GOLIAT,"Hogar, dulce hogar. Que me echó a la basura.",Agridulce,9,3.5
+C1_VIA02_R01,C1,C1_VIA02,IDLE ≥15 s,GOLIAT,¿Sabes que la arena de Marte se mete en todos lados? En TODOS. No preguntes.,Relleno,15,5.8
+C1_VIA02_R02,C1,C1_VIA02,IDLE ≥15 s,GOLIAT,"Esa formación de ahí la llamamos «la Muela». La de al lado, «la Otra Muela». Los mineros no somos poetas.",Relleno,20,7.7
+C1_VIA02_R03,C1,C1_VIA02,IDLE ≥15 s,GOLIAT,"Si vas a seguir callado, voy a empezar a contar rocas. Una. Dos. Esa es grande. Tres…",Relleno,17,6.5
+C1_LOC03_010,C1,C1_LOC03,LLEGADA,GOLIAT,Esos invernaderos de ahí. Doscientos kilómetros a la redonda son de Valdés. Hasta el aire tiene dueño.,Ambiente,17,6.5
+C1_LOC03_020,C1,C1_LOC03,EXPLORAR,ZELL,"Mira quién volvió de la prensa. ¿Te armaron con piezas nuevas, enano?",Burlón,12,4.6
+C1_LOC03_030,C1,C1_LOC03,CONT,GOLIAT,"Vuelve a llamarme «enano» y te armo yo a ti, con piezas sueltas.",Amenaza grave y ridícula,13,5.0
+C1_LOC03_040,C1,C1_LOC03,CONT,LUNE,GOLIAT.,Freno,1,0.4
+C1_LOC03_050,C1,C1_LOC03,CONT,GOLIAT,…Estaba siendo diplomático.,Contrariado,3,1.2
+C1_INT01_010,C1,C1_INT01,INTERACT(Valdés),VALDÉS,"Nuevo, ¿verdad? Aquí se trabaja de sol a sol. Y en Marte el sol se toma su tiempo.",Cansado,18,6.9
+C1_INT01_020A,C1,C1_INT01,ELECCIÓN,LUNE (A),He oído que hay compradores interesados en su granja.,Indagador,9,3.5
+C1_INT01_020B,C1,C1_INT01,ELECCIÓN,LUNE (B),¿Le preocupa lo que se dice en la Tierra de su fruta?,Directo,12,4.6
+C1_INT01_030,C1,C1_INT01,COND(A),VALDÉS,"Cartas. Todos los meses. Ofrecen la mitad de lo que vale. Con matasellos del Cinturón, ni siquiera de Marte.",Despectivo. **Pista P1-03**,19,7.3
+C1_INT01_040,C1,C1_INT01,COND(B),VALDÉS,"Mi fruta es limpia. Mi padre la cultivó y mi abuelo cavó estas cúpulas con las manos. Si alguien la envenena, no es un Valdés.",Herido en el orgullo,25,9.6
+C1_INT01_050,C1,C1_INT01,CONT,VALDÉS,Y aquí los marcianos no llamamos a la policía. Lo resolvemos nosotros.,Advertencia,12,4.6
+C1_INT01_060,C1,C1_INT01,SALIDA,GOLIAT,(bajo) No le muestres la placa a este. Te tira al pozo de abono.,Comentario,13,5.0
+C1_INT02_010,C1,C1_INT02,INTERACT(Brenner),BRENNER,¡GOLIAT! Viejo amigo. Me dijeron que te habían llevado al desguace. Lo lamenté muchísimo.,Cálido (actuado),14,5.4
+C1_INT02_020,C1,C1_INT02,CONT,GOLIAT,"Casi me desguazan, doctor. Pero llegó Leo.",Contento,7,2.7
+C1_INT02_030,C1,C1_INT02,CONT,BRENNER,"Un placer, Leo. Si te interesa la ciencia, pásate por el laboratorio. Aquí nadie quiere escuchar.",Amable,16,6.2
+C1_INT02_040A,C1,C1_INT02,ELECCIÓN,LUNE (A),¿Qué cree usted que está envenenando la fruta?,Curioso,8,3.1
+C1_INT02_040B,C1,C1_INT02,ELECCIÓN,LUNE (B),¿Para qué sirve ese arpón?,Señala el instrumento,5,1.9
+C1_INT02_050,C1,C1_INT02,COND(A),BRENNER,"¿De verdad quieres saberlo? Hay vida bajo Marte. Antigua, inteligente. Y creo que nos está atacando con bacterias. Guerra biológica.",Apasionado. Pista falsa deliberada,20,7.7
+C1_INT02_060,C1,C1_INT02,COND(B),BRENNER,"¿Esto? Un tomamuestras. Disparo, perforo la cáscara, extraigo un núcleo. Controlo la calidad fruta por fruta.",Didáctico. **Pista P1-04 (registrar)**,16,6.2
+C1_INT02_070,C1,C1_INT02,CONT,LUNE,¿Fruta por fruta? Es mucha fruta.,Neutro,6,2.3
+C1_INT02_080,C1,C1_INT02,CONT,BRENNER,Soy un hombre minucioso.,Sonrisa,4,1.5
+C1_INT02_090,C1,C1_INT02,SALIDA,GOLIAT,¿A que es encantador?,Ingenuo,4,1.5
+C1_INT02_100,C1,C1_INT02,CONT,LUNE,Mucho.,Pensativo; no comparte la sospecha,1,0.4
+C1_INT03_010,C1,C1_INT03,INTERACT(comedor),GORSKI,"Siéntate en otro lado, nuevo.",Hostil,5,1.9
+C1_INT03_020A,C1,C1_INT03,ELECCIÓN,LUNE (A),Hay sitio de sobra.,Calma,4,1.5
+C1_INT03_020B,C1,C1_INT03,ELECCIÓN,LUNE (B),(se levanta sin decir nada),Evita el conflicto,0,0.0
+C1_INT03_030,C1,C1_INT03,COND(A),GORSKI,Mañana hay inspección en la Grieta del Norte. Vienes tú. Ya veremos cuánto sitio te queda.,Amenaza,16,6.2
+C1_INT03_040,C1,C1_INT03,CONT,GOLIAT,"(bajo) Darío, escuché a Zell en el taller. Le quitaron los contrapesos al vehículo de inspección. Quieren que «el nuevo» se caiga a la grieta.","Urgente, susurro",24,9.2
+C1_INT03_050,C1,C1_INT03,CONT,LUNE,Entonces mañana no me voy a caer.,Frío,7,2.7
+C1_INT03_060,C1,C1_INT03,CONT,GOLIAT,¿Y si te caes?,Preocupado,4,1.5
+C1_INT03_070,C1,C1_INT03,CONT,LUNE,Me atrapas.,Medio en broma,2,0.8
+C1_INT03_080,C1,C1_INT03,CONT,GOLIAT,Con un metro diez. Claro. Sin problema.,Seco,7,2.7
+C1_VIA03_010,C1,C1_VIA03,RUTA 0%,GOLIAT,"(por radio) Te sigo en la *Errante* a baja altura. Si el vehículo hace algo raro, grita.",Radio,15,5.8
+C1_VIA03_020,C1,C1_VIA03,RUTA 25%,LUNE,Se va a la derecha. Le falta peso atrás. Tenías razón.,Esfuerzo,11,4.2
+C1_VIA03_030,C1,C1_VIA03,RUTA 50%,ZELL,"(radio del convoy) ¿Todo bien, nuevo? Esos vehículos son caprichosos.",Falsa amabilidad,7,2.7
+C1_VIA03_040,C1,C1_VIA03,CONT,LUNE,"Muy bien, Zell. Gracias por preguntar.",Helado,6,2.3
+C1_VIA03_050,C1,C1_VIA03,RUTA 75%,GOLIAT,Gorski se está quedando atrás. Ojo con él.,Alerta,8,3.1
+C1_VIA03_060,C1,C1_VIA03,RUTA 95%,GOLIAT,La grieta está ahí delante. Desde aquí parece una sonrisa. Una sonrisa muy fea.,Inquieto,14,5.4
+C1_VIA03_R01,C1,C1_VIA03,IDLE ≥15 s,GOLIAT,Te lo digo como amigo: tu manera de conducir le da miedo hasta a mi giroscopio.,Relleno,16,6.2
+C1_VIA03_R02,C1,C1_VIA03,IDLE ≥15 s,LUNE,Un vehículo sin contrapeso y un hombre que espera que me caiga. Qué mañana tan tranquila.,Relleno,16,6.2
+C1_LOC04_010,C1,C1_LOC04,LLEGADA,GORSKI,"Bájate, nuevo. Vamos a ver si sabes caminar sin filtro.","Se quita el filtro, provocación",10,3.8
+C1_LOC04_020,C1,C1_LOC04,CONT,LUNE,"Si me lo quito, nos ahogamos los dos.",Calma,8,3.1
+C1_LOC04_030,C1,C1_LOC04,CIN (pelea),GORSKI,¡Aquí no hay inspectores que te salven!,Golpe,7,2.7
+C1_LOC04_040,C1,C1_LOC04,CONT,GOLIAT,"¡Darío! ¡Atrás, que está el borde!",Grito,6,2.3
+C1_LOC04_050,C1,C1_LOC04,CONT,GORSKI,(cae) ¡Noooo…!,Grito que se aleja,1,0.4
+C1_LOC04_060,C1,C1_LOC04,CONT,LUNE,(jadeando) Lo intenté agarrar. Lo intenté.,Afectado,5,1.9
+C1_LOC04_070,C1,C1_LOC04,CONT,GOLIAT,Lo vi. Lo registré. Nadie va a decir que lo empujaste.,"Firme, protector",11,4.2
+C1_LOC04_080,C1,C1_LOC04,EXPLORAR,PNJ HORTICULTOR,"Buena pelea, chaval. Gorski se lo buscó.",Respeto rudo,7,2.7
+C1_LOC04_090,C1,C1_LOC04,INTERACT(vehículo),GOLIAT,"Mira: los anclajes de los contrapesos, limpios. Aquí había algo y lo quitaron.",**Pista P1-05**,13,5.0
+C1_LOC04_100,C1,C1_LOC04,INTERACT(borde),LUNE,Esta grieta baja recta durante kilómetros… y nunca corta una caverna. Ninguna grieta de Marte corta una. Como si las cavernas las esquivaran.,Pensando en voz alta,23,8.8
+C1_LOC04_110,C1,C1_LOC04,CONT,GOLIAT,O como si alguien las protegiera.,"Bajo, inquieto",6,2.3
+C1_LOC04_120,C1,C1_LOC04,CONT,LUNE,Brenner dice que hay alguien ahí abajo. Vamos a comprobarlo.,Decidido,10,3.8
+C1_LOC04_130,C1,C1_LOC04,CONT,GOLIAT,Claro. ¿Por qué no? Bajemos a la casa de los monstruos subterráneos. Es martes.,Resignado,14,5.4
+C1_VIA04_010,C1,C1_VIA04,RUTA 0%,ERRANTE,Descenso vertical. Profundidad: doscientos metros.,Sintético,5,1.9
+C1_VIA04_020,C1,C1_VIA04,CONT,GOLIAT,"Mis sensores de mineral están contentísimos. Mis sensores de supervivencia, no tanto.",Nervioso,12,4.6
+C1_VIA04_030,C1,C1_VIA04,RUTA 30%,LUNE,"Se estrecha. Si fuera más grande, no pasaríamos.",Concentrado,8,3.1
+C1_VIA04_040,C1,C1_VIA04,CONT,GOLIAT,¿Ves? Por fin alguien entiende las ventajas de ser compacto.,Orgulloso,10,3.8
+C1_VIA04_050,C1,C1_VIA04,RUTA 60%,GOLIAT,Darío… hay luz ahí abajo. Azul. Y no viene de ninguna fuente que yo pueda medir.,Asombro,16,6.2
+C1_VIA04_060,C1,C1_VIA04,CONT,LUNE,¿Nada? ¿Ni calor?,Intrigado,3,1.2
+C1_VIA04_070,C1,C1_VIA04,CONT,GOLIAT,Nada. Es como mirar un pensamiento.,"Asombro, bajo",6,2.3
+C1_VIA04_080,C1,C1_VIA04,RUTA 100%,ERRANTE,Profundidad: seis kilómetros. Cámara estable. Atmósfera respirable.,Sintético,7,2.7
+C1_VIA04_090,C1,C1_VIA04,CONT,LUNE,¿Respirable? A seis kilómetros bajo Marte.,Incrédulo,6,2.3
+C1_VIA04_R01,C1,C1_VIA04,IDLE ≥15 s,GOLIAT,"Si nos morimos aquí, quiero que conste que fue idea tuya.",Relleno,11,4.2
+C1_VIA04_R02,C1,C1_VIA04,IDLE ≥15 s,GOLIAT,Profundidad nueva. Récord personal. No lo celebro.,Relleno,7,2.7
+C1_LOC05_010,C1,C1_LOC05,LLEGADA,SILENTE JOVEN,"¡Un visitante! Hace tanto que nadie baja. Tienes la mente llena de ruido, viajero.","Curiosa, eco, alegre",14,5.4
+C1_LOC05_020,C1,C1_LOC05,CONT,LUNE,¿Quiénes son ustedes?,Asombro controlado,3,1.2
+C1_LOC05_030,C1,C1_LOC05,CONT,SILENTE JOVEN,Los que se quedaron. Los que eligieron la quietud. Hace medio millón de vueltas al Sol dejamos los cuerpos.,Soñadora,19,7.3
+C1_LOC05_040,C1,C1_LOC05,CONT,GOLIAT,"Darío, ¿con quién hablas? Yo no oigo nada. ¿Me estoy perdiendo una fiesta?",Desconcertado,13,5.0
+C1_LOC05_050,C1,C1_LOC05,CONT,SILENTE JOVEN,Qué curioso. El pequeño no tiene mente que pueda tocar. Es todo silencio por dentro.,Intrigada,15,5.8
+C1_LOC05_060,C1,C1_LOC05,CONT,GOLIAT,¿«Todo silencio»? ¡Oiga! Tengo opiniones. ¡Muchas!,Ofendido (aunque no la oye: reacciona a Lune),6,2.3
+C1_LOC05_070,C1,C1_LOC05,CONT,SILENTE ANCIANO,"Basta. La joven abre mentes que no debe. Viajero: tu gente envenena, mata y corre entre los mundos. Nosotros nos bastamos.","Grave, frío",21,8.1
+C1_LOC05_080A,C1,C1_LOC05,ELECCIÓN,LUNE (A),No vengo a molestarlos. Vengo a detener a un asesino.,Sincero,10,3.8
+C1_LOC05_080B,C1,C1_LOC05,ELECCIÓN,LUNE (B),¿Ustedes son los que envenenan la fruta?,Firme,7,2.7
+C1_LOC05_090,C1,C1_LOC05,COND(B),SILENTE ANCIANO,"No tocamos vuestra comida. No tocamos nada. Esa es nuestra elección, y nuestro peso.","Herido, lento",14,5.4
+C1_LOC05_100,C1,C1_LOC05,CONT,SILENTE ANCIANO,He mirado dentro de ti. Hay más que ruido. Llévate esto.,Decisión,11,4.2
+C1_LOC05_110,C1,C1_LOC05,CIN,ERRANTE,Instalación de módulo desconocido en el casco. Designación sugerida: «Velo».,Sintético. **Flag `F_VELO`**,10,3.8
+C1_LOC05_120,C1,C1_LOC05,CONT,SILENTE JOVEN,Bebe la luz del Sol y te envuelve en humo y luz. Nadie podrá ver tu rostro ni atravesarte. Que te llamen el **Espectro**.,Entusiasta,24,9.2
+C1_LOC05_130,C1,C1_LOC05,CONT,SILENTE ANCIANO,"Úsalo para defender, no para conquistar. Y no vuelvas.","Final, severo",9,3.5
+C1_LOC05_140,C1,C1_LOC05,SALIDA,SILENTE JOVEN,"(eco lejano, sólo para Lune) No temas, Espectro.",Tierna,3,1.2
+C1_LOC05_150,C1,C1_LOC05,CONT,GOLIAT,¿Me puedes explicar por qué la nave tiene un escudo nuevo y tú cara de haber visto a tu abuela?,Desconcertado,20,7.7
+C1_LOC05_160,C1,C1_LOC05,CONT,LUNE,En el viaje. Te lo cuento todo en el viaje.,Conmovido,10,3.8
+C1_VIA05_010,C1,C1_VIA05,RUTA 0%,GOLIAT,Bueno. Estamos en la superficie. Te escucho. ¿Quiénes eran?,Impaciente,9,3.5
+C1_VIA05_020,C1,C1_VIA05,CONT,LUNE,Marcianos. Los de verdad. Hechos de energía. No quieren nada de nosotros.,Todavía impresionado,12,4.6
+C1_VIA05_030,C1,C1_VIA05,CONT,GOLIAT,¿Y Brenner tenía razón? ¡Lo sabía! ¡Es un genio incomprendido!,Contento,10,3.8
+C1_VIA05_040,C1,C1_VIA05,CONT,LUNE,Tenía razón en que existen. No en lo que hacen.,Cauto,10,3.8
+C1_VIA05_050,C1,C1_VIA05,RUTA 25%,GOLIAT,"Dijeron que no me podían leer, ¿no? «Todo silencio por dentro».","Más bajo, herido",11,4.2
+C1_VIA05_060,C1,C1_VIA05,CONT,LUNE,Dijeron que no tenías una mente que *ellos* pudieran tocar. No que no tuvieras una.,Lo consuela sin dramatizar,15,5.8
+C1_VIA05_070,C1,C1_VIA05,CONT,GOLIAT,…Eso suena mejor. Lo voy a archivar así.,Reconfortado,8,3.1
+C1_VIA05_080,C1,C1_VIA05,EVT(tormenta),ERRANTE,Tormenta de polvo con carga eléctrica. Visibilidad: cero. Riesgo de impacto: crítico.,Alerta,12,4.6
+C1_VIA05_090,C1,C1_VIA05,CONT,GOLIAT,¡Polvo de Marte! ¡Esto es una tormenta de las que se comen granjas enteras!,Pánico,14,5.4
+C1_VIA05_100,C1,C1_VIA05,CONT,LUNE,"Probemos el regalo. *Errante*, activa el Velo.",Firme,7,2.7
+C1_VIA05_110,C1,C1_VIA05,CONT,ERRANTE,Velo activo. Absorción de energía: total.,Sintético,6,2.3
+C1_VIA05_120,C1,C1_VIA05,CONT,GOLIAT,"…Los rayos nos atraviesan. No: los rayos se mueren en el escudo. Darío, desde fuera debemos parecer un fantasma de humo.",Maravillado,21,8.1
+C1_VIA05_130,C1,C1_VIA05,CONT,LUNE,Un espectro.,Sonrisa,2,0.8
+C1_VIA05_140,C1,C1_VIA05,RUTA 70%,LUNE,"Escúchame bien. En Hesperia, Leo Varga desaparece. Quien aparezca con el Velo es «el Espectro». Nadie puede saber que somos el mismo.",Plan,22,8.5
+C1_VIA05_150,C1,C1_VIA05,CONT,GOLIAT,¿Ni Corvo?,Pícaro,2,0.8
+C1_VIA05_160,C1,C1_VIA05,CONT,LUNE,Corvo sobre todo. Se moriría de un infarto.,Divertido,8,3.1
+C1_VIA05_170,C1,C1_VIA05,RUTA 95%,GOLIAT,"Hesperia a la vista. Darío… antes de que bajemos: sea lo que sea que hagas, yo voy contigo.","Serio, nuevo tono",18,6.9
+C1_VIA05_180,C1,C1_VIA05,CONT,LUNE,Lo sé.,"Breve, cálido",2,0.8
+C1_VIA05_R01,C1,C1_VIA05,IDLE ≥15 s,GOLIAT,"Un escudo de energía marciano. Si se lo cuento a los otros GL-7 en el desguace, se ríen. Bueno, ya no queda ninguno.","Relleno, agridulce",24,9.2
+C1_VIA05_R02,C1,C1_VIA05,IDLE ≥15 s,GOLIAT,¿Puedo llamarlo «Velo de GOLIAT»? Aunque sea de forma no oficial.,Relleno,11,4.2
+C1_LOC06_010,C1,C1_LOC06,LLEGADA,GOLIAT,Cantina «La Polvareda». Zell está en la barra. Tiene la mano debajo de la bandeja.,"Alerta, bajo",15,5.8
+C1_LOC06_020,C1,C1_LOC06,CONT,ZELL,Leo Varga. Creíamos que te había tragado la tormenta.,"Nervioso, mano oculta",9,3.5
+C1_LOC06_030,C1,C1_LOC06,CIN,GOLIAT,¡Arma!,Grito; golpea la bandeja,1,0.4
+C1_LOC06_040,C1,C1_LOC06,CONT,ZELL,¡Me lo mandó Hask! ¡No es nada personal!,Aterrado,8,3.1
+C1_LOC06_050,C1,C1_LOC06,CONT,GOLIAT,Para mí sí es personal. Era mi único amigo y casi me lo agujereas.,"Furioso, grave",14,5.4
+C1_LOC06_060,C1,C1_LOC06,CONT,DRA. SALEH,Nadie se mueve. Agencia Científica Solar. Esta cooperativa queda bajo control federal desde este momento.,"Autoridad, entra",15,5.8
+C1_LOC06_070,C1,C1_LOC06,CONT,LUNE,(bajo) ¿Doctora Saleh?,Sorprendido,2,0.8
+C1_LOC06_080,C1,C1_LOC06,CONT,DRA. SALEH,"Corvo me pidió que lo vigilara, Varga. No me gusta que me pidan vigilar a nadie.",Seca,16,6.2
+C1_LOC06_090,C1,C1_LOC06,INTERACT(registro),GOLIAT,Darío. Con el escudo marciano junto a mi cabeza se me reordenaron los sectores. Recuperé un trozo del archivo.,Sorprendido,19,7.3
+C1_LOC06_100,C1,C1_LOC06,CONT,GOLIAT,"Medianoche. Tractor de Hask. Junto a él, alguien con guantes blancos y negros. Bicolores.","Lento, reproduciendo. **Pista P1-06**",14,5.4
+C1_LOC06_110,C1,C1_LOC06,CONT,LUNE,¿Quién en esta granja usa guantes de dos colores?,Grave,9,3.5
+C1_LOC06_120,C1,C1_LOC06,CONT,GOLIAT,Nadie. Sólo… nadie. No quiero decirlo.,Dolido; se resiste,6,2.3
+C1_LOC06_130,C1,C1_LOC06,INTERACT(despacho de Hask),"ESPECTRO (LUNE, voz filtrada)",Odran Hask.,"Voz con eco metálico, figura de humo",2,0.8
+C1_LOC06_140,C1,C1_LOC06,CONT,HASK,¿Qué demonios…? (dispara) ¡No…! ¡La bala no lo toca!,Pánico,8,3.1
+C1_LOC06_150,C1,C1_LOC06,CONT,ESPECTRO,Sé lo de los viajes de medianoche. Sé lo del Cinturón. Mañana habrá una reunión en la cooperativa. Irás.,Implacable,19,7.3
+C1_LOC06_160,C1,C1_LOC06,CONT,HASK,¿Quién eres?,Aterrado,2,0.8
+C1_LOC06_170,C1,C1_LOC06,CONT,ESPECTRO,El Espectro de Marte.,Se disuelve,4,1.5
+C1_LOC06_180,C1,C1_LOC06,SALIDA,GOLIAT,«El Espectro de Marte». Qué dramático. Me encanta.,Entusiasmo,8,3.1
+C1_DED01_010,C1,C1_DED01,INICIO,ESPECTRO,Alguien en esta sala envenenó a doscientas catorce personas para hundir el precio de las granjas y comprarlas desde el Cinturón.,Solemne,21,8.1
+C1_DED01_020,C1,C1_DED01,CONT,VALDÉS,¿Mi granja? ¿Hundirla para comprarla?,Indignado,5,1.9
+C1_DED01_030,C1,C1_DED01,CONT,ESPECTRO,Busqué a alguien que se sintiera pequeño. Que necesitara que el mundo le diera la razón.,Grave,16,6.2
+C1_DED01_040,C1,C1_DED01,CONT,ZELL,¡Entonces es el robot! ¡Es el más pequeño de todos!,Acusa a GOLIAT,10,3.8
+C1_DED01_050,C1,C1_DED01,CONT,GOLIAT,"¡Repite eso más cerca, que no te oigo desde aquí abajo!",Furioso,11,4.2
+C1_DED01_060,C1,C1_DED01,CONT,ESPECTRO,No se mide la pequeñez en centímetros.,Sentencia; tema del capítulo,7,2.7
+C1_DED01_070,C1,C1_DED01,ACUSACIÓN errónea: Hask,ESPECTRO,"Hask hizo los viajes, sí. Pero Hask no sabe cultivar ni una lechuga.",Respuesta al error,13,5.0
+C1_DED01_080,C1,C1_DED01,ACUSACIÓN errónea: Valdés,GOLIAT,¿Valdés? Prefiere morirse antes que envenenar algo con su apellido. Prueba otra vez.,Respuesta al error,13,5.0
+C1_DED01_090,C1,C1_DED01,ACUSACIÓN errónea: Zell,ZELL,¡Yo sólo hago lo que me dicen! ¡Nadie me cuenta nada!,Respuesta al error; es verdad,11,4.2
+C1_DED01_100,C1,C1_DED01,ACUSACIÓN correcta,ESPECTRO,"Doctor Brenner. Usted cultivó una bacteria marciana que muere al llegar a la Tierra y no deja rastro. Y la inyectó con su arpón tomamuestras, fruta por fruta. «Soy un hombre minucioso».",Firme,32,12.3
+C1_DED01_110,C1,C1_DED01,CONT,BRENNER,Eso es ridículo. Yo defendí que había vida en Marte. ¡Nadie me escuchó!,Pierde la calma,13,5.0
+C1_DED01_120,C1,C1_DED01,CONT,ESPECTRO,"Por eso quería que creyéramos que nos atacaban los marcianos. Para tener razón por fin. GOLIAT, el registro.",Seco,18,6.9
+C1_DED01_130,C1,C1_DED01,CONT,GOLIAT,"(voz quebrada) Medianoche. Hask. Y unos guantes blancos y negros. Usted me aceitaba las juntas con esos guantes, doctor. Los domingos.",Dolido; momento emocional,19,7.3
+C1_DED01_140,C1,C1_DED01,CONT,BRENNER,Eras un robot. Los robots no tienen domingos.,Frío; se le cae la máscara,8,3.1
+C1_DED01_150,C1,C1_DED01,CONT,DRA. SALEH,Brenner es un enfermo. No va a confesar nada útil. Necesitamos saber a quién le pasaba la fruta Hask en el Cinturón.,Profesional,22,8.5
+C1_CIN02_010,C1,C1_CIN02,INICIO,ESPECTRO,"Hask. Esta cápsula lleva el cultivo de Brenner. Trágatela. Si eres inocente, no tienes nada que temer.",Helado,17,6.5
+C1_CIN02_020,C1,C1_CIN02,CONT,HASK,"¡No! ¡No, por favor! ¡Hablo! ¡Llevaba los cajones a un carguero en el desierto! ¡Gente del Cinturón! ¡Piratas!",Derrumbe total,18,6.9
+C1_CIN02_030,C1,C1_CIN02,CONT,ESPECTRO,"Era gelatina, Hask. Pero gracias.",Calma,5,1.9
+C1_CIN02_040,C1,C1_CIN02,CONT,GOLIAT,(bajo) Eso fue cruel.,Impresionado,3,1.2
+C1_CIN02_050,C1,C1_CIN02,CONT,LUNE,Fue necesario. Y me va a costar dormir igual.,Honesto,9,3.5
+C1_CIN03_010,C1,C1_CIN03,INICIO,DRA. SALEH,La ACS le ofrece un puesto de técnico de campo a este… robot. Dice que su registro vale más que un laboratorio entero.,"A Lune, ya sin disfraz",23,8.8
+C1_CIN03_020,C1,C1_CIN03,CONT,GOLIAT,¿Un puesto? ¿Con placa?,Ilusión,4,1.5
+C1_CIN03_030,C1,C1_CIN03,CONT,GOLIAT,…No. Lo rechazo.,"Firme, sorprende",3,1.2
+C1_CIN03_040,C1,C1_CIN03,CONT,LUNE,¿Por qué?,Sorprendido,2,0.8
+C1_CIN03_050,C1,C1_CIN03,CONT,GOLIAT,"Porque se me ha ocurrido algo mejor. Donde vaya tu nave, voy yo. Si me aceptas.",Solemne,16,6.2
+C1_CIN03_060,C1,C1_CIN03,CONT,LUNE,¿Y si te digo que no?,Bromeando,6,2.3
+C1_CIN03_070,C1,C1_CIN03,CONT,GOLIAT,Me cuelo en la bodega. Mido un metro diez. No me vas a encontrar nunca.,Serio-cómico,15,5.8
+C1_CIN03_080,C1,C1_CIN03,CONT,LUNE,"(le tiende la mano) Donde vaya la nave, entonces.",Cálido. **Flag `F_PACTO`**,5,1.9
+C1_CIN03_090,C1,C1_CIN03,CONT,GOLIAT,(le estrecha la mano con cuidado exagerado) Donde vaya la nave.,Emoción contenida,4,1.5
+C1_CIN03_100,C1,C1_CIN03,CONT,CORVO,(llamada) Darío. Me dicen que en Marte apareció un «Espectro». Que no existe ningún informe. Y que tú tienes un robot.,Sospecha,20,7.7
+C1_CIN03_110,C1,C1_CIN03,CONT,LUNE,Lo del robot es verdad.,Inocente,5,1.9
+C1_CIN03_120,C1,C1_CIN03,CONT,GOLIAT,"¡Encantado, directora! ¡Me llamo GOLIAT!",Efusivo,5,1.9
+C1_CIN03_130,C1,C1_CIN03,CONT,CORVO,…Que Dios nos ayude. Vuelvan a casa.,"Exasperada, con cariño. **FIN DEL CAPÍTULO 1**",7,2.7
+C2_BRF01_010,C2,C2_BRF01,INICIO,FERRÁN,"Treinta cargueros saqueados en un año. Los piratas aparecen, desaparecen y nadie sabe dónde tienen la base.",Expositivo,17,6.5
+C2_BRF01_020,C2,C2_BRF01,CONT,CORVO,"La idea de Darío es el *Señuelo*: un carguero automático, sin tripulación, cargado de explosivos. Que lo asalten y que vuele con ellos dentro.",Escéptica,24,9.2
+C2_BRF01_030,C2,C2_BRF01,CONT,FERRÁN,Últimamente todos lo llaman «el Afortunado». Dicen que siempre sale bien parado.,Con humor,12,4.6
+C2_BRF01_040,C2,C2_BRF01,CONT,CORVO,"Lo que me preocupa es su próxima idea brillante. Seguramente, asaltar él solo el consulado de Vega.",Seca,17,6.5
+C2_BRF01_050,C2,C2_BRF01,CONT,GOLIAT,¿Vega? ¿Qué es Vega?,Curioso,4,1.5
+C2_BRF01_060,C2,C2_BRF01,CONT,FERRÁN,"Una excolonia a veinticinco años luz. Pocos habitantes, muchos robots y demasiado orgullo.",Breve. Siembra el antagonista,13,5.0
+C2_BRF01_070,C2,C2_BRF01,CONT,GOLIAT,¿Muchos robots? Me caen bien.,Ingenuo,5,1.9
+C2_BRF01_080,C2,C2_BRF01,CONT,FERRÁN,"No te caerían bien, créeme.",Sombrío,5,1.9
+C2_BRF01_090,C2,C2_BRF01,SALIDA,LUNE,"(aparte, a GOLIAT) El *Señuelo* sale en una hora. Tú y yo vamos dentro, en el cajón de carga número cuatro.",Susurro,18,6.9
+C2_BRF01_100,C2,C2_BRF01,CONT,GOLIAT,¿Dentro de la bomba?,Horrorizado,4,1.5
+C2_BRF01_110,C2,C2_BRF01,CONT,LUNE,Desactivé la carga. Corvo no lo sabe. Le dejé un mensaje.,Tranquilo,11,4.2
+C2_BRF01_120,C2,C2_BRF01,CONT,GOLIAT,Un día la vas a matar de un disgusto. Y después nos va a matar a nosotros.,Resignado,17,6.5
+C2_VIA01_010,C2,C2_VIA01,RUTA 0%,GOLIAT,"Para que conste: hay sitio para un robot en el cajón cuatro. Para un robot y medio, no. Y tú eres el medio.","Apretado, molesto",23,8.8
+C2_VIA01_020,C2,C2_VIA01,CONT,LUNE,Pilota suave. Tiene que parecer una nave automática.,Bajo,8,3.1
+C2_VIA01_030,C2,C2_VIA01,RUTA 15%,CORVO,(mensaje grabado) Darío. Acabo de leer tu nota. «No se enfade». ¿Sabes lo que voy a hacer cuando vuelvas? Nada. Voy a abrazarte y después te voy a cortar la cabeza.,Furia y miedo,29,11.2
+C2_VIA01_040,C2,C2_VIA01,CONT,GOLIAT,Me cae bien tu jefa.,Divertido,5,1.9
+C2_VIA01_050,C2,C2_VIA01,RUTA 30%,LUNE,"Cuando nos aborden, soy Leo Varga, fugitivo de Marte. Busco trabajo con ellos. Tú te quedas en el cajón.",Plan,19,7.3
+C2_VIA01_060,C2,C2_VIA01,CONT,GOLIAT,¿Y si te disparan?,Serio,4,1.5
+C2_VIA01_070,C2,C2_VIA01,CONT,LUNE,Entonces sales del cajón.,Ligero,4,1.5
+C2_VIA01_080,C2,C2_VIA01,CONT,GOLIAT,Eso no es un plan. Es una esperanza con botas.,Seco,10,3.8
+C2_VIA01_090,C2,C2_VIA01,RUTA 50%,LUNE,"(para sí, mirando el Cinturón) Mis padres pasaron por aquí rumbo a Venus. Yo tenía cuatro años. Me metieron en una cápsula y me dijeron que no llorara.",Íntimo,23,8.8
+C2_VIA01_100,C2,C2_VIA01,CONT,GOLIAT,…¿Y lloraste?,Suave,2,0.8
+C2_VIA01_110,C2,C2_VIA01,CONT,LUNE,No. Por eso los recuerdo tan bien.,Contenido,7,2.7
+C2_VIA01_120,C2,C2_VIA01,EVT(abordaje),ERRANTE,(repetidor) Contacto: nave no identificada. Perfil del casco: diseño no federal.,Alerta,10,3.8
+C2_VIA01_130,C2,C2_VIA01,CONT,GOLIAT,"Darío, mira esas líneas. Esas naves no las hicieron en el Cinturón. Son demasiado elegantes.",Bajo. **Pista P2-01**,15,5.8
+C2_VIA01_140,C2,C2_VIA01,CONT,DUNN,(altavoz) ¡Carguero! ¡Motores apagados o te abrimos como una lata!,Agresivo,9,3.5
+C2_VIA01_150,C2,C2_VIA01,CONT,LUNE,"(abre la escotilla, manos en alto) No hace falta abrir nada. Vengo a pedir trabajo.",Calmado,9,3.5
+C2_VIA01_R01,C2,C2_VIA01,IDLE ≥15 s,GOLIAT,"El cajón huele a lubricante viejo. No, espera, ese soy yo.",Relleno,11,4.2
+C2_VIA01_R02,C2,C2_VIA01,IDLE ≥15 s,GOLIAT,"Si nos aburrimos mucho, podemos jugar a adivinar asteroides. Empiezo yo: es gris.",Relleno,13,5.0
+C2_VIA01_R03,C2,C2_VIA01,IDLE ≥15 s,LUNE,(para sí) Cincuenta mil rocas sin ley. Es el sitio perfecto para esconder cualquier cosa.,Relleno,13,5.0
+C2_LOC02_010,C2,C2_LOC02,LLEGADA,VAREK,Un polizón que pide trabajo. Qué refinado. ¿Nombre?,"Divertido, mirándose las uñas",8,3.1
+C2_LOC02_020,C2,C2_LOC02,CONT,LUNE,Leo Varga. En Marte me buscan por un asunto de una granja.,Tranquilo,12,4.6
+C2_LOC02_030,C2,C2_LOC02,CONT,VAREK,"Aquí no somos piratas, Varga. Somos gente del Cinturón. Los piratas son los que cobran impuestos en la Tierra.",Teatral,19,7.3
+C2_LOC02_040,C2,C2_LOC02,CONT,VAREK,"Te advierto algo: miento, robo y hago trampas a las cartas. Pero mi palabra no la rompo nunca. Si te doy un puesto, es tuyo.",Solemne,25,9.6
+C2_LOC02_050,C2,C2_LOC02,CONT,DUNN,"Capitán, este huele a Tierra. Déjame comprobar de qué está hecho.",Amenaza,11,4.2
+C2_LOC02_060,C2,C2_LOC02,CONT,VAREK,"Un duelo, entonces. Pistolas de impulso, gravedad cero. Quien toque la pared pierde.",Entusiasmado,13,5.0
+C2_LOC02_070,C2,C2_LOC02,CONT,GOLIAT,"(canal subvocal) ¡Polvo de Marte! Darío, ¿qué es una pistola de impulso?","Alarmado, susurro",10,3.8
+C2_LOC02_080,C2,C2_LOC02,CONT,LUNE,"(subvocal) Un chorro de gas. El que mejor sepa frenar, gana.",Concentrado,10,3.8
+C2_LOC02_090,C2,C2_LOC02,"EVT(duelo) fin, victoria",DUNN,(contra la pared) ¡Me hiciste trampa!,Humillado,3,1.2
+C2_LOC02_100,C2,C2_LOC02,CONT,VAREK,"No, Dunn. Te hizo física. Bienvenido, Varga.",Complacido,7,2.7
+C2_LOC02_110,C2,C2_LOC02,EXPLORAR,TOBÍAS RUE,Bien hecho. Dunn llevaba un año sin perder. Soy Tobías. Tengo mujer e hijos en un pedrusco cerca de Palas. Aquí no somos todos monstruos.,Cálido,25,9.6
+C2_LOC02_120,C2,C2_LOC02,INTERACT(Rue),LUNE,¿Quién manda de verdad aquí? ¿Varek?,Casual,6,2.3
+C2_LOC02_130,C2,C2_LOC02,CONT,TOBÍAS RUE,Varek manda en esta nave. Por encima está el Jefe. Nadie lo ve. Dicen que vive solo y que no sale nunca de su roca.,Bajo. **Pista P2-02**,25,9.6
+C2_LOC02_140,C2,C2_LOC02,CONT,VAREK,"Varga, te dejo con un viejo amigo que necesita un peón. Un ermitaño. Si te portas bien, vuelvo a buscarte.","Ligero, sospechoso",20,7.7
+C2_LOC02_150,C2,C2_LOC02,SALIDA,GOLIAT,"(subvocal) Sigo en el cajón. Me lo han cargado en la lanzadera, contigo. Esto empieza a parecerme un hogar.",Sarcástico,18,6.9
+C2_VIA02_010,C2,C2_VIA02,RUTA 0%,TOBÍAS RUE,El viejo Hollis lleva veinte años en su roca. Cultiva levadura y no molesta a nadie.,Distendido,16,6.2
+C2_VIA02_020,C2,C2_VIA02,RUTA 30%,LUNE,¿Y los piratas lo dejan en paz?,Casual,7,2.7
+C2_VIA02_030,C2,C2_VIA02,CONT,TOBÍAS RUE,"Los piratas lo quieren. Le traen cosas. Raro, ¿verdad?",Sin malicia,9,3.5
+C2_VIA02_040,C2,C2_VIA02,RUTA 60%,GOLIAT,(subvocal) «Le traen cosas». Apúntalo.,Susurro,4,1.5
+C2_VIA02_050,C2,C2_VIA02,RUTA 90%,TOBÍAS RUE,"Ahí está. Cuatro kilómetros de roca y una casita. Suerte, Varga.",Despedida,11,4.2
+C2_VIA02_R01,C2,C2_VIA02,IDLE ≥15 s,TOBÍAS RUE,Mi hija quiere ser piloto. Le digo que primero aprenda a esquivar a su madre.,Relleno,15,5.8
+C2_VIA02_R02,C2,C2_VIA02,IDLE ≥15 s,GOLIAT,(subvocal) Me pica una junta y no puedo rascármela. Es una tortura.,Relleno,11,4.2
+C2_LOC03_010,C2,C2_LOC03,LLEGADA,HOLLIS,"Pasa, muchacho. No tengo visitas desde hace meses. ¿Té?",Afable,9,3.5
+C2_LOC03_020,C2,C2_LOC03,INTERACT(despensa),GOLIAT,"(sale del cajón) Darío, mira esto. Alfombras de Venus. Vino de la Tierra. Esta levadura no es la que él cultiva. Este «ermitaño» vive como un ministro.",Bajo. **Pista P2-03**,24,9.2
+C2_LOC03_030,C2,C2_LOC03,CONT,HOLLIS,Vaya. Un robot. Hacía años que no veía uno en el Cinturón.,"Sorprendido, demasiado interesado",12,4.6
+C2_LOC03_040,C2,C2_LOC03,CONT,GOLIAT,GOLIAT. No «un robot».,Ofendido,4,1.5
+C2_LOC03_050A,C2,C2_LOC03,ELECCIÓN,LUNE (A),Vive muy bien para ser un ermitaño.,Directo,7,2.7
+C2_LOC03_050B,C2,C2_LOC03,ELECCIÓN,LUNE (B),¿Conoce al Jefe de los piratas?,Arriesgado,6,2.3
+C2_LOC03_060,C2,C2_LOC03,COND(A),HOLLIS,Los piratas me pagan bien la levadura. Y nadie pregunta.,Tranquilo,10,3.8
+C2_LOC03_070,C2,C2_LOC03,COND(B),HOLLIS,El Jefe es una leyenda que los piratas se cuentan para dormir.,Sonrisa,12,4.6
+C2_LOC03_080,C2,C2_LOC03,CONT,HOLLIS,Cuando te enfadas frunces el ceño igual que un hombre que conocí. Un tal Lune. Viajaba a Venus.,"Pausado, inquietante",18,6.9
+C2_LOC03_090,C2,C2_LOC03,CONT,LUNE,(silencio de tres segundos) Darío Lune. Ése es mi nombre. Era mi padre.,"Contenido, tenso",9,3.5
+C2_LOC03_100,C2,C2_LOC03,CONT,HOLLIS,"Lo sospechaba. Entonces no eres un fugitivo. Toma mi lanzadera, hijo. Vete antes de que vuelva Varek.",Aparentemente generoso,17,6.5
+C2_LOC03_110,C2,C2_LOC03,CONT,GOLIAT,(bajo) ¿Nos regala la nave? Qué amable. Qué sospechoso.,Desconfiado,8,3.1
+C2_LOC03_120,C2,C2_LOC03,SALIDA,LUNE,"*Errante*, ¿me oyes? Ven a buscarme. Coordenadas adjuntas.",Llamada remota,8,3.1
+C2_LOC03_130,C2,C2_LOC03,CONT,ERRANTE,"Siguiendo al *Señuelo* a distancia, según instrucciones previas. Llegada: seis minutos.",Sintético,11,4.2
+C2_LOC03_140,C2,C2_LOC03,CONT,GOLIAT,¿Nos venía siguiendo? ¿Todo el tiempo? ¿Y yo en un cajón?,Indignado,11,4.2
+C2_VIA03_010,C2,C2_VIA03,RUTA 0%,GOLIAT,"Por fin, asientos. Asientos de verdad. Te perdono un cuarenta por ciento.",Aliviado,12,4.6
+C2_VIA03_020,C2,C2_VIA03,RUTA 20%,GOLIAT,Darío… lo de tu padre. ¿Estás bien?,"Torpe, sincero",7,2.7
+C2_VIA03_030,C2,C2_VIA03,CONT,LUNE,"Un hombre que vive solo en una roca, que conocía a mi padre y que recibe regalos de los piratas. No, no estoy bien. Estoy pensando.","Frío, controlado",26,10.0
+C2_VIA03_040,C2,C2_VIA03,RUTA 45%,CORVO,(llamada) ¡Darío! ¡El *Señuelo* llegó vacío a la base pirata y no explotó! ¿Qué hiciste?,Al borde del grito,14,5.4
+C2_VIA03_050,C2,C2_VIA03,CONT,LUNE,"Lo desactivé. Si explotaba, perdíamos la única pista. Nos vemos en Ceres. Le explico todo.",Sereno,15,5.8
+C2_VIA03_060,C2,C2_VIA03,CONT,CORVO,"Me lo vas a explicar despacio, con dibujos.",Amenaza cariñosa,8,3.1
+C2_VIA03_070,C2,C2_VIA03,RUTA 70%,GOLIAT,Ceres. La roca más grande del Cinturón. ¿Es verdad que ahí se pesa casi nada?,Curioso,15,5.8
+C2_VIA03_080,C2,C2_VIA03,CONT,LUNE,"Pesarás un kilo, más o menos.",Divertido,6,2.3
+C2_VIA03_090,C2,C2_VIA03,CONT,GOLIAT,Por fin un sitio donde nadie me va a llamar «pesado».,Contento,11,4.2
+C2_VIA03_100,C2,C2_VIA03,RUTA 95%,ERRANTE,Ceres. Observatorio federal. Pista de aterrizaje tres.,Sintético,7,2.7
+C2_VIA03_R01,C2,C2_VIA03,IDLE ≥15 s,GOLIAT,Dicen que Júpiter no dejó que estas rocas formaran un planeta. Júpiter es el matón del barrio.,Relleno,17,6.5
+C2_VIA03_R02,C2,C2_VIA03,IDLE ≥15 s,LUNE,(para sí) «Frunces el ceño igual que él». ¿Cómo de cerca hay que estar para recordar el ceño de alguien?,"Relleno, clave dramática",18,6.9
+C2_LOC04_010,C2,C2_LOC04,LLEGADA,CMDTE. PAREDES,"Bienvenido a Ceres, inspector. La directora lo espera en la cúpula. Y no está contenta.",Militar,15,5.8
+C2_LOC04_020,C2,C2_LOC04,CONT,ESTIBADOR,"¡Eh, chiquitín! ¿Te perdiste de la guardería?",Burla,7,2.7
+C2_LOC04_030,C2,C2_LOC04,CONT,GOLIAT,"(lo empuja: con un kilo de peso, el estibador sale flotando) Aquí todos pesamos lo mismo, amigo. Casi nada.",Triunfal,8,3.1
+C2_LOC04_040,C2,C2_LOC04,CONT,LUNE,GOLIAT.,Freno,1,0.4
+C2_LOC04_050,C2,C2_LOC04,CONT,GOLIAT,Fue la física. Yo no hice nada.,Inocente,7,2.7
+C2_LOC04_060,C2,C2_LOC04,INTERACT(Corvo),CORVO,Habla.,Brazos cruzados,1,0.4
+C2_LOC04_070,C2,C2_LOC04,CONT,LUNE,"Hay un espía de Vega en nuestra base lunar. Sé quién es desde hace un mes. Le dejé ver el plan del *Señuelo*. Si los piratas sabían que era una trampa, alguien se lo contó.",Calmado,35,13.5
+C2_LOC04_080,C2,C2_LOC04,CONT,CORVO,…Usaste al espía como cartero.,Comprende,5,1.9
+C2_LOC04_090,C2,C2_LOC04,CONT,LUNE,Y las naves piratas tienen diseño vegano. Vega les da las naves; los piratas desangran nuestras rutas. Vega no dispara ni un tiro.,Firme. **`F_VEGA_CONOCIDA`**,23,8.8
+C2_LOC04_100,C2,C2_LOC04,CONT,CORVO,"No tenemos flota propia, Darío. Si queremos que la Armada actúe, necesitamos la base.",Preocupada,14,5.4
+C2_LOC04_110,C2,C2_LOC04,INTERACT(telescopio),CMDTE. PAREDES,Espejo de veinticinco metros. Desde aquí vemos cualquier destello en el Cinturón.,Orgullo profesional,12,4.6
+C2_LOC04_120,C2,C2_LOC04,CONT,LUNE,¿Cualquier destello? Recuérdelo. Puede que le pida que mire hacia un sitio concreto.,Plan en marcha,13,5.0
+C2_LOC04_130,C2,C2_LOC04,SALIDA,GOLIAT,¿Adónde vamos?,Listo,2,0.8
+C2_LOC04_140,C2,C2_LOC04,CONT,LUNE,Adonde nadie va: a la Zona Prohibida.,Serio,7,2.7
+C2_LOC04_150,C2,C2_LOC04,CONT,GOLIAT,Me encantan los nombres que no prometen nada bueno.,Sarcástico,9,3.5
+C2_VIA04_010,C2,C2_VIA04,RUTA 0%,ERRANTE,Entrando en la zona de resonancia con Júpiter. Densidad de objetos: alta. Tráfico civil: prohibido.,Sintético,15,5.8
+C2_VIA04_020,C2,C2_VIA04,CONT,GOLIAT,Nadie viene aquí porque Júpiter tira de las rocas y las vuelve locas. Es el escondite perfecto.,Comprende,17,6.5
+C2_VIA04_030,C2,C2_VIA04,RUTA 20%,GOLIAT,Roca a las dos. Roca a las cuatro. Roca… en todas partes. ¿Te había dicho que odio las rocas?,Tenso,19,7.3
+C2_VIA04_040,C2,C2_VIA04,CONT,LUNE,Fuiste minero treinta años.,Divertido,4,1.5
+C2_VIA04_050,C2,C2_VIA04,CONT,GOLIAT,Por eso las odio. Las conozco.,Seco,6,2.3
+C2_VIA04_060,C2,C2_VIA04,RUTA 40%,LUNE,"Si me pasa algo, vuelves a Ceres con la *Errante* y le cuentas todo a Corvo.",Grave,16,6.2
+C2_VIA04_070,C2,C2_VIA04,CONT,GOLIAT,No.,Inmediato,1,0.4
+C2_VIA04_080,C2,C2_VIA04,CONT,LUNE,"GOLIAT, te necesito vivo y en Ceres más de lo que te necesito valiente. Si no vuelves tú, nadie sabrá lo que encontramos. Prométemelo.",Firme; momento clave de la relación,24,9.2
+C2_VIA04_090,C2,C2_VIA04,CONT,GOLIAT,(pausa larga) …Eso ha sido un golpe bajo. Lo haré. Pero no me va a gustar.,"Herido, obediente",14,5.4
+C2_VIA04_100,C2,C2_VIA04,RUTA 65%,GOLIAT,Detecto una masa metálica. Grande. Se está… moviendo. Los asteroides no se mueven así.,Alarmado,14,5.4
+C2_VIA04_110,C2,C2_VIA04,EVT(cable magnético),ERRANTE,Impacto: cable magnético en el casco. Nave remolcada.,Alerta,8,3.1
+C2_VIA04_120,C2,C2_VIA04,CONT,DUNN,"(radio) Hola, Varga. ¿O debería decir «inspector»? Bienvenido a casa.",Satisfacción cruel,9,3.5
+C2_VIA04_R01,C2,C2_VIA04,IDLE ≥15 s,GOLIAT,Sigo odiando las rocas. Por si había alguna duda.,Relleno,9,3.5
+C2_VIA04_R02,C2,C2_VIA04,IDLE ≥15 s,ERRANTE,Proximidad: objeto a ciento veinte metros.,Relleno de sistema,6,2.3
+C2_LOC05_010,C2,C2_LOC05,LLEGADA,DUNN,El capitán dice que debe parecer un accidente. Un inspector que sale a pasear sin nave.,Burlón,16,6.2
+C2_LOC05_020,C2,C2_LOC05,INTERACT(sala de máquinas),GOLIAT,"(radio) Darío, antes de que te echen: aquí hay motores. Motores enormes. Las etiquetas están en vegano. Esta roca es una nave.",**Pista P2-04**,21,8.1
+C2_LOC05_030,C2,C2_LOC05,CIN,DUNN,"Adiós, inspector.",Lo empuja por la esclusa,2,0.8
+C2_LOC05_040,C2,C2_LOC05,EVT(EVA),LUNE,(respirando fuerte) Bien. Tengo veinte minutos de aire y un cilindro de oxígeno. Ésa es mi nave ahora.,Controlado,16,6.2
+C2_LOC05_050,C2,C2_LOC05,CONT,GOLIAT,(radio) ¡Darío! ¡Están intentando entrar en la *Errante*! ¡Les he cerrado las compuertas! ¡Le estoy mordiendo la mano a uno! ¡Metafóricamente!,"Caos, combate",20,7.7
+C2_LOC05_060,C2,C2_LOC05,CONT,LUNE,Aguanta. Dirige el rayo térmico de la nave hacia el valle del vertedero.,Concentrado,13,5.0
+C2_LOC05_070,C2,C2_LOC05,CONT,GOLIAT,¿El vertedero? ¿Las latas? ¿Ahora te interesa el reciclaje?,Desconcertado,9,3.5
+C2_LOC05_080,C2,C2_LOC05,CONT,LUNE,Funde las latas. Un valle de metal fundido es un espejo. Y Ceres tiene un telescopio de veinticinco metros que ve cualquier destello.,Revela el plan,23,8.8
+C2_LOC05_090,C2,C2_LOC05,CONT,GOLIAT,…Eres un genio insoportable. Disparando.,Admiración,5,1.9
+C2_LOC05_100,C2,C2_LOC05,CIN,CMDTE. PAREDES,(radio) Ceres a ACS: tenemos un destello en la Zona Prohibida. Posición fijada.,Profesional,12,4.6
+C2_LOC05_110,C2,C2_LOC05,CONT,LUNE,"(sube a bordo, jadeando) Hola, GOLIAT.",Agotado,2,0.8
+C2_LOC05_120,C2,C2_LOC05,CONT,GOLIAT,Hola. Hueles a vacío. Nunca lo vuelvas a hacer.,"Aliviado, regañando",9,3.5
+C2_LOC05_130,C2,C2_LOC05,CONT,CMDTE. PAREDES,(alarma) ¡Ataque a Ceres! ¡Treinta naves! ¡Diseño no federal!,Urgente,8,3.1
+C2_LOC05_140,C2,C2_LOC05,CONT,ERRANTE,Firma de Varek detectada. Rumbo: Ganímedes. Rumbo directo: once días.,Sintético,10,3.8
+C2_LOC05_150,C2,C2_LOC05,CONT,LUNE,"Si escapa a Ganímedes, los veganos lo esperan allí y perdemos todo. Hay un camino más corto.",Decidido,17,6.5
+C2_LOC05_160,C2,C2_LOC05,CONT,GOLIAT,¿Cuál?,Temiéndose lo peor,1,0.4
+C2_LOC05_170,C2,C2_LOC05,CONT,LUNE,Por el Sol.,Seco,3,1.2
+C2_LOC05_180,C2,C2_LOC05,CONT,GOLIAT,…Por el Sol. Claro. Es lunes. ¿Por qué no?,Resignación absoluta,9,3.5
+C2_VIA05_010,C2,C2_VIA05,RUTA 0%,ERRANTE,Advertencia: la trayectoria atraviesa la corona solar a ocho millones de kilómetros. Supervivencia sin protección: nula.,Alerta,16,6.2
+C2_VIA05_020,C2,C2_VIA05,CONT,LUNE,"Con protección. *Errante*, prepara el Velo.",Firme,6,2.3
+C2_VIA05_030,C2,C2_VIA05,RUTA 20%,GOLIAT,"¿Sabes qué? Si me fundo, quiero que mis piezas vuelvan a Marte. Y que alguien diga algo bonito. Algo largo.",Medio en broma,20,7.7
+C2_VIA05_040,C2,C2_VIA05,CONT,LUNE,«Aquí yace GOLIAT. Era más grande de lo que medía».,Cariñoso,10,3.8
+C2_VIA05_050,C2,C2_VIA05,CONT,GOLIAT,"…Corto, pero lo acepto.",Conmovido,4,1.5
+C2_VIA05_060,C2,C2_VIA05,EVT(corona),ERRANTE,Velo al ciento doce por ciento. Temperatura exterior: dos millones de grados.,Alerta,12,4.6
+C2_VIA05_070,C2,C2_VIA05,CONT,GOLIAT,"¡Todo es blanco! ¡Darío, todo es blanco y está vivo! ¡Las llamas se mueven como algas!",Asombro y terror,16,6.2
+C2_VIA05_080,C2,C2_VIA05,CONT,LUNE,Mantén los ojos en los instrumentos.,Tenso,6,2.3
+C2_VIA05_090,C2,C2_VIA05,CONT,GOLIAT,"¡No tengo ojos, tengo sensores, y los sensores están GRITANDO!",Pánico cómico,10,3.8
+C2_VIA05_100,C2,C2_VIA05,EVT fin,ERRANTE,Salida de la corona. Velo: catorce por ciento. Velocidad: récord de la nave.,Sintético,13,5.0
+C2_VIA05_110,C2,C2_VIA05,CONT,GOLIAT,Estamos vivos. Estamos vivos y somos rapidísimos.,Euforia,7,2.7
+C2_VIA05_120,C2,C2_VIA05,RUTA 75%,LUNE,Mira. Ahí atrás. Ese puntito azul es la Tierra. Desde ella salió toda la gente que hoy vive en las estrellas. Incluida Vega.,Contemplativo,23,8.8
+C2_VIA05_130,C2,C2_VIA05,CONT,GOLIAT,Es pequeñita.,Sorprendido,2,0.8
+C2_VIA05_140,C2,C2_VIA05,CONT,LUNE,Sí. No hace falta ser grande para importar.,Mira a GOLIAT,8,3.1
+C2_VIA05_150,C2,C2_VIA05,CONT,GOLIAT,…¿Eso iba por mí?,Emocionado,4,1.5
+C2_VIA05_160,C2,C2_VIA05,CONT,LUNE,"Iba por la Tierra. Pero si quieres, quédatelo.",Sonrisa,8,3.1
+C2_VIA05_170,C2,C2_VIA05,RUTA 95%,ERRANTE,Ganímedes a la vista. Firma de Varek: aterrizando en el sector norte.,Sintético,12,4.6
+C2_VIA05_R01,C2,C2_VIA05,IDLE ≥15 s,GOLIAT,¿Cuánta gente ha pasado tan cerca del Sol y lo ha podido contar? Para que lo ponga en mi currículum.,Relleno,20,7.7
+C2_VIA05_R02,C2,C2_VIA05,IDLE ≥15 s,GOLIAT,Ganímedes es más grande que Mercurio. ¿Lo sabías? Yo tampoco. Me lo acaba de decir tu nave. Es lo más largo que ha dicho nunca.,Relleno,25,9.6
+C2_LOC06_010,C2,C2_LOC06,LLEGADA,VAREK,¡Varga! ¿Cómo llegaste antes que yo? ¿Viniste volando por el infierno?,"Asombrado, admirativo",11,4.2
+C2_LOC06_020,C2,C2_LOC06,CONT,LUNE,Por el Sol. Es más rápido.,Seco,6,2.3
+C2_LOC06_030,C2,C2_LOC06,CONT,VAREK,Qué estilo. Casi me da pena. ¿Ahora me vas a leer mis derechos con esa cara de colegial?,Burla elegante,18,6.9
+C2_LOC06_040,C2,C2_LOC06,CONT,HOLLIS,"(entra, armado) Tranquilo, muchacho. Vine a ayudarte.",Afable,5,1.9
+C2_LOC06_050,C2,C2_LOC06,CIN,VAREK,"Hollis, viejo, ¿qué haces…?",Dispara por la espalda; Varek cae,4,1.5
+C2_LOC06_060,C2,C2_LOC06,CONT,GOLIAT,¡Le disparó por la espalda! ¡A un hombre que estaba de su lado!,Horrorizado,13,5.0
+C2_LOC06_070,C2,C2_LOC06,CONT,HOLLIS,"Te salvé la vida, hijo. Un pirata menos.","Sereno, demasiado sereno",8,3.1
+C2_DED01_010,C2,C2_DED01,INTERACT(nave de Hollis),GOLIAT,Darío. El transpondedor de su nave tiene el mismo código que la roca de los motores. Su nave sabe ir a casa. A la base.,**Pista P2-05**,25,9.6
+C2_DED01_020,C2,C2_DED01,ACUSACIÓN errónea: Varek,GOLIAT,"Varek está muerto, Darío, y era un mandado. Los mandados no viven en alfombras de Venus.",Respuesta al error,16,6.2
+C2_DED01_030,C2,C2_DED01,ACUSACIÓN errónea: Dunn,LUNE,Dunn obedece. No piensa. Este plan lo pensó alguien con mucha paciencia.,Respuesta al error,12,4.6
+C2_DED01_040,C2,C2_DED01,ACUSACIÓN correcta,LUNE,"Usted es el Jefe, Hollis. El que «vive solo y no sale nunca». Su roca no cultiva levadura: cobra el botín. Y mató a Varek porque Varek sabía demasiado.",Firme,29,11.2
+C2_DED01_050,C2,C2_DED01,CONT,HOLLIS,Eres listo. Como tu padre. Él también se negó a rendirse aquella vez. Por eso tuve que disparar a la cabina.,Confesión cruel,21,8.1
+C2_DED01_060,C2,C2_DED01,CONT,GOLIAT,…Darío.,"Muy bajo, alarmado",1,0.4
+C2_DED01_070,C2,C2_DED01,CONT,LUNE,(pausa de cuatro segundos; el arma tiembla),Silencio actuado: respiración,0,0.0
+C2_DED01_080A,C2,C2_DED01,ELECCIÓN,LUNE (A),"Abel Hollis, queda detenido por la Agencia Científica Solar.",La única opción válida; la (B) está bloqueada,9,3.5
+C2_DED01_080B,C2,C2_DED01,ELECCIÓN BLOQUEADA,LUNE (B),[Disparar],Se muestra en gris: «Lune no es así»,1,0.4
+C2_DED01_090,C2,C2_DED01,CONT,HOLLIS,¿No me matas?,Desconcertado,3,1.2
+C2_DED01_100,C2,C2_DED01,CONT,LUNE,Me sirve más vivo. Usted sabe con quién habla Vega.,Helado,10,3.8
+C2_CIN01_010,C2,C2_CIN01,INICIO,FERRÁN,"Llegamos a las bases antes que la Armada. Si hubieran entrado disparando, el Cinturón tendría piratas nuevos dentro de un año.",Satisfecho,21,8.1
+C2_CIN01_020,C2,C2_CIN01,CONT,LUNE,"La mayoría no sabía que trabajaba para Vega. Si les damos agua, energía y créditos para sus granjas de levadura, ya no necesitarán piratas. Así se hace la paz.",Convencido,29,11.2
+C2_CIN01_030,C2,C2_CIN01,CONT,GOLIAT,Paz. Hasta que Vega mande la factura.,Escéptico; anuncia el arco,7,2.7
+C2_CIN01_040,C2,C2_CIN01,CONT,CORVO,Hollis irá a la prisión de por vida. Darío… era el hombre que mató a tus padres. Y no disparaste.,Conmovida,20,7.7
+C2_CIN01_050,C2,C2_CIN01,CONT,LUNE,"Si disparaba, ganaba él. Otra vez.",Bajo,6,2.3
+C2_CIN01_060,C2,C2_CIN01,CONT,GOLIAT,Mis Protocolos no me dejan hacerle daño. Pero un pisotón leve… creo que un pisotón leve entra en la letra pequeña.,Indignado y cariñoso,21,8.1
+C2_CIN01_070,C2,C2_CIN01,CONT,LUNE,Por eso la letra pequeña la leo yo.,Sonrisa cansada. **FIN DEL CAPÍTULO 2**,8,3.1
+C3_VIA01_010,C3,C3_VIA01,RUTA 0%,CORVO,(holograma) Marco Ibsen. Tu compañero de cuarto en la academia. Venus lo acusa de vender datos de los cultivos de levadura.,Grave,20,7.7
+C3_VIA01_020,C3,C3_VIA01,CONT,LUNE,Marco no vende ni su almuerzo. Le cuesta hasta prestar un lápiz.,Incrédulo,12,4.6
+C3_VIA01_030,C3,C3_VIA01,CONT,CORVO,Te mandó un mensaje antes de desaparecer de las comunicaciones. Dos palabras.,Inquieta,12,4.6
+C3_VIA01_040,C3,C3_VIA01,CONT,MARCO (grabación),¡No vengas!,"Desesperado, ruido de fondo",2,0.8
+C3_VIA01_050,C3,C3_VIA01,CONT,GOLIAT,"Bueno, ya sabemos adónde vamos.",Inmediato,5,1.9
+C3_VIA01_060,C3,C3_VIA01,CONT,CORVO,(casi sonríe) Ese robot te conoce demasiado bien.,Resignada,6,2.3
+C3_VIA01_070,C3,C3_VIA01,RUTA 25%,FERRÁN,Datos de Venus: un océano global bajo nubes de dióxido de carbono. Ni una gota de oxígeno libre en el aire. Las ciudades viven bajo cúpulas en el fondo del mar.,Didáctico. **Siembra P3-04**,31,11.9
+C3_VIA01_080,C3,C3_VIA01,CONT,GOLIAT,¿Ni oxígeno? ¿Y los bichos de allí cómo respiran?,Curioso,9,3.5
+C3_VIA01_090,C3,C3_VIA01,CONT,FERRÁN,"No respiran como nosotros. Y nada se quema en Venus, GOLIAT. Nunca. No hay fuego natural.",Didáctico; remarcarlo,16,6.2
+C3_VIA01_100,C3,C3_VIA01,RUTA 50%,GOLIAT,"Darío, ¿cómo era Marco? En la academia.",Interesado,7,2.7
+C3_VIA01_110,C3,C3_VIA01,CONT,LUNE,Roncaba como un reactor averiado. Me enseñó a jugar al ajedrez tridimensional y a perder sin enfadarme. Es de las personas más honradas que conozco.,Cariñoso,25,9.6
+C3_VIA01_120,C3,C3_VIA01,CONT,GOLIAT,Entonces ya me cae bien. Salvo por lo de los ronquidos.,Ligero,11,4.2
+C3_VIA01_130,C3,C3_VIA01,RUTA 75%,GOLIAT,¿Qué crees que pasa?,Serio,4,1.5
+C3_VIA01_140,C3,C3_VIA01,CONT,LUNE,Que alguien le hizo hacer algo que él no quería hacer. Y que él lo sabe. Por eso dijo «no vengas».,Grave,21,8.1
+C3_VIA01_150,C3,C3_VIA01,RUTA 95%,ERRANTE,Estación orbital Venus-2. Altitud: tres mil kilómetros. Una órbita cada tres horas.,Sintético,13,5.0
+C3_VIA01_R01,C3,C3_VIA01,IDLE ≥15 s,GOLIAT,Venus desde aquí parece una perla. Una perla con muy mal carácter.,Relleno,12,4.6
+C3_VIA01_R02,C3,C3_VIA01,IDLE ≥15 s,LUNE,"(para sí) Marco, ¿en qué te metiste?",Relleno,5,1.9
+C3_VIA01_R03,C3,C3_VIA01,IDLE ≥15 s,GOLIAT,¿Las ciudades en el fondo del mar tienen ventanas? Pregunto por la vista. Y por las goteras.,Relleno,17,6.5
+C3_LOC01_010,C3,C3_LOC01,LLEGADA,PILOTO REVAL,Bienvenidos. Bajamos en la *Marea Alta*. La *Errante* se queda aquí: no está hecha para el agua.,Profesional,17,6.5
+C3_LOC01_020,C3,C3_LOC01,CONT,PILOTO OKORO,"Primera vez en Venus, ¿no? Les va a encantar. Todo el mundo tiene una mascota.",Afable,15,5.8
+C3_LOC01_030,C3,C3_LOC01,EXPLORAR,GOLIAT,Mira ese tipo: bigote enorme. Y ese otro. Y ése. ¿Aquí el bigote es obligatorio?,Divertido,15,5.8
+C3_LOC01_040,C3,C3_LOC01,CONT,PILOTO OKORO,Es la moda. Venus es un planeta de gente con bigote.,Ríe,11,4.2
+C3_LOC01_050,C3,C3_LOC01,SALIDA,LUNE,"(bajo, a GOLIAT) Cuidado. Aquí todo es demasiado amable.",Alerta,6,2.3
+C3_VIA02_010,C3,C3_VIA02,RUTA 0%,PILOTO REVAL,Atravesamos las nubes en cuatro minutos. Abróchense.,Rutina,7,2.7
+C3_VIA02_020,C3,C3_VIA02,RUTA 30%,GOLIAT,Nubes. Más nubes. Venus es una almohada gigante con olor a azufre.,Ambiente,12,4.6
+C3_VIA02_030,C3,C3_VIA02,RUTA 50%,LUNE,"(de pronto, aturdido) ¿GOLIAT…? Tengo… sueño. Qué raro…","Voz pastosa (también lo afecta, levemente)",5,1.9
+C3_VIA02_040,C3,C3_VIA02,EVT(pilotos en blanco),GOLIAT,¡Darío! ¡Los dos pilotos tienen la mirada vacía! ¡Las manos sueltas! ¡Vamos en picado hacia el mar!,Alarma máxima,17,6.5
+C3_VIA02_050,C3,C3_VIA02,CONT,GOLIAT,¡DARÍO! ¡DESPIERTA! (golpe metálico),Grito; le da una palmada,2,0.8
+C3_VIA02_060,C3,C3_VIA02,CONT,LUNE,¡Ya estoy! ¡Ya estoy! Dame los mandos.,Recupera el control,7,2.7
+C3_VIA02_070,C3,C3_VIA02,CONT,GOLIAT,"¿Por qué a mí no me pasa nada? Yo estoy perfectamente. Bueno, aterrado, pero perfectamente.",Desconcertado. **Pista P3-01**,15,5.8
+C3_VIA02_080,C3,C3_VIA02,EVT fin (amerizaje),LUNE,Agua. Estamos en el agua. Seguimos flotando.,Alivio,7,2.7
+C3_VIA02_090,C3,C3_VIA02,CONT,PILOTO REVAL,(despertando) ¿Qué…? ¿Qué pasó? Yo estaba… no me acuerdo.,"Confuso, asustado",8,3.1
+C3_VIA02_100,C3,C3_VIA02,RUTA 100%,ERRANTE,(repetidor) Remolque de superficie en camino. Afrodita: ochocientos metros por debajo.,Sintético,10,3.8
+C3_VIA02_110,C3,C3_VIA02,CONT,LUNE,(bajo) Alguien apagó a tres personas al mismo tiempo. A ti no. Recuérdalo.,Grave,12,4.6
+C3_VIA02_R01,C3,C3_VIA02,IDLE ≥15 s,GOLIAT,Floto. No me gusta flotar. Los GL-7 no flotamos: nos hundimos con dignidad.,Relleno,14,5.4
+C3_LOC02_010,C3,C3_LOC02,LLEGADA,GOLIAT,Una ciudad bajo el mar. Peces mirándome por la ventana. Eso de ahí… me está mirando mal.,Asombro,17,6.5
+C3_LOC02_020,C3,C3_LOC02,EXPLORAR,PNJ CAMARERA,¿Mesa para uno… y medio? Perdón: para dos.,Torpe,8,3.1
+C3_LOC02_030,C3,C3_LOC02,CONT,GOLIAT,Uno y medio. Lo he oído. Lo he archivado.,Rencoroso,9,3.5
+C3_LOC02_040,C3,C3_LOC02,INTERACT(ondina),GOLIAT,"¡Qué bicho tan feo! Tiene seis patas, un pico… y me está mirando con amor. Darío, creo que le gusto.",Enternecido,20,7.7
+C3_LOC02_050,C3,C3_LOC02,CONT,GOLIAT,¡Eh! ¡Me está lamiendo la rodilla! ¡Se está bebiendo mi lubricante! ¡Vienen más! ¡Vienen TODAS!,Caos cómico. **Pista P3-02**,15,5.8
+C3_LOC02_060,C3,C3_LOC02,CONT,LUNE,Los hidrocarburos. En Venus son rarísimos. Para ellas eres un postre.,"Divertido, tomando nota",11,4.2
+C3_LOC02_070,C3,C3_LOC02,CONT,LUNE,"Dime una cosa: ¿te gustaron cuando las viste, o te gustaron porque sí?",Serio de golpe,13,5.0
+C3_LOC02_080,C3,C3_LOC02,CONT,GOLIAT,…Me parecieron horribles. Me gustaron porque me lamían.,Honesto,8,3.1
+C3_LOC02_090,C3,C3_LOC02,CONT,LUNE,A mí me gustaron sin motivo. Y eso no me gusta nada.,Inquietud,12,4.6
+C3_INT01_010,C3,C3_INT01,INTERACT(Mercer),MERCER,Lune. Me dijeron que eras amigo de Ibsen. Lo siento. Robó los datos de la levadura y se esfumó.,Brusco,19,7.3
+C3_INT01_020A,C3,C3_INT01,ELECCIÓN,LUNE (A),"¿Tiene pruebas, o sólo una acusación?",Firme,6,2.3
+C3_INT01_020B,C3,C3_INT01,ELECCIÓN,LUNE (B),¿Quién gana con esos datos?,Analítico,5,1.9
+C3_INT01_030,C3,C3_INT01,COND(A),MERCER,Tengo los registros de acceso con su código. A las tres de la madrugada.,Seguro,14,5.4
+C3_INT01_040,C3,C3_INT01,COND(B),MERCER,Vega. Siempre Vega. Llevan siglos esperando que la Federación tropiece.,Convencido; pista falsa,10,3.8
+C3_INT01_050,C3,C3_INT01,CONT,MERCER,"Y ese robot, fuera de mi despacho. No me fío de las máquinas que piensan.",Desprecio,15,5.8
+C3_INT01_060,C3,C3_INT01,CONT,GOLIAT,Y yo no me fío de los hombres con tanto bigote. Estamos empatados.,Digno,13,5.0
+C3_INT01_070,C3,C3_INT01,EVT(alarma),ALTAVOZ,¡Alerta! ¡Compuerta veintitrés! ¡Un operario amenaza con abrir el mar! ¡Evacuen el sector!,Alarma,13,5.0
+C3_LOC03_010,C3,C3_LOC03,LLEGADA,PIM DUARTE,Tengo… que abrir. Tengo que abrir. Es la hora de abrir.,Monótono,11,4.2
+C3_LOC03_020,C3,C3_LOC03,CONT,TANNER,"(aferrado a su «calculadora») ¡Si abre, la barrera de esta sección no aguanta la presión! ¡Hay que cortar el relé desde dentro!",Pánico técnico,18,6.9
+C3_LOC03_030,C3,C3_LOC03,CONT,MERCER,El conducto de ventilación llega al relé. Pero es demasiado estrecho para cualquiera.,Desesperado,13,5.0
+C3_LOC03_040,C3,C3_LOC03,CONT,GOLIAT,(pausa; le cuesta decirlo) Yo… no soy muy alto. A lo mejor quepo.,Orgullo herido y valor,9,3.5
+C3_LOC03_050,C3,C3_LOC03,CONT,LUNE,"GOLIAT, ahí dentro te puede afectar lo mismo que a Pim.",Preocupado,11,4.2
+C3_LOC03_060,C3,C3_LOC03,CONT,GOLIAT,"En la lanzadera no me afectó. Ni en Marte. «Todo silencio por dentro», ¿te acuerdas? Por fin me sirve de algo.",Decidido,21,8.1
+C3_LOC03_070,C3,C3_LOC03,"EVT(conducto, GOLIAT jugable)",GOLIAT,Estrecho. Oscuro. Y huele a calcetín de buzo. Avanzando.,"Esfuerzo, radio",9,3.5
+C3_LOC03_080,C3,C3_LOC03,CONT,GOLIAT,Hay algo empujándome en la cabeza… como si alguien llamara a una puerta. Pero no entra. ¡No entra!,Triunfal,18,6.9
+C3_LOC03_090,C3,C3_LOC03,CONT,GOLIAT,Relé a la vista. Lo aíslo… ¡Hecho!,Esfuerzo,7,2.7
+C3_LOC03_100,C3,C3_LOC03,CONT,PIM DUARTE,"(despierta, cae) ¿Qué hago aquí? ¿Por qué tengo la mano en la palanca?",Aterrado,11,4.2
+C3_LOC03_110,C3,C3_LOC03,CONT,MERCER,¡El submarino de patrulla! ¡Alguien acaba de salir con él! ¡Es Ibsen!,Grita,12,4.6
+C3_LOC03_120,C3,C3_LOC03,INTERACT(Tanner),LUNE,"Ingeniero, ¿qué es ese aparato que no suelta?","Casual, atento",8,3.1
+C3_LOC03_130,C3,C3_LOC03,CONT,TANNER,"¿Esto? Una calculadora de presiones. Sin ella, esta ciudad se inunda en una tarde. Nunca me separo de ella.",Lo aprieta contra el pecho. **Pista P3-03**,19,7.3
+C3_LOC03_140,C3,C3_LOC03,CONT,GOLIAT,"(sale del conducto, cubierto de polvo) ¿Me he perdido algo? ¿Alguien me va a dar las gracias, o tengo que pedirlas?",Fanfarrón,15,5.8
+C3_LOC03_150,C3,C3_LOC03,CONT,LUNE,"Gracias, GOLIAT.",Sincero,2,0.8
+C3_LOC03_160,C3,C3_LOC03,CONT,GOLIAT,…Ah. Pues gracias a ti por las gracias. No me lo esperaba.,Descolocado,12,4.6
+C3_LOC03_170,C3,C3_LOC03,CONT,MERCER,Lune. Te asigno el submarino *Hilda*. Encuentra a tu amigo antes de que se ahogue o ahogue a alguien.,Cede. **Flag `F_SUB`**,19,7.3
+C3_LOC03_180,C3,C3_LOC03,SALIDA,GOLIAT,"Un submarino. Si llego a saber que la ACS daba juguetes, me hago agente antes.",Entusiasmo,15,5.8
+C3_VIA03_010,C3,C3_VIA03,RUTA 0%,GOLIAT,"Profundidad: cien metros. Doscientos. Darío, mis juntas hacen un ruido que no me gusta.",Nervioso,14,5.4
+C3_VIA03_020,C3,C3_VIA03,CONT,LUNE,Es la presión. La *Hilda* aguanta. Tú también.,Calma,8,3.1
+C3_VIA03_030,C3,C3_VIA03,RUTA 20%,GOLIAT,Mira eso. Peces con forma de flecha. Botones gigantes en el suelo. ¿Venus siempre fue tan rara o se esfuerza?,Maravillado,20,7.7
+C3_VIA03_040,C3,C3_VIA03,RUTA 35%,LUNE,"Piensa una cosa. Si las ondinas pueden meter ideas en la cabeza, ¿por qué esperaron tanto? Hace siglos que viven con nosotros.",Analítico,22,8.5
+C3_VIA03_050,C3,C3_VIA03,CONT,GOLIAT,¿Porque son tímidas?,Sin convicción,3,1.2
+C3_VIA03_060,C3,C3_VIA03,CONT,LUNE,O porque alguien les dio un megáfono.,Revelador,7,2.7
+C3_VIA03_070,C3,C3_VIA03,EVT(Manto Escarlata),ERRANTE,(sonar de la *Hilda*) Masa biológica gigante. Longitud: tres kilómetros. En aproximación.,Alerta,8,3.1
+C3_VIA03_080,C3,C3_VIA03,CONT,GOLIAT,¡Eso no es un pez! ¡Eso es un barrio entero con hambre!,Pánico,12,4.6
+C3_VIA03_090,C3,C3_VIA03,CONT,LUNE,"Busca el centro de calor. Si le damos ahí, se detiene.",Concentrado,11,4.2
+C3_VIA03_100,C3,C3_VIA03,EVT fin (Manto abatido),GOLIAT,Se… detuvo. Se está hundiendo.,Sobrecogido,5,1.9
+C3_VIA03_110,C3,C3_VIA03,CONT,LUNE,Debía de tener millones de años. Y lo matamos en dos minutos. A Ferrán le va a romper el corazón.,Pesar científico,20,7.7
+C3_VIA03_120,C3,C3_VIA03,CONT,GOLIAT,"Nos quería comer, Darío.",Pragmático,4,1.5
+C3_VIA03_130,C3,C3_VIA03,CONT,LUNE,Ya. Igual me pesa.,Bajo,4,1.5
+C3_VIA03_140,C3,C3_VIA03,RUTA 85% · EVT(Marco a la vista),MARCO,(radio) Darío… Te dije que no vinieras. No puedo hablar de ellas. No me dejan.,"Angustiado, entrecortado",14,5.4
+C3_VIA03_150,C3,C3_VIA03,RUTA 95%,LUNE,"Marco, sube a la superficie conmigo.",Firme y suave,6,2.3
+C3_VIA03_R01,C3,C3_VIA03,IDLE ≥15 s,GOLIAT,"Cada vez que cruje el casco, envejezco un año. Ya tengo ciento doce.",Relleno,13,5.0
+C3_VIA03_R02,C3,C3_VIA03,IDLE ≥15 s,GOLIAT,"Si salgo vivo de esta, me pinto un pez en el pecho. Uno pequeño. Elegante.",Relleno,15,5.8
+C3_VIA03_R03,C3,C3_VIA03,IDLE ≥15 s,LUNE,"(para sí) Pilotos, Pim, Marco… gente buena haciendo cosas malas sin saber por qué.",Relleno,12,4.6
+C3_LOC04_010,C3,C3_LOC04,LLEGADA,MARCO,"(apuntando) Perdóname. No soy yo. Te lo juro, no soy yo.","Lágrimas, mano firme",10,3.8
+C3_LOC04_020,C3,C3_LOC04,CONT,VOZ DE LAS ONDINAS,"(por boca de Marco, voz plana) Nosotras hablamos ahora. Vosotros, los que coméis carne, os vais de Venus.",Coro sin emoción,12,4.6
+C3_LOC04_030,C3,C3_LOC04,CONT,LUNE,¿Y si no nos vamos?,Calma estudiada,5,1.9
+C3_LOC04_040,C3,C3_LOC04,CONT,VOZ DE LAS ONDINAS,Abriremos todas las compuertas. Os apagaremos como velas. Una a una. Hasta que no quede ninguna llama.,Amenaza plana. **Pista P3-04**,17,6.5
+C3_LOC04_050,C3,C3_LOC04,CONT,GOLIAT,(radio privado) Darío… «velas». «Llamas». En Venus no hay fuego. Lo dijo Ferrán.,"Bajo, rápido",11,4.2
+C3_LOC04_060,C3,C3_LOC04,CONT,LUNE,(radio privado) Lo sé. Una ondina nunca vio una llama. Esa frase la pensó un humano.,Revelación contenida,14,5.4
+C3_LOC04_070,C3,C3_LOC04,CONT,LUNE,"GOLIAT, ¿cuánto lubricante tienes en el depósito?",Plan,7,2.7
+C3_LOC04_080,C3,C3_LOC04,CONT,GOLIAT,"Litro y medio. Es mi sangre, Darío. Mi sangre de lujo.",Comprende y se espanta,11,4.2
+C3_LOC04_090,C3,C3_LOC04,CONT,LUNE,Al mar. Todo.,Firme,3,1.2
+C3_LOC04_100,C3,C3_LOC04,CONT,GOLIAT,(suspiro mecánico) Por la Federación. Y por los ronquidos de Marco.,Sacrificio cómico,9,3.5
+C3_LOC04_110,C3,C3_LOC04,EVT(lubricante),VOZ DE LAS ONDINAS,Nosotras… hay algo… dulce…,La voz se desarma,4,1.5
+C3_LOC04_120,C3,C3_LOC04,CONT,MARCO,(baja el arma) Darío. Se fueron. Se fueron de mi cabeza.,"Llanto, alivio",8,3.1
+C3_LOC04_130,C3,C3_LOC04,CONT,LUNE,"*Hilda*, emite a todas las frecuencias de Afrodita: «Esparzan petróleo en los conductos».",Ordena,13,5.0
+C3_LOC04_140,C3,C3_LOC04,CONT,MARCO,Me obligaron a entrar en los archivos. Me hicieron creer que era idea mía. Pero algo empujaba desde fuera. Algo con… una máquina detrás. Un zumbido.,Testimonio,26,10.0
+C3_LOC04_150,C3,C3_LOC04,SALIDA,GOLIAT,Estoy seco. Me chirría todo. Cuando volvamos quiero un baño de aceite de los caros.,"Débil, cómico",15,5.8
+C3_VIA04_010,C3,C3_VIA04,RUTA 0%,MARCO,Así que éste es el famoso GOLIAT. Darío habla de ti en los informes.,Agradecido,14,5.4
+C3_VIA04_020,C3,C3_VIA04,CONT,GOLIAT,¿Habla de mí? ¿Qué dice? ¿Cosas buenas? ¿Cosas largas?,Ansioso,9,3.5
+C3_VIA04_030,C3,C3_VIA04,CONT,LUNE,Marco.,Le pide discreción,1,0.4
+C3_VIA04_040,C3,C3_VIA04,CONT,MARCO,"Dice que eres «impredecible, pero imprescindible».",Sonríe,6,2.3
+C3_VIA04_050,C3,C3_VIA04,CONT,GOLIAT,…Lo voy a tatuar en mi chasis.,Emocionado,7,2.7
+C3_VIA04_060,C3,C3_VIA04,RUTA 40%,LUNE,"Marco, el zumbido. ¿Lo oíste alguna vez en la ciudad?",Investigando,10,3.8
+C3_VIA04_070,C3,C3_VIA04,CONT,MARCO,En reuniones técnicas. En la sala de presiones. Siempre que Tanner hacía cálculos.,Pensativo,13,5.0
+C3_VIA04_080,C3,C3_VIA04,RUTA 70%,GOLIAT,Una máquina que hace de megáfono a las ondinas. Y alguien que no la suelta nunca.,Uniendo cabos,16,6.2
+C3_VIA04_090,C3,C3_VIA04,CONT,LUNE,No lo digas todavía. Necesito que lo diga él.,Estratégico,9,3.5
+C3_VIA04_100,C3,C3_VIA04,RUTA 95%,ERRANTE,(repetidor) Afrodita. Atraque autorizado. Mercer convoca una reunión urgente.,Sintético,8,3.1
+C3_VIA04_R01,C3,C3_VIA04,IDLE ≥15 s,GOLIAT,Chirrío. Chirrío al hablar. Chirrío al pensar. Esto es humillante.,Relleno,10,3.8
+C3_VIA04_R02,C3,C3_VIA04,IDLE ≥15 s,MARCO,Sigo oyendo el mar dentro de la cabeza. Pero ahora es sólo mar.,Relleno,13,5.0
+C3_LOC05_010,C3,C3_LOC05,INTERACT(Ana Tanner),ANA TANNER,"¿El día de la compuerta? Dormí doce horas. Me desperté y Lyle ya estaba en casa, muy nervioso.",Inocente,18,6.9
+C3_LOC05_020,C3,C3_LOC05,INTERACT(laboratorio),GOLIAT,"Darío: el laboratorio de Tanner tiene un blindaje de malla en las paredes. Su apartamento, que está al lado, no.",**Pista P3-05**,20,7.7
+C3_LOC05_030,C3,C3_LOC05,CONT,LUNE,Se protegió él. A ella no. Para no levantar sospechas.,Asqueado,10,3.8
+C3_DED01_010,C3,C3_DED01,INICIO,LUNE,"Las ondinas no son amos. Son como perros: sienten, leen lo que pensamos con fuerza. Pero alguien les puso una correa.",Expositivo,21,8.1
+C3_DED01_020,C3,C3_DED01,ACUSACIÓN errónea: Mercer,MERCER,¿Yo? ¡Yo fui quien lo acusó a él!,Furioso,8,3.1
+C3_DED01_030,C3,C3_DED01,CONT,LUNE,"(si se eligió a Mercer) Es cierto. Y además, usted es biofísico, no ingeniero. No sabría construir el aparato.",Corrige,14,5.4
+C3_DED01_040,C3,C3_DED01,ACUSACIÓN errónea: Marco,GOLIAT,¡Marco era la víctima! ¡Roncar no es un delito!,Indignado,9,3.5
+C3_DED01_050,C3,C3_DED01,ACUSACIÓN errónea: Vega,LUNE,No hay una sola nave vegana en Venus. Echarle la culpa a Vega es cómodo. Y alguien lo sabía.,Sobrio,19,7.3
+C3_DED01_060,C3,C3_DED01,ACUSACIÓN correcta,LUNE,"Ingeniero Tanner. La voz de las ondinas amenazó con apagarnos «como velas». En Venus nunca se encendió una vela. Esa voz era humana. Era la suya, a través de esa «calculadora».",Firme,31,11.9
+C3_DED01_070,C3,C3_DED01,CONT,TANNER,¡Es una calculadora de presiones! ¡Sin ella la ciudad se inunda!,Aterrado,11,4.2
+C3_DED01_080,C3,C3_DED01,CONT,LUNE,GOLIAT.,Orden,1,0.4
+C3_DED01_090,C3,C3_DED01,CONT,GOLIAT,Con mucho gusto. (la aplasta con la mano),Satisfacción,3,1.2
+C3_DED01_100,C3,C3_DED01,CONT,PIM DUARTE,El zumbido… se calló.,Asombrado,4,1.5
+C3_DED01_110,C3,C3_DED01,CONT,LUNE,"Y protegió su laboratorio con una malla, pero no la habitación donde dormía su esposa. Ella durmió doce horas, señor Tanner.",Duro,21,8.1
+C3_DED01_120,C3,C3_DED01,CONT,ANA TANNER,…Lyle.,Rota,1,0.4
+C3_DED01_130,C3,C3_DED01,CONT,TANNER,¡Venus merece ser libre! ¡La Tierra nos chupa la comida y nos manda inspectores! ¡Las ondinas eran la llave!,Estalla,19,7.3
+C3_CIN01_010,C3,C3_CIN01,INICIO,CORVO,"(llamada) Tanner no será ejecutado. La ACS pide tratamiento. Quiero que reconstruya su máquina para estudiarla, y que después se cure.",Firme,20,7.7
+C3_CIN01_020,C3,C3_CIN01,CONT,GOLIAT,¿Curarlo? Casi inunda una ciudad.,Incrédulo,5,1.9
+C3_CIN01_030,C3,C3_CIN01,CONT,LUNE,"Ejecutarlo no le devuelve nada a nadie. Curarlo, quizás sí.",Convencido,10,3.8
+C3_CIN01_040,C3,C3_CIN01,CONT,MARCO,Darío. Gracias por no hacerme caso.,Emocionado,6,2.3
+C3_CIN01_050,C3,C3_CIN01,CONT,LUNE,Nunca te hice caso. Ni en el ajedrez.,Cálido,8,3.1
+C3_CIN01_060,C3,C3_CIN01,CONT,GOLIAT,"(en la *Errante*, rumbo a casa) ¿Sabes qué, Darío? En Marte me dijeron que era «todo silencio por dentro». Y hoy ese silencio salvó una ciudad.",Reflexivo,20,7.7
+C3_CIN01_070,C3,C3_CIN01,CONT,LUNE,"No es silencio, GOLIAT. Es que nadie te manda por dentro.",Suave,11,4.2
+C3_CIN01_080,C3,C3_CIN01,CONT,GOLIAT,…Necesito más lubricante. Se me está empañando algo.,"Emocionado, lo disimula. **FIN DEL CAPÍTULO 3**",8,3.1
+C4_VIA01_010,C4,C4_VIA01,RUTA 0%,CORVO,(holograma) La senadora Varón quiere cerrar la ACS. Dice que somos una policía secreta que nadie controla. Mandó un investigador a Mercurio: Julián Urquiza.,Tensa,23,8.8
+C4_VIA01_020,C4,C4_VIA01,CONT,LUNE,¿Y tiene razón?,Honesto,3,1.2
+C4_VIA01_030,C4,C4_VIA01,CONT,CORVO,…A veces. Por eso me da miedo.,Sincera,7,2.7
+C4_VIA01_040,C4,C4_VIA01,CONT,FERRÁN,"El Proyecto Luz es la joya de la Federación. Luz solar enviada por el hiperespacio a cualquier mundo. Si funciona, Plutón tendrá verano.",Entusiasta,23,8.8
+C4_VIA01_050,C4,C4_VIA01,CONT,CORVO,"Y alguien lo está saboteando. El director, Pereda, jura que es Vega. Darío, ve, mira, y no te pelees con el investigador.",Orden,22,8.5
+C4_VIA01_060,C4,C4_VIA01,CONT,GOLIAT,"Esa última parte era para mí, ¿verdad?",Ofendido,7,2.7
+C4_VIA01_070,C4,C4_VIA01,CONT,CORVO,Era para los dos.,Seca,4,1.5
+C4_VIA01_080,C4,C4_VIA01,RUTA 25%,GOLIAT,"Mercurio. Un lado se cocina y el otro se congela, ¿no?",Curioso,11,4.2
+C4_VIA01_090,C4,C4_VIA01,CONT,LUNE,"Gira despacio. El día dura meses. En la cara de día, el plomo se derrite. En la de noche, el aire se congelaría si lo hubiera.",Didáctico,26,10.0
+C4_VIA01_100,C4,C4_VIA01,CONT,GOLIAT,Un planeta con dos humores. Como Corvo.,Pícaro,7,2.7
+C4_VIA01_110,C4,C4_VIA01,RUTA 50%,GOLIAT,"Ahí está Venus. Hola, ondinas. Todavía os debo un litro y medio.","Nostálgico, cómico",12,4.6
+C4_VIA01_120,C4,C4_VIA01,RUTA 75%,ERRANTE,Radiación solar en aumento. Filtros al setenta por ciento.,Sintético,9,3.5
+C4_VIA01_130,C4,C4_VIA01,CONT,GOLIAT,El Sol se ve… enorme. Como si nos estuviera mirando.,Intimidado,10,3.8
+C4_VIA01_140,C4,C4_VIA01,RUTA 95%,ERRANTE,"Mercurio. Observatorio del Polo Norte, en la franja de penumbra.",Sintético,10,3.8
+C4_VIA01_R01,C4,C4_VIA01,IDLE ≥15 s,GOLIAT,Nota personal: no tocar nada que haya estado al sol en Mercurio. Ni siquiera con la mirada.,Relleno,17,6.5
+C4_VIA01_R02,C4,C4_VIA01,IDLE ≥15 s,LUNE,(para sí) Un investigador que busca escándalos y un director que ve espías de Vega por todas partes. Buena mezcla.,Relleno,18,6.9
+C4_VIA01_R03,C4,C4_VIA01,IDLE ≥15 s,GOLIAT,"¿Me compras unas botas térmicas? Unas rojas. No, mejor plateadas. Rojas y plateadas.",Relleno; guiño a las botas,13,5.0
+C4_LOC01_010,C4,C4_LOC01,LLEGADA,MENDEL,"(afuera, con traje; dispara a la nada) ¡Ahí! ¡Otra vez! ¡Una figura de pie, al sol!",Histérico,9,3.5
+C4_LOC01_020,C4,C4_LOC01,CONT,LUNE,"Mendel, baje el arma. Soy de la ACS.",Firme,8,3.1
+C4_LOC01_030,C4,C4_LOC01,CONT,MENDEL,"Perdón. Perdón. Llevo seis meses aquí. Odio este planeta. Odio cada piedra. Y ahí fuera hay algo que camina al sol, donde nada puede caminar.",Al borde,25,9.6
+C4_LOC01_040,C4,C4_LOC01,EXPLORAR,URQUIZA,"Vaya: el niño prodigio de la Agencia. Envenenadores en Marte, piratas en el Cinturón, telepatía en Venus. Qué currículum tan… conveniente.",Sarcasmo,21,8.1
+C4_LOC01_050,C4,C4_LOC01,CONT,URQUIZA,"Y su mascota. ¿Qué le pasó, robot? ¿Se encogió en el lavado?",Mirando a GOLIAT,12,4.6
+C4_LOC01_060,C4,C4_LOC01,CONT,GOLIAT,"(avanza) Repita eso, que se lo…",Furia,5,1.9
+C4_LOC01_070,C4,C4_LOC01,CONT,LUNE,GOLIAT. Busca que pierdas los nervios. Un rival enfadado se equivoca. No le des ese gusto.,Lo frena; enseñanza,16,6.2
+C4_LOC01_080,C4,C4_LOC01,CONT,GOLIAT,(temblando) Está bien. Le doy… indiferencia. Mucha. Montañas de indiferencia.,"Se contiene, muy mal",9,3.5
+C4_LOC01_090,C4,C4_LOC01,INTERACT(habitación),LUNE,"GOLIAT, mira los trajes térmicos. Rajados. Por dentro, donde no se ve.",Grave. **Pista P4-01**,12,4.6
+C4_LOC01_100,C4,C4_LOC01,CONT,GOLIAT,Si salías con eso al sol…,Horrorizado,6,2.3
+C4_LOC01_110,C4,C4_LOC01,CONT,LUNE,Me cocinaba en dos minutos. Alguien nos esperaba.,Frío,8,3.1
+C4_LOC01_120,C4,C4_LOC01,INTERACT(banquete),PEREDA,"Inspector, bienvenido. Le diré lo que nadie se atreve a decir: Vega está detrás de esto. Allí viví un año, como invitado.",Ceremonioso,22,8.5
+C4_LOC01_130,C4,C4_LOC01,CONT,PEREDA,"Son pocos. Familias enormes de robots y muy pocos humanos. Una aristocracia de guerreros. Nosotros somos un rebaño inmenso; ellos, una manada pequeña de lobos.",Apasionado,25,9.6
+C4_LOC01_140,C4,C4_LOC01,CONT,PEREDA,"Para un vegano, un buen robot vale más que cien terrícolas. Imagínese lo que nos consideran.",Indignado,16,6.2
+C4_LOC01_150,C4,C4_LOC01,CONT,LUNE,"Con todo respeto, director: los robots se inventaron en la Tierra. Y lo que nos hace avanzar es la mezcla, no la pureza.","Sereno, tema del capítulo",23,8.8
+C4_LOC01_160,C4,C4_LOC01,CONT,GOLIAT,Y yo estoy hecho en Marte. Que conste.,Orgulloso,8,3.1
+C4_LOC01_170,C4,C4_LOC01,CONT,DR. GARDE,"(bajo, a Lune) Pereda estuvo enfermo justo cuando atacaron Ceres el año pasado. Desde entonces sólo habla de Vega.",Confidencial. **Pista P4-02**,16,6.2
+C4_LOC01_180,C4,C4_LOC01,CONT,URQUIZA,(en voz alta) Brindo por la ACS: la única policía que se investiga a sí misma y siempre se declara inocente.,Provocación,18,6.9
+C4_LOC01_190,C4,C4_LOC01,CONT,COLL,"(tenso) Señor Urquiza, aquí somos invitados de la ciencia.",Contenido,8,3.1
+C4_LOC01_200,C4,C4_LOC01,CONT,MENDEL,"Inspector, si va a salir al lado diurno, lleve esto. Placas del Proyecto Luz: desvían el calor. Un prototipo, pero funciona.",Le entrega el blindaje. **Flag `F_TERMICO`**,21,8.1
+C4_LOC01_210,C4,C4_LOC01,SALIDA,LUNE,"(aparte, a GOLIAT) Voy al lado diurno a buscar el «fantasma». Tú te quedas. Diles que estoy enfermo. Que no salgo de la habitación.",Plan,21,8.1
+C4_LOC01_220,C4,C4_LOC01,CONT,GOLIAT,¿Me dejas aquí? ¿Con el señor Montañas de Indiferencia?,Herido,9,3.5
+C4_LOC01_230,C4,C4_LOC01,CONT,LUNE,Te dejo aquí porque eres el único en quien confío para vigilarlos.,Sincero,12,4.6
+C4_LOC01_240,C4,C4_LOC01,CONT,GOLIAT,…Vale. Pero escúchame: no te arriesgues tontamente. Esta vez no voy a estar ahí para sacarte.,"Serio, protector",16,6.2
+C4_LOC01_250,C4,C4_LOC01,CONT,LUNE,Ahora pareces Corvo.,Sonrisa,3,1.2
+C4_LOC01_260,C4,C4_LOC01,CONT,GOLIAT,"Y tú me preocupas como si fueras un tostador viejo. Vete, antes de que me ponga sentimental.",Lo empuja,17,6.5
+C4_VIA02_010,C4,C4_VIA02,RUTA 0%,GOLIAT,(radio) Le dije a Pereda que tienes fiebre. Me dio una pastilla para ti. Me la quedo. Es redonda. Me gusta.,Divertido,20,7.7
+C4_VIA02_020,C4,C4_VIA02,CONT,LUNE,Perfecto. ¿Y Urquiza?,Concentrado,3,1.2
+C4_VIA02_030,C4,C4_VIA02,CONT,GOLIAT,(radio) Mirándome raro. Como si supiera que mientes.,Preocupado,7,2.7
+C4_VIA02_040,C4,C4_VIA02,RUTA 25%,ERRANTE,Cruzando el terminador. Temperatura exterior en aumento.,Sintético,7,2.7
+C4_VIA02_050,C4,C4_VIA02,CONT,LUNE,Por todas las órbitas… el horizonte se está poniendo blanco.,Asombro,10,3.8
+C4_VIA02_060,C4,C4_VIA02,EVT(salida del Sol),ERRANTE,Exposición solar directa. Temperatura del casco: trescientos noventa grados. Blindaje térmico necesario.,Alerta,12,4.6
+C4_VIA02_070,C4,C4_VIA02,CONT,LUNE,"Placas en posición. Aguanta, *Errante*.",Tenso,5,1.9
+C4_VIA02_080,C4,C4_VIA02,CONT,LUNE,"(para sí) Un Sol tres veces más grande que en la Tierra. Y la corona, como un fantasma blanco detrás.",Contemplativo,18,6.9
+C4_VIA02_090,C4,C4_VIA02,RUTA 75%,GOLIAT,"(radio, bajo) Darío. Urquiza se puso un traje y salió hacia las minas viejas. Lo voy a seguir.",Decidido,16,6.2
+C4_VIA02_100,C4,C4_VIA02,CONT,LUNE,"GOLIAT, ten cuidado. Ese hombre te provoca a propósito.",Preocupado,9,3.5
+C4_VIA02_110,C4,C4_VIA02,CONT,GOLIAT,(radio) Lo sé. Por eso voy a ser muy maduro. Superlativamente maduro.,Poco convincente,11,4.2
+C4_VIA02_120,C4,C4_VIA02,RUTA 95%,ERRANTE,Montaña Bicolor a la vista: una ladera blanca y otra negra. Señal metálica en la cima. Fuente de energía: micropila.,Sintético,20,7.7
+C4_VIA02_130,C4,C4_VIA02,CONT,LUNE,Una micropila. Los fantasmas no llevan baterías.,Interesado,7,2.7
+C4_VIA02_R01,C4,C4_VIA02,IDLE ≥15 s,LUNE,(para sí) Echo de menos a GOLIAT. Es la primera vez que la cabina está tan callada.,Relleno; el silencio se nota,15,5.8
+C4_VIA02_R02,C4,C4_VIA02,IDLE ≥15 s,GOLIAT,"(radio) Sigo aquí, ¿eh? Por si me echabas de menos. No es que yo te eche de menos.",Relleno,17,6.5
+C4_VIA02_R03,C4,C4_VIA02,IDLE ≥15 s,ERRANTE,Integridad del blindaje: ochenta y uno por ciento.,Relleno de sistema,8,3.1
+C4_LOC02_010,C4,C4_LOC02,LLEGADA,GOLIAT,"Túneles abandonados. Escarcha en las paredes. Y huellas de botas recientes. Hola, señor Urquiza.","Susurro, radio",14,5.4
+C4_LOC02_020,C4,C4_LOC02,CONT,URQUIZA,"(detrás de él) ¿Me buscabas, robotito? Dame esa linterna de corte. Gracias.",Le arrebata la herramienta,9,3.5
+C4_LOC02_030,C4,C4_LOC02,CONT,URQUIZA,"Tu amo no está enfermo. Está en el lado diurno, fabricando pruebas falsas de una base vegana para salvar a su Agencia.",Seguro de sí,22,8.5
+C4_LOC02_040,C4,C4_LOC02,CONT,GOLIAT,"Darío no fabrica nada. Y no es mi amo: es mi amigo. Usted no sabe lo que es eso, ¿verdad?",Digno,20,7.7
+C4_LOC02_050,C4,C4_LOC02,CONT,URQUIZA,Qué conmovedor.,Desprecio,2,0.8
+C4_LOC02_060,C4,C4_LOC02,CONT,GOLIAT,"Si le abrieran a usted por la mitad, señor Urquiza, encontrarían un hueco. Con eco.",Insulto memorable (original),15,5.8
+C4_LOC02_070,C4,C4_LOC02,EVT(hilos de roca),URQUIZA,¿Qué es eso? ¡La pared se mueve! ¡Me está agarrando la pierna!,Pánico,12,4.6
+C4_LOC02_080,C4,C4_LOC02,CONT,GOLIAT,¡Hilos de roca! ¡Buscan calor! ¡Su linterna! ¡Apáguela! ¡APÁGUELA!,Urgente,9,3.5
+C4_LOC02_090,C4,C4_LOC02,CONT,URQUIZA,¡Ayúdame!,Desesperado,1,0.4
+C4_LOC02_100,C4,C4_LOC02,CONT,GOLIAT,(dilema) Los Protocolos dicen que no deje que un humano sufra daño. Mi orgullo dice que lo deje un ratito. Ganan los Protocolos. Por poco.,Monólogo cómico,24,9.2
+C4_LOC02_110,C4,C4_LOC02,EVT fin,GOLIAT,"Arrastre la linterna lejos… así. Se van tras el calor. Arriba, salimos.",Esfuerzo,12,4.6
+C4_LOC02_120,C4,C4_LOC02,CONT,URQUIZA,(jadeando) Me salvaste.,Desconcertado,2,0.8
+C4_LOC02_130,C4,C4_LOC02,CONT,GOLIAT,"Aquí abajo no hay ni senadoras ni Agencias. Sólo el planeta, y el planeta quiere comernos a los dos.",Sabio sin querer,19,7.3
+C4_LOC02_140,C4,C4_LOC02,CONT,URQUIZA,…Te debo una. No te acostumbres.,"Seco, con un respeto nuevo",6,2.3
+C4_LOC03_010,C4,C4_LOC03,LLEGADA,CENTINELA,Humano. Detectado. Retírese.,"Metálico, con fallos",3,1.2
+C4_LOC03_020,C4,C4_LOC03,CONT,LUNE,¿Quién te fabricó?,Firme,3,1.2
+C4_LOC03_030,C4,C4_LOC03,CONT,CENTINELA,Fabricado… en un mundo del Directorio de Vega.,Entrecortado,8,3.1
+C4_LOC03_040,C4,C4_LOC03,CONT,LUNE,¿Quién te trajo aquí?,Firme,4,1.5
+C4_LOC03_050,C4,C4_LOC03,CONT,CENTINELA,Tengo instrucción… de no responder.,Rígido,5,1.9
+C4_LOC03_060,C4,C4_LOC03,CONT,LUNE,(mira su chasis) No llevas ni una capa de aislamiento. En Vega adoran a sus robots. Ningún vegano te mandaría así al Sol.,Para sí. **Pista P4-05**,20,7.7
+C4_LOC03_070,C4,C4_LOC03,INTERACT(placa del robot),LUNE,Número de serie… «Unidad de servicio. Asignada a huésped: L. Pereda».,"Lento, revelación. **Pista P4-06**",11,4.2
+C4_LOC03_080,C4,C4_LOC03,CONT,LUNE,"Escúchame. Mi traje no aguantará mucho más. Si no me dices la verdad, me quedo aquí, al sol, hasta morir. Y habrás dejado morir a un humano.",Apuesta,27,10.4
+C4_LOC03_090,C4,C4_LOC03,CONT,CENTINELA,No… puedo… dejar… Instrucción: no… responder. Conflicto. Conflicto. Dolor… de cabeza.,Lleva la mano a la cabeza; la voz se distorsiona,11,4.2
+C4_LOC03_100,C4,C4_LOC03,CONT,LUNE,(para sí) El calor le ha frito el cerebro. Ya no puede elegir.,Compasión y alarma,11,4.2
+C4_LOC03_110,C4,C4_LOC03,EVT(ataque),CENTINELA,¡HUMANO. AMENAZA. HUMANO. AMENAZA!,Fallo total,4,1.5
+C4_LOC03_120,C4,C4_LOC03,CONT,LUNE,¡La ladera negra! El polvo oscuro absorbe el calor. Si le cubro la cabeza…,"Esfuerzo, combate",14,5.4
+C4_LOC03_130,C4,C4_LOC03,EVT fin,CENTINELA,Tem… peratura… crítica. Instrucción… incompleta. In… com…,Se apaga lentamente,7,2.7
+C4_LOC03_140,C4,C4_LOC03,CONT,LUNE,(respirando fuerte) Lo siento. No era culpa tuya.,Sincero,6,2.3
+C4_LOC03_150,C4,C4_LOC03,SALIDA,ERRANTE,Integridad del blindaje: treinta y cuatro por ciento. Se recomienda regresar de inmediato.,Alerta,13,5.0
+C4_VIA03_010,C4,C4_VIA03,RUTA 0%,LUNE,"GOLIAT, ¿me oyes? Encontré el fantasma. Era un robot. Vegano.",Cansado,10,3.8
+C4_VIA03_020,C4,C4_VIA03,CONT,GOLIAT,(radio) ¿Un robot? ¿Cómo era?,"Interesado, inquieto",4,1.5
+C4_VIA03_030,C4,C4_VIA03,RUTA 20%,LUNE,"Grande. Solo. Lo mandaron al Sol sin protección. Cuando lo apagué, todavía intentaba cumplir una orden.",Afectado,16,6.2
+C4_VIA03_040,C4,C4_VIA03,CONT,GOLIAT,"(radio, pausa) …Podría haber sido yo. Si me hubieran dejado en la prensa. Si alguien me hubiera dado órdenes malas.",Muy bajo,18,6.9
+C4_VIA03_050,C4,C4_VIA03,CONT,LUNE,No. No podría haber sido tú. Porque tú le habrías dicho a alguien que no.,"Firme, cálido",15,5.8
+C4_VIA03_060,C4,C4_VIA03,RUTA 40% · EVT(noticia),GOLIAT,"(radio, alterado) Darío. Urquiza está muerto. En el gimnasio. La gravedad artificial saltó al triple mientras entrenaba. Dicen que fue un accidente.",Conmocionado,20,7.7
+C4_VIA03_070,C4,C4_VIA03,CONT,LUNE,¿Accidente?,Escéptico,1,0.4
+C4_VIA03_080,C4,C4_VIA03,CONT,GOLIAT,(radio) No. No lo es. Darío… déjame resolverlo a mí. Sé quién fue. Creo que sé.,"Decidido, nuevo tono",15,5.8
+C4_VIA03_090,C4,C4_VIA03,CONT,LUNE,¿No me lo vas a decir?,Sorprendido,6,2.3
+C4_VIA03_100,C4,C4_VIA03,RUTA 65%,GOLIAT,(radio) Siempre te guardas los planes hasta el final. Hoy me toca a mí. Quiero que veas que no sólo sirvo para morder tobillos.,"Orgulloso, vulnerable",23,8.8
+C4_VIA03_110,C4,C4_VIA03,CONT,LUNE,"(sonríe) De acuerdo, detective.",Le cede el escenario,3,1.2
+C4_VIA03_120,C4,C4_VIA03,RUTA 90%,ERRANTE,Observatorio a la vista. Blindaje: nueve por ciento. Aterrizaje justo.,Alerta,10,3.8
+C4_VIA03_R01,C4,C4_VIA03,IDLE ≥15 s,LUNE,(para sí) Si un vegano no mandaría a un robot sin protección… entonces lo mandó alguien que no lo quería.,Relleno; deducción,18,6.9
+C4_VIA03_R02,C4,C4_VIA03,IDLE ≥15 s,GOLIAT,"(radio) Estoy ensayando mi discurso. ¿Queda mejor «¡El culpable es…!» o «Señoras y señores, el culpable es…»?",Relleno,16,6.2
+C4_LOC04_010,C4,C4_LOC04,INTERACT(control de gravedad),GOLIAT,El registro dice que el control del gimnasio sólo se maneja con la llave de un directivo. Hay dos llaves: Pereda y Coll.,**Pista P4-03**,23,8.8
+C4_LOC04_020,C4,C4_LOC04,INTERACT(cabina de Urquiza),GOLIAT,Un expediente. «H. Coll: deudas de juego; desvío de fondos del proyecto». Urquiza lo estaba chantajeando.,**Pista P4-04**,16,6.2
+C4_DED01_010,C4,C4_DED01,INICIO,GOLIAT,"Señoras y señores. (carraspeo mecánico) Señoras, señores y doctor Garde. Urquiza no murió por accidente.","Solemne, nervioso",13,5.0
+C4_DED01_020,C4,C4_DED01,ACUSACIÓN errónea: Mendel,GOLIAT,¿Mendel? Estaba sedado en la enfermería. Lo comprobé yo. Dos veces. Siguiente.,Respuesta al error,12,4.6
+C4_DED01_030,C4,C4_DED01,ACUSACIÓN errónea: Garde,DR. GARDE,"Detestaba a ese hombre, sí. Pero yo curo a la gente, robot.",Respuesta al error,12,4.6
+C4_DED01_040,C4,C4_DED01,ACUSACIÓN correcta: Coll,GOLIAT,Subdirector Coll. Urquiza sabía lo de sus deudas y lo exprimía. Usted tenía una de las dos llaves. Triplicó la gravedad y lo aplastó contra el suelo.,"Firme, crece",27,10.4
+C4_DED01_050,C4,C4_DED01,CONT,COLL,"(derrumbándose) Me iba a hundir. A mí, a mi familia. Sólo quería que se callara.",Confesión,14,5.4
+C4_DED01_060,C4,C4_DED01,CONT,LUNE,"(bajo) Bien hecho, detective.",Orgullo,3,1.2
+C4_DED01_070,C4,C4_DED01,CONT,GOLIAT,"(bajo, temblando) ¿Bien? ¿De verdad bien? ¿Bien de los buenos?",Euforia contenida,8,3.1
+C4_DED01_080,C4,C4_DED01,CONT,PEREDA,¡Pero el sabotaje sigue sin resolverse! ¡El robot! ¡Es la prueba de que Vega está aquí!,Triunfal,16,6.2
+C4_DED01_090,C4,C4_DED01,ACUSACIÓN errónea: Vega,LUNE,"Aquí el único vegano es el robot, director. Y vino en su equipaje.",Respuesta al error (le contesta a Pereda),13,5.0
+C4_DED01_100,C4,C4_DED01,ACUSACIÓN correcta: Pereda,LUNE,En Vega aman a sus robots. Nadie allí mandaría a uno al Sol sin aislamiento. El robot tenía una placa: «Asignado a huésped: L. Pereda». Se lo prestaron cuando estuvo allí. Usted lo robó.,Implacable,34,13.1
+C4_DED01_110,C4,C4_DED01,CONT,LUNE,Saboteó su propio proyecto para que la Federación creyera que Vega nos atacaba. Y nos rajó los trajes para que el inspector incómodo no encontrara el robot.,Firme,27,10.4
+C4_DED01_120,C4,C4_DED01,CONT,PEREDA,¡Alguien tenía que despertarlos! ¡Vega se arma y nosotros discutimos presupuestos!,Fanático,11,4.2
+C4_DED01_130,C4,C4_DED01,CONT,LUNE,"Existe un tratado de extradición, director. Robo de propiedad vegana. Puedo entregarlo a ellos.",Amenaza calculada,14,5.4
+C4_DED01_140,C4,C4_DED01,CONT,PEREDA,(palidece) ¿A Vega? No… no. Firmo la confesión. Firmo lo que quiera.,Pánico,11,4.2
+C4_CIN01_010,C4,C4_CIN01,INICIO,GOLIAT,¿Lo habrías entregado a Vega de verdad?,Inquieto,7,2.7
+C4_CIN01_020,C4,C4_CIN01,CONT,LUNE,"No. Pero el miedo a Vega le hizo hacer todo esto, y el miedo a Vega le hizo confesar. Fue cruel. Y me da pena. A su manera, tenía razón: Vega es un peligro. Sólo que no en esta roca.",Cansado,40,15.4
+C4_CIN01_030,C4,C4_CIN01,CONT,CORVO,(llamada) La senadora Varón ya ha declarado que la ACS «tapa sus propios crímenes». Quiere una comisión.,Agotada,16,6.2
+C4_CIN01_040,C4,C4_CIN01,CONT,LUNE,Que la tenga. Una agencia que nadie vigila termina siendo una dictadura. Necesitamos a gente como ella. Aunque no nos guste.,Convencido,21,8.1
+C4_CIN01_050,C4,C4_CIN01,CONT,GOLIAT,A mí no me gusta. Pero Urquiza… al final no era tan horrible. Me dijo «te debo una».,Pensativo,18,6.9
+C4_CIN01_060,C4,C4_CIN01,CONT,GOLIAT,Darío. ¿Cuándo me vas a contar los planes antes?,Directo,9,3.5
+C4_CIN01_070,C4,C4_CIN01,CONT,LUNE,Cuando no quieras pegarle a cada hombre que te llame pequeño.,"Sonrisa, le despeina la antena",11,4.2
+C4_CIN01_080,C4,C4_CIN01,CONT,GOLIAT,Entonces nunca.,"Resignado, feliz",2,0.8
+C4_CIN01_090,C4,C4_CIN01,CONT,LUNE,Vámonos. El sistema es grande y en algún sitio alguien ya está tramando algo.,Ligero. **FIN DEL CAPÍTULO 4**,14,5.4
+C5_VIA01_010,C5,C5_VIA01,RUTA 0%,CORVO,"(holograma) Agrav. Antigravedad. Si Vega lo tiene antes que nosotros, sus naves maniobran como pájaros y las nuestras como ladrillos. Y alguien en Júpiter Nueve les está mandando los planos.",Grave,29,11.2
+C5_VIA01_020,C5,C5_VIA01,CONT,CORVO,Darío… sé que abuso. Siempre te mando a ti. Te convertiste en mi carta escondida.,"Cansada, sincera",15,5.8
+C5_VIA01_030,C5,C5_VIA01,CONT,LUNE,Para eso están las cartas escondidas.,Tranquilo,6,2.3
+C5_VIA01_040,C5,C5_VIA01,CONT,GOLIAT,¿Y yo qué soy? ¿El comodín?,Celoso,6,2.3
+C5_VIA01_050,C5,C5_VIA01,CONT,CORVO,Tú eres el que muerde.,"Seca, con cariño",5,1.9
+C5_VIA01_060,C5,C5_VIA01,CONT,GOLIAT,…Lo acepto.,Satisfecho,2,0.8
+C5_VIA01_070,C5,C5_VIA01,RUTA 25%,GOLIAT,¿Y por qué llevamos una ondina? La última vez se bebió mi sangre.,Desconfiado,13,5.0
+C5_VIA01_080,C5,C5_VIA01,CONT,LUNE,"Porque siente emociones a distancia. En una base con mil personas, el espía estará nervioso. Ella lo notará.",Plan,18,6.9
+C5_VIA01_090,C5,C5_VIA01,CONT,GOLIAT,"Me está mirando. Me mira con hambre. Darío, dile que mi lubricante ya no está en el menú.",Inquieto,18,6.9
+C5_VIA01_100,C5,C5_VIA01,RUTA 50%,GOLIAT,"Júpiter… Darío, mira eso. Es tan grande que parece que se va a caer encima de la nave.",Sobrecogido,18,6.9
+C5_VIA01_110,C5,C5_VIA01,CONT,LUNE,Cabrían mil Tierras dentro. Y esa mancha roja es una tormenta más grande que nuestro planeta.,Contemplativo,16,6.2
+C5_VIA01_120,C5,C5_VIA01,CONT,GOLIAT,Y yo me quejaba de las tormentas de Marte.,Humilde,9,3.5
+C5_VIA01_130,C5,C5_VIA01,RUTA 75%,FERRÁN,(llamada) Un aviso: en Júpiter Nueve hay mucha gente con un pasado complicado. Y casi ninguno ha visto un robot de cerca. Los rumores sobre los robots de Vega los tienen asustados.,Advertencia,31,11.9
+C5_VIA01_140,C5,C5_VIA01,CONT,GOLIAT,Genial. Voy a ser el más popular de la fiesta.,Sarcástico,10,3.8
+C5_VIA01_150,C5,C5_VIA01,RUTA 95%,ERRANTE,"Júpiter Nueve. Ciento cuarenta kilómetros de roca, a veintitrés millones de kilómetros de Júpiter. Pista de atraque dos.",Sintético,18,6.9
+C5_VIA01_R01,C5,C5_VIA01,IDLE ≥15 s,GOLIAT,(a la ondina) No me mires así. Soy un robot con principios. Y con juntas selladas.,Relleno,13,5.0
+C5_VIA01_R02,C5,C5_VIA01,IDLE ≥15 s,LUNE,(para sí) Un espía en una base aislada. Todo el mundo vigila a todo el mundo. Ahí es fácil esconderse.,Relleno,18,6.9
+C5_VIA01_R03,C5,C5_VIA01,IDLE ≥15 s,GOLIAT,"Si Júpiter tiene sesenta lunas, ¿cuál es la más bonita? Pregunto para la postal.",Relleno,14,5.4
+C5_LOC01_010,C5,C5_LOC01,LLEGADA,REYES,Inspector Lune. Le pedí a la Agencia que no viniera. Mis hombres no quieren espías de la Tierra. Y menos con una máquina.,Fría,23,8.8
+C5_LOC01_020,C5,C5_LOC01,CONT,GOLIAT,GOLIAT. «La máquina» tiene nombre.,Seco,5,1.9
+C5_LOC01_030,C5,C5_LOC01,CONT,REYES,"Aquí nadie confía en lo que piensa sin sangre, robot.",Desprecio,10,3.8
+C5_LOC01_040,C5,C5_LOC01,CONT,LUNE,"Comandante, tengo autoridad federal sobre esta base. Puedo relevarla con una sola llamada. Preferiría no tener que hacerla.","Duro de golpe, actuado",18,6.9
+C5_LOC01_050,C5,C5_LOC01,CONT,REYES,(tensa) …Entendido.,Cede,1,0.4
+C5_LOC01_060,C5,C5_LOC01,CONT,GOLIAT,(bajo) ¿Desde cuándo das miedo?,Impresionado,4,1.5
+C5_LOC01_070,C5,C5_LOC01,CONT,LUNE,"(bajo) Desde hace diez segundos. Quería ver qué captaba la ondina cuando yo me enfadara. Captó mi furia, ¿no? Entonces funciona. Ahora iré a pedirle disculpas.",Sonrisa,25,9.6
+C5_LOC01_080,C5,C5_LOC01,EXPLORAR,CALDER,"(masticando chicle) Bienvenido, inspector. Le hemos preparado un recibimiento en el pasillo Agrav. Es tradición.",Burlón,13,5.0
+C5_LOC01_090,C5,C5_LOC01,CONT,BRANN,"Lucha Agrav. Sin gravedad, sólo con los mandos del cinturón. No es personal, inspector.","Grave, respetuoso",14,5.4
+C5_LOC01_100,C5,C5_LOC01,EVT(pelea Agrav),LUNE,¡Los mandos no responden! ¡Alguien los tocó!,Esfuerzo,7,2.7
+C5_LOC01_110,C5,C5_LOC01,CONT,GOLIAT,(gritando desde fuera) ¡Calder! ¡Vi tu mano en el cinturón! ¡Te voy a…!,Furioso,10,3.8
+C5_LOC01_120,C5,C5_LOC01,"EVT fin, victoria",BRANN,(en el suelo) Por las lunas… este chico tiene muelles en vez de huesos.,Admirado,11,4.2
+C5_LOC01_130,C5,C5_LOC01,CONT,LUNE,"Aquí no ha pasado nada. Fue un recibimiento. Mañana, todos a trabajar.",Generoso,12,4.6
+C5_LOC01_140,C5,C5_LOC01,CONT,GOLIAT,"Claro, Darío. Lo que tú digas, Darío.",Demasiado inocente,7,2.7
+C5_LOC01_150,C5,C5_LOC01,CONT,LUNE,"Cuando dices «claro» con esa voz, es que has roto algo. ¿Qué hiciste?",Sospecha,13,5.0
+C5_LOC01_160,C5,C5_LOC01,CONT,GOLIAT,Nada. Le acerqué la ondina a Brann. Ella le pasaba lo que tú sentías. Y tú tenías tantas ganas de ganar…,Inocente,21,8.1
+C5_LOC01_170,C5,C5_LOC01,CONT,LUNE,"O sea que le llenaste la cabeza a mi rival con mis ganas de ganar. Eso no es ayudar, GOLIAT. Es hacer trampa.","Reprende, divertido a su pesar",23,8.8
+C5_LOC01_180,C5,C5_LOC01,CONT,GOLIAT,"Técnicamente, ganaste tú. Yo sólo te ayudé con la técnica.",Defensa,10,3.8
+C5_LOC01_190,C5,C5_LOC01,CONT,SASHA PANN,"Inspector. Ya que sabe moverse en Agrav, le instalamos un propulsor experimental en la nave. Si va a volar aquí, lo va a necesitar.",Práctica. **Flag `F_AGRAV`**,24,9.2
+C5_LOC01_200,C5,C5_LOC01,INTERACT(Nordin),NORDIN,Así que ustedes son la tormenta de la que todos hablan. Siéntense. Éste es Bruno. No muerde a los amigos.,Cálido,20,7.7
+C5_LOC01_210,C5,C5_LOC01,CONT,GOLIAT,"Hola, Bruno. Eres precioso. Mucho más que la ondina.",Encantado,9,3.5
+C5_LOC01_220,C5,C5_LOC01,CONT,NORDIN,"Perdí la vista en un accidente del reactor, hace años. Bruno me cuida. El perro anterior se murió. A éste me lo consiguió Rusty Calder. Por medios… poco oficiales.",Agradecido. **Pista P5-03**,29,11.2
+C5_LOC01_230,C5,C5_LOC01,CONT,LUNE,¿Es muy protector?,Casual,3,1.2
+C5_LOC01_240,C5,C5_LOC01,CONT,NORDIN,Haz la prueba. Amenázame.,Divertido,4,1.5
+C5_LOC01_250,C5,C5_LOC01,CONT,GOLIAT,"(levanta el brazo, en broma) ¡Arrr!",Teatral,1,0.4
+C5_LOC01_260,C5,C5_LOC01,CONT,BRUNO,"(gruñido grave, se interpone)",SFX,0,0.0
+C5_LOC01_270,C5,C5_LOC01,CONT,GOLIAT,"¡Vale, vale! ¡Bruno, era broma! Darío, qué perro tan leal.",Impresionado,10,3.8
+C5_LOC01_280,C5,C5_LOC01,CONT,GOLIAT,"(bajo, mirando el terrario) Qué raro. La ondina sintió mi broma y tu curiosidad. Pero de Bruno… nada. Como si no estuviera.",Comentario de pasada; Lune no reacciona. **Pista P5-01**,18,6.9
+C5_LOC02_010,C5,C5_LOC02,LLEGADA,GOLIAT,Darío. Despierta. La ondina… está muerta. La cerradura está fundida.,Conmocionado,10,3.8
+C5_LOC02_020,C5,C5_LOC02,CONT,LUNE,"Estaba a medio metro de mi cama y no me despertó. Si alguien se acerca con odio, con miedo, con cualquier cosa, ella lo transmite.",Analítico,25,9.6
+C5_LOC02_030,C5,C5_LOC02,CONT,LUNE,La mató alguien que no sentía nada. Nada en absoluto.,Grave. **Pista P5-02**,10,3.8
+C5_LOC02_040,C5,C5_LOC02,CONT,GOLIAT,Un robot.,Muy bajo,2,0.8
+C5_LOC02_050,C5,C5_LOC02,CONT,LUNE,"Un robot que no puede dañar a un humano, pero sí a una ondina. Y que tiene órdenes de alguien que sí siente: Vega.",Firme,24,9.2
+C5_LOC02_060,C5,C5_LOC02,CONT,REYES,"(entra con guardias) Ya lo he oído, inspector. Un robot. Y en esta base hay uno solo.",Fría,14,5.4
+C5_LOC02_070,C5,C5_LOC02,CONT,GOLIAT,¿Yo? ¡Yo estaba en modo de reposo! ¡Al lado de su cama!,Pánico,12,4.6
+C5_LOC02_080,C5,C5_LOC02,CONT,REYES,Exacto. Al lado. Esposas magnéticas. Queda bajo custodia.,Orden,8,3.1
+C5_LOC02_090A,C5,C5_LOC02,ELECCIÓN,LUNE (A),"Comandante, se está equivocando. GOLIAT viene conmigo.",Defiende (Reyes cede a medias),7,2.7
+C5_LOC02_090B,C5,C5_LOC02,ELECCIÓN,LUNE (B),"Está bien. Que lo custodien. Pero viene en el vuelo de prueba, donde yo pueda verlo.",Estratégico,16,6.2
+C5_LOC02_100,C5,C5_LOC02,COND(A),REYES,Viene con usted. Esposado. En una jaula de carga. O no viene nadie.,Compromiso,13,5.0
+C5_LOC02_110,C5,C5_LOC02,COND(B),REYES,Aceptable. En una jaula de carga.,Fría,6,2.3
+C5_LOC02_120,C5,C5_LOC02,CONT,GOLIAT,"(mientras lo esposan) Darío… tú no crees que fui yo, ¿verdad?",Vulnerable,8,3.1
+C5_LOC02_130,C5,C5_LOC02,CONT,LUNE,Ni un segundo.,"Inmediato, firme. **Flag `F_GOLIAT_DETENIDO`**",3,1.2
+C5_LOC02_140,C5,C5_LOC02,CONT,GOLIAT,Vale. Entonces aguanto. Pero que conste: la jaula es de mala calidad.,Recupera el humor,12,4.6
+C5_VIA02_010,C5,C5_VIA02,RUTA 0%,REYES,"*Ícaro*, despegue. Primer vuelo tripulado con Agrav. Inspector, no me lo estrelle.",Tensa,12,4.6
+C5_VIA02_020,C5,C5_VIA02,CONT,LUNE,Haré lo posible por estrellarlo poco.,Seco,6,2.3
+C5_VIA02_030,C5,C5_VIA02,RUTA 15%,GOLIAT,(desde la jaula) Desde aquí no se ve nada. Sólo la espalda de Brann. Tiene una espalda muy expresiva.,Aburrido,16,6.2
+C5_VIA02_040,C5,C5_VIA02,CONT,BRANN,"(se aparta) Mira, robot. Ahí tienes la ventana.",Gesto amable inesperado,6,2.3
+C5_VIA02_050,C5,C5_VIA02,CONT,GOLIAT,"…Gracias, Brann.",Sorprendido,2,0.8
+C5_VIA02_060,C5,C5_VIA02,CONT,BRANN,Peleaste por tu amigo en el pasillo. Yo respeto eso. Aunque seas de metal.,Grave,14,5.4
+C5_VIA02_070,C5,C5_VIA02,RUTA 30%,NORDIN,"Inspector, cuénteme qué ve. Yo me imagino Júpiter, pero quiero saber si me lo imagino bien.",Dulce,16,6.2
+C5_VIA02_080,C5,C5_VIA02,CONT,LUNE,"Franjas de colores que se mueven como ríos. Naranja, crema, marrón. Y una mancha roja, como un ojo.",Le describe con cuidado,18,6.9
+C5_VIA02_090,C5,C5_VIA02,CONT,NORDIN,Me lo imaginaba más azul. Me gusta más así.,Sonrisa,9,3.5
+C5_VIA02_100,C5,C5_VIA02,EVT(eclipse),ERRANTE,(repetidor) Ganímedes en tránsito. Eclipse parcial de Júpiter.,Sintético,7,2.7
+C5_VIA02_110,C5,C5_VIA02,CONT,GOLIAT,Una sombra redonda sobre Júpiter. Parece una moneda en una mesa enorme.,Asombro,12,4.6
+C5_VIA02_120,C5,C5_VIA02,RUTA 75%,LUNE,Ío a la vista. Volcanes de azufre. Ríos de amoníaco. Nadie ha pisado esa luna jamás.,Concentrado,16,6.2
+C5_VIA02_130,C5,C5_VIA02,CONT,CALDER,(mascando) Habrá que hacerse famoso.,Sombrío,4,1.5
+C5_VIA02_140,C5,C5_VIA02,RUTA 95%,LUNE,"(para sí, contando por la ventanilla) Dieciséis humanos. Y un solo robot, que yo sepa.","Ironía: cuenta a GOLIAT, y se equivoca sin saberlo",9,3.5
+C5_VIA02_R01,C5,C5_VIA02,IDLE ≥15 s,GOLIAT,"(jaula) Si me dejáis salir, os enseño a jugar al «adivina la roca». Es muy divertido. Bueno, no mucho.",Relleno,18,6.9
+C5_VIA02_R02,C5,C5_VIA02,IDLE ≥15 s,SASHA PANN,"Los relés gravitatorios aguantan. Por ahora. No me hagan caso, soy pesimista por contrato.",Relleno,14,5.4
+C5_VIA02_R03,C5,C5_VIA02,IDLE ≥15 s,BRUNO,"(gimotea suavemente, apoyado en Nordin)",Relleno SFX,0,0.0
+C5_LOC03_010,C5,C5_LOC03,LLEGADA,REYES,"Federación Solar, aquí el *Ícaro*. Primeros humanos en Ío.","Emocionada, solemne",9,3.5
+C5_LOC03_020,C5,C5_LOC03,EXPLORAR,NORDIN,"Los primeros en la Luna, en Marte, en Venus… nadie recuerda los nombres. Pero ellos sí recordaban el paso.",Reflexivo,19,7.3
+C5_LOC03_030,C5,C5_LOC03,CONT,LUNE,Júpiter tapa medio cielo desde aquí.,Asombro,6,2.3
+C5_LOC03_040,C5,C5_LOC03,EVT(caída),NORDIN,¡Resbalo…! ¡Ah!,"Grito, chapoteo",2,0.8
+C5_LOC03_050,C5,C5_LOC03,CONT,GOLIAT,(radio desde la nave) ¡Nordin al río! ¡Que alguien me suelte! ¡Puedo bajar!,Desesperado,9,3.5
+C5_LOC03_060,C5,C5_LOC03,CONT,BRUNO,"(ladrido, salta al río)",SFX,0,0.0
+C5_LOC03_070,C5,C5_LOC03,CONT,LUNE,¡Bruno lo tiene! ¡Lo está arrastrando a la orilla!,Esfuerzo,9,3.5
+C5_LOC03_080,C5,C5_LOC03,CONT,NORDIN,(tosiendo) Bruno… buen chico. Me cerró el casco con los dientes.,Alivio,10,3.8
+C5_LOC03_090,C5,C5_LOC03,CONT,SASHA PANN,"Y el casco del perro estaba cerrado y sin oxígeno. Diez minutos en el río, ¿y sigue meneando la cola?","Extrañada, de pasada. **Pista P5-04**",20,7.7
+C5_LOC03_100,C5,C5_LOC03,CONT,LUNE,Animales de Júpiter Nueve. Más duros que nosotros.,Distraído; se le escapa la pista,8,3.1
+C5_LOC03_110,C5,C5_LOC03,CONT,GOLIAT,(radio) ¿Dónde está Calder? No lo veo en el grupo.,Alerta,9,3.5
+C5_VIA03_010,C5,C5_VIA03,RUTA 0%,REYES,Despegue de Ío. Rumbo a Júpiter Nueve.,Rutina,7,2.7
+C5_VIA03_020,C5,C5_VIA03,EVT(fallo de relés),SASHA PANN,"¡Relés gravitatorios fundidos! ¡Todos a la vez! ¡No es un fallo, alguien los preparó!",Alarma,14,5.4
+C5_VIA03_030,C5,C5_VIA03,CONT,ERRANTE,(repetidor) Trayectoria: caída hacia Júpiter. Impacto con la atmósfera estimado en cuarenta minutos.,Alerta,12,4.6
+C5_VIA03_040,C5,C5_VIA03,CONT,SASHA PANN,No hay nada que hacer. Estamos muertos. Todos.,Derrumbe,8,3.1
+C5_VIA03_050,C5,C5_VIA03,CONT,LUNE,"Todavía pensamos. Mientras pensemos, hay salida. Comandante, suelte a GOLIAT.",Firme,10,3.8
+C5_VIA03_060,C5,C5_VIA03,CONT,REYES,"¿Está loco? ¡Si es el saboteador, nos remata!",Furiosa,8,3.1
+C5_VIA03_070,C5,C5_VIA03,CONT,LUNE,"Si es el saboteador, ya estamos muertos. Si no lo es, es el único que puede meter las manos en un relé a ciento cincuenta grados. Suéltelo.",Implacable,27,10.4
+C5_VIA03_080,C5,C5_VIA03,CONT,REYES,(pausa) …Suéltenlo.,Cede,1,0.4
+C5_VIA03_090,C5,C5_VIA03,CONT,GOLIAT,"(fuera de la jaula) Por fin. Abran paso. Robot pequeño, manos pequeñas, relés pequeños.",Decidido,10,3.8
+C5_VIA03_100,C5,C5_VIA03,RUTA 40%,GOLIAT,Relé uno… soldado. Quema. Quema mucho. Relé dos…,Esfuerzo,8,3.1
+C5_VIA03_110,C5,C5_VIA03,CONT,LUNE,"Necesito un punto de apoyo. Amaltea. Es pequeña, pero tiene gravedad suficiente para frenarnos con el Agrav.",Calculando,17,6.5
+C5_VIA03_120,C5,C5_VIA03,CONT,SASHA PANN,¡Eso es una locura de maniobra!,Incrédula,6,2.3
+C5_VIA03_130,C5,C5_VIA03,CONT,LUNE,¿Tiene otra?,Seco,2,0.8
+C5_VIA03_140,C5,C5_VIA03,RUTA 70%,GOLIAT,"¡Relé tres! ¡Tienes media potencia, Darío! ¡Es todo lo que puedo darte!",Agotado,12,4.6
+C5_VIA03_150,C5,C5_VIA03,EVT(frenado en Amaltea),LUNE,Agrav al máximo. Agárrense.,Concentración total,4,1.5
+C5_VIA03_160,C5,C5_VIA03,RUTA 100%,ERRANTE,(repetidor) Contacto con la superficie de Amaltea. Tripulación: estable.,Sintético,8,3.1
+C5_VIA03_170,C5,C5_VIA03,CONT,REYES,(larga exhalación) Robot. GOLIAT. Gracias.,"Sincera, primera vez que lo llama por su nombre",3,1.2
+C5_VIA03_180,C5,C5_VIA03,CONT,GOLIAT,"(las manos echando humo) De nada, comandante. Me debe una jaula mejor.","Agotado, digno",8,3.1
+C5_VIA03_R01,C5,C5_VIA03,IDLE ≥15 s,GOLIAT,Quema. Quema. Quema. No me hagáis caso. Sigo.,Relleno durante la reparación,8,3.1
+C5_VIA03_R02,C5,C5_VIA03,IDLE ≥15 s,NORDIN,"Bruno está temblando. Tranquilo, chico. Tranquilo.",Relleno,6,2.3
+C5_LOC04_010,C5,C5_LOC04,LLEGADA,REYES,Lista. Ahora.,Seca,2,0.8
+C5_LOC04_020,C5,C5_LOC04,CONT,TENIENTE NESTA,…Quince. Falta Calder.,Inquieto,3,1.2
+C5_LOC04_030,C5,C5_LOC04,CONT,NORDIN,Mi culpa. Me pidió que dijera que estaba a bordo. Que tenía que recoger muestras. Pobre Rusty… siempre tuvo una vida rota.,Culpable,22,8.5
+C5_LOC04_040,C5,C5_LOC04,CONT,LUNE,Se quedó en Ío porque sabía que el *Ícaro* no iba a llegar.,Grave,13,5.0
+C5_LOC04_050,C5,C5_LOC04,SALIDA,LUNE,"GOLIAT, vienes conmigo. Comandante, ¿alguna objeción?",Mirada a Reyes,6,2.3
+C5_LOC04_060,C5,C5_LOC04,CONT,REYES,Ninguna. Ya no.,Respeto,3,1.2
+C5_VIA04_010,C5,C5_VIA04,RUTA 0%,LUNE,"Calder, aquí Lune. Sé que me oyes.",Firme,7,2.7
+C5_VIA04_020,C5,C5_VIA04,RUTA 20%,CALDER,(radio) ¿Sobrevivieron? Claro que sí. Siempre sobreviven los de la Agencia.,Amargo,10,3.8
+C5_VIA04_030,C5,C5_VIA04,CONT,LUNE,"¿Por cuánto los vendiste, Rusty?",Duro,5,1.9
+C5_VIA04_040,C5,C5_VIA04,RUTA 40%,CALDER,"(radio) ¿Dinero? No. Me ofrecieron aire, inspector. Un planeta nuevo. Limpio. Sin colas para el agua, sin vecinos encima, sin la Tierra apretándome el cuello.","Furioso, quebrado. **Pista P5-05**",24,9.2
+C5_VIA04_050,C5,C5_VIA04,CONT,GOLIAT,¿Y el perro? ¿Lo trajiste tú?,Directo,6,2.3
+C5_VIA04_060,C5,C5_VIA04,RUTA 60%,CALDER,"(radio, risa amarga) El perro… pregúntale al perro.",Críptico,5,1.9
+C5_VIA04_070,C5,C5_VIA04,RUTA 80%,LUNE,"Calder, no hagas nada. Vamos a buscarte.",Urgente,7,2.7
+C5_VIA04_080,C5,C5_VIA04,CONT,CALDER,(radio) No me van a llevar de vuelta a la Tierra.,Final,10,3.8
+C5_VIA04_R01,C5,C5_VIA04,IDLE ≥15 s,GOLIAT,«Pregúntale al perro». ¿Qué quiso decir?,Relleno; insiste en la pista,6,2.3
+C5_LOC05_010,C5,C5_LOC05,LLEGADA,GOLIAT,Allí. Al borde. ¡No!,Grito,4,1.5
+C5_LOC05_020,C5,C5_LOC05,CONT,LUNE,(silencio de tres segundos) Lo engañaron con un cielo limpio.,"Bajo, compasivo",6,2.3
+C5_LOC05_030,C5,C5_LOC05,CONT,GOLIAT,Y él nos vendió a todos por ese cielo.,Herido,9,3.5
+C5_LOC05_040,C5,C5_LOC05,CONT,LUNE,Nadie va a recordar que pisamos Ío. Van a recordar esto.,Amargo,11,4.2
+C5_LOC05_050,C5,C5_LOC05,CONT,LUNE,(para sí) Nordin cayó al río… y Bruno lo salvó. Calder cayó… y aquí no hay ningún Bruno. Diez minutos sin aire. «Pregúntale al perro».,Revelación lenta,23,8.8
+C5_LOC05_060,C5,C5_LOC05,CONT,LUNE,"GOLIAT. Estaba buscando un robot con forma de hombre. Y lo tenía a mis pies, moviendo la cola.",Revelación,18,6.9
+C5_LOC05_070,C5,C5_LOC05,CONT,GOLIAT,…Bruno.,Dolido; le caía bien,1,0.4
+C5_VIA05_010,C5,C5_VIA05,RUTA 0%,GOLIAT,Me gustaba Bruno.,Triste,3,1.2
+C5_VIA05_020,C5,C5_VIA05,CONT,LUNE,Bruno no eligió nada. Igual que el robot de Mercurio.,Suave,10,3.8
+C5_VIA05_030,C5,C5_VIA05,RUTA 25%,LUNE,Tiene que delatarse delante de todos. Un robot no puede dejar que hieran a un humano. Y su orden secreta le prohíbe revelarse. Si lo obligamos a elegir…,Plan,28,10.8
+C5_VIA05_040,C5,C5_VIA05,CONT,GOLIAT,…se queda trabado. Como Centinela.,Comprende,5,1.9
+C5_VIA05_050,C5,C5_VIA05,RUTA 40%,LUNE,Necesito que «ataques» a Nordin. Delante de Bruno.,Directo,8,3.1
+C5_VIA05_060,C5,C5_VIA05,CONT,GOLIAT,¡Mis Protocolos me lo prohíben!,Escandalizado,5,1.9
+C5_VIA05_070,C5,C5_VIA05,CONT,LUNE,Tus Protocolos te prohíben hacerle daño. No te prohíben actuar.,Divertido,10,3.8
+C5_VIA05_080,C5,C5_VIA05,RUTA 55%,GOLIAT,…Actuar. Voy a ser el mejor villano falso de la historia. ¿Tengo que decir «¡muajajá!»?,Entusiasmo,15,5.8
+C5_VIA05_090,C5,C5_VIA05,CONT,LUNE,"Por favor, no.",Seco,3,1.2
+C5_VIA05_100,C5,C5_VIA05,RUTA 75%,LUNE,Y GOLIAT: primero voy a acusar a Nordin. En voz alta. Va a sonar horrible. Tienes que seguirme el juego.,Grave,20,7.7
+C5_VIA05_110,C5,C5_VIA05,CONT,GOLIAT,¿A Nordin? Le va a romper el corazón.,Preocupado,8,3.1
+C5_VIA05_120,C5,C5_VIA05,RUTA 90%,LUNE,Por eso después le vamos a dar algo mejor.,Promesa,9,3.5
+C5_VIA05_R01,C5,C5_VIA05,IDLE ≥15 s,GOLIAT,"(ensayando) «¡Ríndase, Nordin!». No. «¡Tiemble, Nordin!». Tampoco. Esto es más difícil de lo que parece.",Relleno,14,5.4
+C5_DED01_010,C5,C5_DED01,INICIO,LUNE,Calder trabajaba para Vega. Pero Calder sólo tocaba los relés. Los planos los mandaba otro. Alguien que estuvo en cada reunión del proyecto.,Tenso,23,8.8
+C5_DED01_020,C5,C5_DED01,ACUSACIÓN errónea: GOLIAT,REYES,"(si el jugador acusa a GOLIAT) Inspector, ese robot nos salvó la vida en la caída. Ni yo me lo creo ya.",Respuesta al error,16,6.2
+C5_DED01_030,C5,C5_DED01,ACUSACIÓN errónea: Brann,BRANN,"¿Yo? Yo no sé ni escribir un informe, inspector.",Respuesta al error,9,3.5
+C5_DED01_040,C5,C5_DED01,ACUSACIÓN errónea: Pann,SASHA PANN,"Si yo fuera espía, lo haría mucho mejor. Y me quejaría menos.",Respuesta al error,12,4.6
+C5_DED01_050,C5,C5_DED01,"ACUSACIÓN correcta (fase 1, trampa)",LUNE,Hal Nordin. Usted estuvo en cada reunión. Nadie desconfía de un ciego.,"Frío, actuado",12,4.6
+C5_DED01_060,C5,C5_DED01,CONT,NORDIN,"(devastado) ¿Yo, inspector?",Roto,2,0.8
+C5_DED01_070,C5,C5_DED01,CONT,GOLIAT,"(se lanza, teatral) ¡Traidor!",Ataque falso; el brazo se detiene a un palmo,1,0.4
+C5_DED01_080,C5,C5_DED01,CONT,BRUNO,"(gruñido que se corta; queda inmóvil, temblando; zumbido eléctrico)",SFX: conflicto de Protocolos,0,0.0
+C5_DED01_090,C5,C5_DED01,CONT,LUNE,Proteger a su dueño o no revelarse. No puede hacer las dos cosas.,Firme,13,5.0
+C5_DED01_100,C5,C5_DED01,CIN,LUNE,"(abre el pecho del perro: esfera, transmisor, cámara) Un transmisor de largo alcance. Todo lo que oía Bruno, lo oía Vega. Diez minutos sin aire en el río y meneando la cola. Bruno no es un perro, señor Nordin. Nunca lo fue.",Revelación,34,13.1
+C5_DED01_110,C5,C5_DED01,CONT,NORDIN,(larga pausa) …Me guiaba por los pasillos. Me despertaba si tenía pesadillas.,Duelo,10,3.8
+C5_DED01_120,C5,C5_DED01,CONT,GOLIAT,"(muy suave) Hacía las dos cosas, señor. Le cuidaba y le espiaba. Seguramente las dos de verdad.",Compasión robótica,15,5.8
+C5_CIN01_010,C5,C5_CIN01,INICIO,REYES,"GOLIAT. Le debo una disculpa. Y una jaula mejor, al parecer.",Sincera,11,4.2
+C5_CIN01_020,C5,C5_CIN01,CONT,GOLIAT,Acepto la disculpa. La jaula no la quiero.,Digno,8,3.1
+C5_CIN01_030,C5,C5_CIN01,CONT,CORVO,"(llamada) Si hay un perro, puede haber cien. En la Tierra hay perros guía, gatos, pájaros… Vamos a revisar cada mascota «de importación».",Alarmada,22,8.5
+C5_CIN01_040,C5,C5_CIN01,CONT,LUNE,"No ganamos la guerra, directora. Ganamos tiempo.",Cansado,7,2.7
+C5_CIN01_050,C5,C5_CIN01,CONT,LUNE,Señor Nordin. Le voy a conseguir otro perro. Uno de verdad. Que ronque y que suelte pelo.,Cálido,17,6.5
+C5_CIN01_060,C5,C5_CIN01,CONT,NORDIN,Me conformo con que me quiera.,Sonrisa triste,6,2.3
+C5_CIN01_070,C5,C5_CIN01,CONT,GOLIAT,"(en la *Errante*) Darío. Cuando Reyes me esposó, tú dijiste «ni un segundo». Lo dijiste antes de pensarlo.",Emocionado,15,5.8
+C5_CIN01_080,C5,C5_CIN01,CONT,LUNE,No hacía falta pensarlo.,Sencillo,4,1.5
+C5_CIN01_090,C5,C5_CIN01,CONT,GOLIAT,…Es lo más bonito que me han dicho sin pensar.,Conmovido. **FIN DEL CAPÍTULO 5**,10,3.8
+C6_BRF01_010,C6,C6_BRF01,INICIO,CORVO,"Revisamos cada mascota de importación: gatos, perros, un loro que recitaba poesía. Todos llevaban a un solo hombre: el Agente X.",Urgente,21,8.1
+C6_BRF01_020,C6,C6_BRF01,CONT,GOLIAT,¿Un loro espía? Siempre supe que los loros escondían algo.,Indignado,10,3.8
+C6_BRF01_030,C6,C6_BRF01,CONT,CORVO,"Acaba de romper el bloqueo de Puerto Central en una nave rápida, con una cápsula de datos. Si llega a Vega, sabrán todo lo que sabemos de ellos.",Grave,28,10.8
+C6_BRF01_040,C6,C6_BRF01,CONT,WESSEL,"Lo tengo en el radar. Va hacia afuera, por debajo del plano de los planetas. Hacia Saturno. ¿Quién le pone rumbo a Saturno a una nave de fuga?",Intrigado,28,10.8
+C6_BRF01_050,C6,C6_BRF01,CONT,LUNE,Alguien que tiene a alguien esperándolo allí.,Grave,7,2.7
+C6_BRF01_060,C6,C6_BRF01,CONT,CORVO,Wessel va con vosotros.,Orden,4,1.5
+C6_BRF01_070,C6,C6_BRF01,CONT,GOLIAT,¿Con nosotros? ¿En nuestra nave? ¿En mi asiento?,Celoso,8,3.1
+C6_BRF01_080,C6,C6_BRF01,CONT,WESSEL,"Tranquilo, pequeño. Me siento atrás.",Sonrisa,5,1.9
+C6_BRF01_090,C6,C6_BRF01,CONT,GOLIAT,«Pequeño». Lo he oído. Lo he archivado. Lo he subrayado.,Rencoroso,10,3.8
+C6_VIA01_010,C6,C6_VIA01,RUTA 0%,ERRANTE,Rumbo: Saturno. Trayectoria a ciento sesenta millones de kilómetros bajo la eclíptica. Duración estimada: veintiocho días comprimidos.,Sintético,17,6.5
+C6_VIA01_020,C6,C6_VIA01,CONT,WESSEL,Desde aquí abajo el Sistema Solar parece un plato visto desde debajo de la mesa.,Divertido,15,5.8
+C6_VIA01_030,C6,C6_VIA01,CONT,GOLIAT,Y tú pareces una lámpara de pie. Por lo alto.,Pulla,10,3.8
+C6_VIA01_040,C6,C6_VIA01,CONT,WESSEL,"Y tú, una lámpara de mesa. Una pequeña. De noche.",Contraataque,10,3.8
+C6_VIA01_050,C6,C6_VIA01,CONT,LUNE,"Si seguís así, os mando a pilotar desde la bodega. A los dos.",Seco,13,5.0
+C6_VIA01_060,C6,C6_VIA01,RUTA 15%,WESSEL,"Lune, en serio. ¿Por qué Saturno? Allí no hay nada federal más allá de dos estaciones científicas automáticas.",Serio,18,6.9
+C6_VIA01_070,C6,C6_VIA01,CONT,LUNE,Por eso. Un sitio donde no miramos nunca.,Grave,8,3.1
+C6_VIA01_080,C6,C6_VIA01,RUTA 30%,GOLIAT,¿Ves esa estrella tan brillante? Es Vega. Lo comprobé. La odio. Brilla demasiado.,Rencor infantil,13,5.0
+C6_VIA01_090,C6,C6_VIA01,CONT,WESSEL,Desde aquí está a veinticinco años luz. No te va a oír.,Divertido,12,4.6
+C6_VIA01_100,C6,C6_VIA01,CONT,GOLIAT,Algún día me oirá.,Solemne,4,1.5
+C6_VIA01_110,C6,C6_VIA01,RUTA 50%,CORVO,(llamada) Malas noticias. Los mundos exteriores empiezan a preguntar por qué la Federación persigue una nave «civil» fuera de su zona. Vega ya presentó una queja.,Tensa,25,9.6
+C6_VIA01_120,C6,C6_VIA01,CONT,LUNE,Antes de que pasara nada. Eso es interesante.,Analítico,8,3.1
+C6_VIA01_130,C6,C6_VIA01,RUTA 70%,WESSEL,"Saturno a la vista. Míralo, Lune. Con los anillos de canto parece un sombrero.",Asombro,14,5.4
+C6_VIA01_140,C6,C6_VIA01,CONT,GOLIAT,Un sombrero de hielo y piedra de doscientos mil kilómetros. Me lo pondría.,Admiración,13,5.0
+C6_VIA01_150,C6,C6_VIA01,RUTA 85%,AGENTE X,"(radio, a una frecuencia desconocida) Aquí X. Perseguido. No puedo aterrizar. Dejé… la cápsula… en la órbita de siempre… polo…",Entrecortado. **Pista P6-01**,15,5.8
+C6_VIA01_160,C6,C6_VIA01,EVT(explosión),ERRANTE,Detonación en la nave perseguida. Cerca del borde del anillo A. Sin supervivientes.,Sintético,13,5.0
+C6_VIA01_170,C6,C6_VIA01,CONT,WESSEL,Se voló él mismo antes de que lo atrapáramos.,Conmocionado,9,3.5
+C6_VIA01_180,C6,C6_VIA01,CONT,LUNE,"«La órbita de siempre». «Polo». Repítelo, *Errante*.",Concentrado,7,2.7
+C6_VIA01_R01,C6,C6_VIA01,IDLE ≥15 s,GOLIAT,"Veintiocho días con Wessel. Si me desconecto de aburrimiento, que conste en el informe.",Relleno,14,5.4
+C6_VIA01_R02,C6,C6_VIA01,IDLE ≥15 s,WESSEL,"¿Alguien quiere jugar a las cartas? GOLIAT no, que ve a través de ellas.",Relleno,14,5.4
+C6_VIA01_R03,C6,C6_VIA01,IDLE ≥15 s,GOLIAT,No veo a través de las cartas. Veo a través de las caras. Y la tuya dice «farol».,Relleno,18,6.9
+C6_VIA01_R04,C6,C6_VIA01,IDLE ≥15 s,LUNE,(para sí) Una queja de Vega antes de que pasara nada. Sabían que veníamos. Querían que viniéramos.,"Relleno, clave",15,5.8
+C6_LOC01_010,C6,C6_LOC01,LLEGADA,ROBOTS VEGANOS,"Nave federal. Ha entrado en territorio del Directorio de Vega. Por orden del Primer Directorio, retírese.","Voz perfecta, al unísono",16,6.2
+C6_LOC01_020,C6,C6_LOC01,CONT,GOLIAT,¿Territorio de Vega? ¡Esto es Saturno! ¡Saturno es nuestro desde que existen los mapas!,Furioso,14,5.4
+C6_LOC01_030,C6,C6_LOC01,CONT,ROBOTS VEGANOS,Titán fue habitado por colonos de Vega hace doce meses. Doctrina del primer asentamiento: un mundo vacío pertenece a quien lo habita primero.,Monótono. **Pista P6-02**,23,8.8
+C6_LOC01_040,C6,C6_LOC01,CONT,WESSEL,Lune… pusieron una base en Titán. En nuestro propio sistema. Y nosotros sin mirar.,Horrorizado,14,5.4
+C6_LOC01_050,C6,C6_LOC01,CONT,LUNE,Un sistema estelar no es un mundo. Saturno no está «vacío»: está en nuestra casa.,"Firme, por radio",15,5.8
+C6_LOC01_060,C6,C6_LOC01,CONT,ROBOTS VEGANOS,"Su interpretación no es pertinente. Retírese, o se considerará un acto de agresión.",Monótono,13,5.0
+C6_LOC01_070,C6,C6_LOC01,CONT,CAPITÁN BERNAL,"(radio) Inspector, la flota federal está a seis horas. Podemos barrer esas latas.",Ansioso,12,4.6
+C6_LOC01_080,C6,C6_LOC01,CONT,LUNE,"No, capitán. Son robots: no pueden dañarnos. Si les disparamos, nosotros disparamos primero, y cincuenta mundos verán a la Federación atacando. Eso es lo que quieren.",Analítico,26,10.0
+C6_LOC01_090,C6,C6_LOC01,CONT,CAPITÁN BERNAL,"La flota federal no retrocede, inspector.",Orgullo,6,2.3
+C6_LOC01_100,C6,C6_LOC01,CONT,LUNE,"Capitán, una flota que nunca retrocede acaba sin flota. Prefiero perder la cara que perder la guerra.",Duro,17,6.5
+C6_LOC01_110,C6,C6_LOC01,CONT,GOLIAT,"¡Polvo de Marte, Darío! ¿Nos vamos? ¿Dejamos la cápsula ahí para ellos?",Desesperado,12,4.6
+C6_LOC01_120,C6,C6_LOC01,CONT,LUNE,"Por ahora. *Errante*: rumbo al polo sur. Bajo y despacio, que lo vean.",Mirada que no es de derrota,13,5.0
+C6_VIA02_010,C6,C6_VIA02,RUTA 0%,WESSEL,"Esto es un funeral con escalas, Lune. Sólo que el muerto todavía pilota.",Pesimista,13,5.0
+C6_VIA02_020,C6,C6_VIA02,CONT,LUNE,"Wessel, ¿estás conmigo?",Directo,3,1.2
+C6_VIA02_030,C6,C6_VIA02,CONT,WESSEL,Hasta el final. Pero déjame quejarme por el camino.,Leal,9,3.5
+C6_VIA02_040,C6,C6_VIA02,RUTA 20%,GOLIAT,"Polo sur de Saturno. Visto desde aquí abajo, los anillos son un disco blanco perfecto. Es lo más bonito que he visto en mi vida.",Sobrecogido,25,9.6
+C6_VIA02_050,C6,C6_VIA02,EVT(salida exterior),LUNE,"Voy a salir a revisar las antenas. Cinco minutos. GOLIAT, tienes la nave.",Casual (sospechosamente),13,5.0
+C6_VIA02_060,C6,C6_VIA02,CONT,GOLIAT,¿Las antenas? ¿Ahora? ¿Con medio Vega mirándonos?,Desconcertado,7,2.7
+C6_VIA02_070,C6,C6_VIA02,CONT,WESSEL,(mientras Lune está fuera) ¿Siempre hace esto? Lo de no explicar nada.,Curioso,8,3.1
+C6_VIA02_080,C6,C6_VIA02,CONT,GOLIAT,Siempre. Dice que es porque yo me pongo nervioso. Yo nunca me pongo nervioso. ¿Por qué tarda tanto? ¿Lo ves? ¿Lo ves por la ventana?,Nerviosísimo,25,9.6
+C6_VIA02_090,C6,C6_VIA02,CONT,LUNE,(vuelve) Antenas en orden.,Neutro; ningún detalle,3,1.2
+C6_VIA02_100,C6,C6_VIA02,RUTA 55%,LUNE,"Wessel, ¿qué sabes de la división de Cassini?",Plan,8,3.1
+C6_VIA02_110,C6,C6_VIA02,CONT,WESSEL,"Un hueco entre los anillos. Lo abre la luna Mimas, que tira de las partículas una y otra vez. Hay menos hielo, no nada.",Experto,24,9.2
+C6_VIA02_120,C6,C6_VIA02,CONT,LUNE,Lo suficiente para que nos pierdan entre el ruido.,Decidido,9,3.5
+C6_VIA02_130,C6,C6_VIA02,EVT(Cassini),ERRANTE,Cruce de la división de Cassini. Densidad de fragmentos: variable. Agrav recomendado.,Alerta,12,4.6
+C6_VIA02_140,C6,C6_VIA02,CONT,GOLIAT,¡Hielo a la izquierda! ¡Hielo arriba! ¡Hielo en mi juntura! ¡Por qué siempre rocas!,"Pánico, recuerda C2",14,5.4
+C6_VIA02_150,C6,C6_VIA02,CONT,WESSEL,¡Ja! ¡Ésta es la mejor maniobra que he visto desde la academia!,Euforia,12,4.6
+C6_VIA02_160,C6,C6_VIA02,RUTA 95%,ERRANTE,Mimas a la vista. Superficie: hielo de agua. Habitantes: ninguno.,Sintético. Énfasis de diseño en «ninguno»,10,3.8
+C6_VIA02_R01,C6,C6_VIA02,IDLE ≥15 s,GOLIAT,Es la segunda vez en mi vida que cruzo un sitio lleno de piedras. Ya voy pidiendo un seguro.,Relleno,19,7.3
+C6_VIA02_R02,C6,C6_VIA02,IDLE ≥15 s,WESSEL,"Si salimos de esta, le cuento a todo el mundo que lo hice yo.",Relleno,14,5.4
+C6_LOC03_010,C6,C6_LOC03,LLEGADA,WESSEL,"Una bola de nieve con un cráter que le ocupa media cara. Hogar, dulce hogar.",Irónico,15,5.8
+C6_LOC03_020,C6,C6_LOC03,CONT,LUNE,"Refugio, víveres para dos meses y una baliza. Wessel, a partir de ahora vives aquí.",Serio,15,5.8
+C6_LOC03_030,C6,C6_LOC03,CONT,WESSEL,¿Vivir? ¿Aquí? ¿Por qué?,Desconcertado,4,1.5
+C6_LOC03_040,C6,C6_LOC03,CONT,LUNE,"No te lo puedo decir. Sólo: vive aquí. Siembra algo, aunque sea en una maceta. Pon una bandera.",Enigmático,18,6.9
+C6_LOC03_050,C6,C6_LOC03,CONT,WESSEL,"(pausa) …Te conozco desde la academia. Si lo pides así, hay un motivo. Plantaré la bandera más fea de Saturno.",Confía. **Pista P6-03**,19,7.3
+C6_LOC03_060,C6,C6_LOC03,CONT,LUNE,"GOLIAT, quédate con él. En dos meses os recoge una nave federal. Pase lo que pase conmigo.",Protector,17,6.5
+C6_LOC03_070,C6,C6_LOC03,CONT,GOLIAT,No.,Inmediato,1,0.4
+C6_LOC03_080,C6,C6_LOC03,CONT,LUNE,GOLIAT…,Cansado,1,0.4
+C6_LOC03_090,C6,C6_LOC03,CONT,GOLIAT,"Si me necesitas aquí por una misión, me quedo. Haré lo que haya que hacer y después te alcanzaré. Pero si quieres que me quede sólo para que esté a salvo mientras tú te metes en la boca del lobo… entonces nuestro pacto no vale nada. «Donde vaya la nave», ¿te acuerdas?","Firme, dolido; cita `F_PACTO`",52,20.0
+C6_LOC03_100,C6,C6_LOC03,CONT,LUNE,(le revuelve la antena) Por todas las órbitas. Protegerte es como intentar sujetar el humo.,"Rendido, con afecto",11,4.2
+C6_LOC03_110,C6,C6_LOC03,CONT,GOLIAT,Exacto. Y yo soy humo de calidad.,Satisfecho,7,2.7
+C6_LOC03_120,C6,C6_LOC03,SALIDA,LUNE,(radio abierta) Nave federal *Errante* a fuerzas de Vega. Me rindo. Llevo un tripulante. Y un robot.,Calmado,15,5.8
+C6_LOC03_130,C6,C6_LOC03,CONT,GOLIAT,(bajo) «Y un robot». Me pones al final de la lista hasta para rendirte.,Ofendido por costumbre,13,5.0
+C6_VIA04_010,C6,C6_VIA04,RUTA 0%,ROBOTS VEGANOS,"Tomo el control de la nave. Por favor, permanezcan sentados.","Perfecto, cortés",10,3.8
+C6_VIA04_020,C6,C6_VIA04,CONT,GOLIAT,"(al robot) Oye, colega. Entre robots. Tu Protocolo dice que no puedes dejar que un humano sufra daño. Llevarlo a Titán le va a hacer mucho daño.",Persuasivo,25,9.6
+C6_VIA04_030,C6,C6_VIA04,CONT,ROBOTS VEGANOS,El trayecto no implica daño físico. Su argumento no es aplicable.,Inmutable,11,4.2
+C6_VIA04_040,C6,C6_VIA04,RUTA 25%,GOLIAT,(le da una patada en el tobillo; ruido metálico) ¡Ay! ¡Tiene los tobillos de acero blindado!,Dolor cómico,7,2.7
+C6_VIA04_050,C6,C6_VIA04,CONT,GOLIAT,Genial. Secuestrados por una tostadora con modales.,Furioso,7,2.7
+C6_VIA04_060,C6,C6_VIA04,RUTA 40%,LUNE,"Mírale las manos, GOLIAT. Las articulaciones, la suavidad. Es una obra de arte.",Admiración genuina,13,5.0
+C6_VIA04_070,C6,C6_VIA04,CONT,GOLIAT,¿Lo estás admirando? ¿A él? ¿Mientras nos secuestra?,Celos y escándalo,8,3.1
+C6_VIA04_080,C6,C6_VIA04,CONT,LUNE,"Lo hizo la humanidad. Aunque sea en Vega, la humanidad puede estar orgullosa de esto. Lo que no me gusta es para qué lo usan.","Matiz, tema de la saga",25,9.6
+C6_VIA04_090,C6,C6_VIA04,RUTA 60%,LUNE,"Mira Titán. Esa cúpula. La construyeron en un año, delante de nuestras narices.",Amargo,13,5.0
+C6_VIA04_100,C6,C6_VIA04,CONT,GOLIAT,Mientras nosotros discutíamos presupuestos. Como decía Pereda.,Recuerda C4,7,2.7
+C6_VIA04_110,C6,C6_VIA04,RUTA 90%,ROBOTS VEGANOS,Aterrizaje en la base Titán-Directorio. Bienvenidos.,Cortés,7,2.7
+C6_VIA04_R01,C6,C6_VIA04,IDLE ≥15 s,GOLIAT,(al robot) ¿Cómo te llamas? ¿No tienes nombre? Qué triste. Yo me puse el mío.,"Relleno, tierno",13,5.0
+C6_VIA04_R02,C6,C6_VIA04,IDLE ≥15 s,ROBOTS VEGANOS,Temperatura de la cabina ajustada para su comodidad.,Relleno,8,3.1
+C6_LOC04_010,C6,C6_LOC04,LLEGADA,GOLIAT,Un cielo azul. Pintado. Como en la Tierra. ¿Por qué copian la Tierra si la odian tanto?,Desconcertado,17,6.5
+C6_LOC04_020,C6,C6_LOC04,CONT,DRAVIN,"Porque la Tierra fue nuestra cuna, robot. Uno no odia la cuna. Sólo crece y se va.",Refinado,17,6.5
+C6_LOC04_030,C6,C6_LOC04,CONT,DRAVIN,Inspector Lune. Hijo adoptivo de la directora Corvo. Sabemos todo de usted. Siéntese.,"Amable, amenazante",13,5.0
+C6_LOC04_040,C6,C6_LOC04,CONT,ZETA,En una semana se reúne la Conferencia de Vesta. Cincuenta mundos. Usted declarará que la Federación nos atacó en Saturno.,Legalista,20,7.7
+C6_LOC04_050,C6,C6_LOC04,CONT,LUNE,No.,Sereno,1,0.4
+C6_LOC04_060,C6,C6_LOC04,CONT,ZETA,"La Federación es un batiburrillo de mestizos. Ustedes se mezclan sin criterio, se reproducen sin medida. Nosotros nos seleccionamos. Es la evolución.",Ideológico,22,8.5
+C6_LOC04_070,C6,C6_LOC04,CONT,LUNE,La mezcla es lo que nos salva. A ustedes y a nosotros. Una especie que sólo se copia a sí misma termina siendo una sola idea. Y las ideas solas se rompen.,Firme,32,12.3
+C6_LOC04_080,C6,C6_LOC04,CONT,DRAVIN,Qué bonito. (mira a GOLIAT) Pero tengo un argumento mejor. Este trasto.,Cruel,9,3.5
+C6_LOC04_090,C6,C6_LOC04,CONT,DRAVIN,"Un robot minero de segunda mano. Un metro diez de chatarra pintada. Ni siquiera tiene un acabado decente. Si no declara, inspector, lo desmontamos. Pieza por pieza. Delante de usted.",Asco,30,11.5
+C6_LOC04_100,C6,C6_LOC04,CONT,LUNE,"Vale más que usted, comandante.","Lento, helado",5,1.9
+C6_LOC04_110,C6,C6_LOC04,CONT,DRAVIN,"Es un objeto. En Vega los robots son propiedad. Valiosos, pero propiedad. Y éste ni siquiera es bonito.",Divertido,18,6.9
+C6_LOC04_120,C6,C6_LOC04,CONT,GOLIAT,"(pausa) Darío. Si yo no existo, no tienen nada con lo que apretarte.","Muy tranquilo, demasiado",12,4.6
+C6_LOC04_130,C6,C6_LOC04,CONT,LUNE,"GOLIAT, ¿qué haces?",Alarma creciente,3,1.2
+C6_LOC04_140,C6,C6_LOC04,CONT,GOLIAT,Borrado de memoria. Sector uno. Marte. El desguace. Treinta créditos. (pausa) Sector dos…,Voz que se va aplanando,12,4.6
+C6_LOC04_150,C6,C6_LOC04,CONT,LUNE,"¡GOLIAT, para! ¡Es una orden!","Grito, el único de la saga",5,1.9
+C6_LOC04_160,C6,C6_LOC04,CONT,GOLIAT,Tus órdenes… valen menos… que tú. Sector dos. El Sol. La corona blanca…,Débil; el Protocolo de preservación cede ante el de protección,13,5.0
+C6_LOC04_170,C6,C6_LOC04,CONT,DRAVIN,¡Robots! ¡Deténganlo! ¡Necesito el rehén entero!,Furia,6,2.3
+C6_LOC04_180A,C6,C6_LOC04,"ELECCIÓN (temporizada, 5 s)",LUNE (A),[Activar la alarma de combate de la base],Única opción que salva a GOLIAT,8,3.1
+C6_LOC04_180B,C6,C6_LOC04,"ELECCIÓN (temporizada, 5 s)",LUNE (B),[Aceptar el trato de Dravin],Lleva a C6_LOC04_185 (rechazo de GOLIAT; vuelve a la elección),5,1.9
+C6_LOC04_185,C6,C6_LOC04,COND(B),GOLIAT,"(casi sin voz) Si dices que sí… borro el resto. No me hagas esto, Darío.",Súplica; se repite la elección,12,4.6
+C6_LOC04_190,C6,C6_LOC04,COND(A),ALTAVOZ VEGANO,ALERTA DE COMBATE. TODAS LAS UNIDADES A SUS PUESTOS.,SFX alarma,9,3.5
+C6_LOC04_200,C6,C6_LOC04,CONT,ROBOTS VEGANOS,"Orden prioritaria del sistema. Abandonando la sala. Comandante Dravin, instrucciones, por favor. Instrucciones, por favor.",Bucle cómico,15,5.8
+C6_LOC04_210,C6,C6_LOC04,CONT,LUNE,(de rodillas junto a GOLIAT) GOLIAT. Detén el borrado. Por favor.,"Desesperado, bajo",6,2.3
+C6_LOC04_220,C6,C6_LOC04,CONT,GOLIAT,(pausa larga; el sonido de arranque) …Detenido. Sector dos al cuarenta por ciento. Recuerdo el Sol… pero no el color. ¿De qué color era?,"Débil, confuso",18,6.9
+C6_LOC04_230,C6,C6_LOC04,CONT,LUNE,Blanco. Era blanco y estaba vivo. Me lo dijiste tú.,Emocionado,10,3.8
+C6_LOC04_240,C6,C6_LOC04,CONT,GOLIAT,…Blanco. Vale. Lo vuelvo a guardar.,Alivio,6,2.3
+C6_LOC04_250,C6,C6_LOC04,CONT,CAPITANA YON,(entra; a Dravin) Comandante. Usted ordenó desmontar delante de testigos un bien protegido de la Federación. Durante una negociación. Lo he grabado.,Fría,19,7.3
+C6_LOC04_260,C6,C6_LOC04,CONT,DRAVIN,"¿Me amenaza, Yon?",Incrédulo,3,1.2
+C6_LOC04_270,C6,C6_LOC04,CONT,CAPITANA YON,"Le informo. En Vega, los sobrinos también caen.",Tranquila. **Pista P6-05**,8,3.1
+C6_LOC04_280,C6,C6_LOC04,CONT,LUNE,Comandante Dravin. Le propongo algo mejor que mi testimonio. Hay otro agente de la ACS en Saturno. En Mimas. Se lo entrego.,"Calmado, sin emoción",22,8.5
+C6_LOC04_290,C6,C6_LOC04,CONT,GOLIAT,(débil) ¿Qué?,Incredulidad,1,0.4
+C6_LOC04_300,C6,C6_LOC04,CONT,DRAVIN,"(sonríe) Ahora hablamos el mismo idioma, inspector.",Satisfecho,6,2.3
+C6_VIA05_010,C6,C6_VIA05,RUTA 0%,LUNE,GOLIAT.,Suave,1,0.4
+C6_VIA05_020,C6,C6_VIA05,CONT,GOLIAT,No.,"Seco, sin girarse",1,0.4
+C6_VIA05_030,C6,C6_VIA05,CONT,LUNE,Escúchame un momento.,Suave,3,1.2
+C6_VIA05_040,C6,C6_VIA05,CONT,GOLIAT,Te escuché en Titán. Fue suficiente.,Herido,6,2.3
+C6_VIA05_050,C6,C6_VIA05,RUTA 25%,ZETA,"En la Tierra los gobernantes cambian cada cuatro años, inspector. Ninguno se atreve a nada. Nosotros tenemos voluntad.",Ideológico,18,6.9
+C6_VIA05_060,C6,C6_VIA05,CONT,LUNE,"Un gobierno que tiene que poner de acuerdo a seis mil millones de tercos no hace milagros, observador. Pero tampoco puede hacer monstruos. El suyo sí.",Firme,26,10.0
+C6_VIA05_070,C6,C6_VIA05,CONT,GOLIAT,(sin girarse) Mira quién habla de tiranos.,Venenoso,5,1.9
+C6_VIA05_080,C6,C6_VIA05,RUTA 50%,CAPITANA YON,"(aparte, a Lune) Su robot quiso borrarse por usted. Yo serví veinte años en Vega y nadie quiso nunca borrarse por mí.","Sincera, extraña",19,7.3
+C6_VIA05_090,C6,C6_VIA05,CONT,LUNE,No es mi robot. Es mi compañero.,"Bajo, para que GOLIAT lo oiga",7,2.7
+C6_VIA05_100,C6,C6_VIA05,CONT,GOLIAT,(pausa; sigue de espaldas),Silencio actuado: el chasis se mueve,0,0.0
+C6_VIA05_110,C6,C6_VIA05,RUTA 90%,ZETA,Mimas. Su colega va a tener una sorpresa.,Satisfecho,8,3.1
+C6_VIA05_R01,C6,C6_VIA05,IDLE ≥15 s,GOLIAT,"(zumbido de ventiladores, intencionadamente fuerte)",Relleno: «silencio ruidoso»,0,0.0
+C6_VIA05_R02,C6,C6_VIA05,IDLE ≥15 s,GOLIAT,"(tamborilea con los dedos metálicos en el asiento, cada vez más rápido)",Relleno SFX,0,0.0
+C6_VIA05_R03,C6,C6_VIA05,IDLE ≥15 s,LUNE,"(para sí) Aguanta, GOLIAT. Un poco más.",Relleno,5,1.9
+C6_LOC05_010,C6,C6_LOC05,LLEGADA,WESSEL,(con la bandera federal clavada en el hielo y una maceta con un brote) ¿Lune? ¿Vienes con ellos?,Desconcertado,4,1.5
+C6_LOC05_020,C6,C6_LOC05,CONT,ZETA,Agente Wessel. Está usted en un mundo del Directorio. Queda expulsado.,Legalista,11,4.2
+C6_LOC05_030,C6,C6_LOC05,CONT,WESSEL,"¿Del Directorio? Llegué yo primero. Mire: mi casa, mi bandera, mi planta. Es un brote de patata. Le tengo cariño.",Entendiendo a medias,20,7.7
+C6_LOC05_040,C6,C6_LOC05,CONT,ZETA,Recójalo. Nos vamos a Vesta.,Despectivo. **Pista P6-04**,5,1.9
+C6_LOC05_050,C6,C6_LOC05,CONT,LUNE,"(mirando a Wessel, una fracción de segundo)",Silencio; un gesto mínimo de asentimiento,0,0.0
+C6_LOC05_060,C6,C6_LOC05,CONT,WESSEL,(entiende algo) …Me llevo la patata.,Seco; deja de protestar,4,1.5
+C6_VIA06_010,C6,C6_VIA06,RUTA 0%,MIRA CASTELL,"(noticiario) Fuentes de Vega afirman que un agente de la ACS ha entregado a un compañero. ¿Va a dimitir, directora Corvo?",Incisiva,20,7.7
+C6_VIA06_020,C6,C6_VIA06,CONT,CORVO,(noticiario) Conozco a ese agente desde que tenía cuatro años. Esperaré a oírlo de su boca.,"Firme, voz cansada",15,5.8
+C6_VIA06_030,C6,C6_VIA06,RUTA 25%,SECRETARIO LINDQVIST,"(llamada a Corvo) Helena, si su chico declara contra nosotros, la Federación queda como la agresora. Necesitamos un culpable. Y va a ser él.",Político,21,8.1
+C6_VIA06_040,C6,C6_VIA06,CONT,CORVO,"Si quiere un culpable, empiece por quien dejó construir una cúpula en Titán sin enterarse.",Afilada,15,5.8
+C6_VIA06_050,C6,C6_VIA06,RUTA 50%,WESSEL,"(en la nave vegana, bajo, a GOLIAT) Oye. Pequeño. Él no hace las cosas sin motivo. Me hizo plantar una patata en una bola de nieve. Eso es un motivo.",Conciliador,23,8.8
+C6_VIA06_060,C6,C6_VIA06,CONT,GOLIAT,No me llames pequeño. (pausa) …¿Una patata?,Primera grieta en su enfado,6,2.3
+C6_VIA06_070,C6,C6_VIA06,CONT,WESSEL,Plantar algo. Vivir allí. Poner una bandera. Me dijo: «vive aquí».,Pensativo,11,4.2
+C6_VIA06_080,C6,C6_VIA06,CONT,GOLIAT,(procesando) Vivir allí. En un mundo vacío. Antes que nadie…,Empieza a entender,9,3.5
+C6_VIA06_090,C6,C6_VIA06,RUTA 75%,ERRANTE,(repetidor) Vesta. Antigua base naval federal. Superficie de mármol. Conferencia interestelar en sesión.,Sintético,12,4.6
+C6_VIA06_100,C6,C6_VIA06,CONT,DELEGADA ODUYA,(llamada de bienvenida) Aquí Kessa. Llevamos treinta años sin tomar partido. Hoy escucharemos. Sólo eso.,Pausada,12,4.6
+C6_VIA06_R01,C6,C6_VIA06,IDLE ≥15 s,WESSEL,La patata sobrevivió al viaje. Es más dura que yo.,Relleno,10,3.8
+C6_VIA06_R02,C6,C6_VIA06,IDLE ≥15 s,GOLIAT,"(para sí, muy bajo) Un mundo vacío… antes que nadie…",Relleno; está atando cabos,6,2.3
+C6_LOC06_010,C6,C6_LOC06,INICIO,DRAVIN,"Delegados. Titán estaba vacía. No importa qué sol la ilumine: estaba vacía, y llegamos primero. La Federación nos persiguió con naves armadas. Su propio agente lo confirmará.","Brillante, seguro",27,10.4
+C6_LOC06_020,C6,C6_LOC06,CONT,LUNE,Juré decir la verdad. Lo haré. La Federación entró en Saturno. Nos ordenaron salir. Salimos. Ningún arma federal disparó.,Sereno,19,7.3
+C6_LOC06_030,C6,C6_LOC06,CONT,DRAVIN,(molesto) Y después se rindió. Y nos entregó a un compañero.,Despectivo,10,3.8
+C6_LOC06_040,C6,C6_LOC06,CONT,CORVO,(se levanta) Inspector Lune. El comandante no le ha preguntado algo. Se lo pregunto yo. ¿Para qué entró en el sistema de Saturno?,"Formal, con una chispa en los ojos",21,8.1
+C6_LOC06_050,C6,C6_LOC06,CONT,LUNE,"Para fundar una colonia en Mimas, directora.",Sencillo,7,2.7
+C6_LOC06_060,C6,C6_LOC06,CONT,DELEGADOS,(murmullo creciente),SFX multitud,0,0.0
+C6_LOC06_070,C6,C6_LOC06,CONT,LUNE,"Mimas estaba vacía. Dejé allí a un colono: el agente Wessel, con su casa, su bandera y una patata. Según la doctrina que el comandante acaba de defender, Mimas era nuestra.",Firme,31,11.9
+C6_LOC06_080,C6,C6_LOC06,CONT,LUNE,"Y Vega lo expulsó. Si Vega creyera en su propia doctrina, Wessel seguiría en Mimas. No creen en ella. Sólo la usan cuando les conviene.",Implacable,25,9.6
+C6_LOC06_090,C6,C6_LOC06,CONT,DRAVIN,"(pálido) Eso… Mimas está dentro del sistema de Saturno, que…",Se enreda,9,3.5
+C6_LOC06_100,C6,C6_LOC06,CONT,DELEGADA ODUYA,"¿Que pertenece a quién, comandante? Elija. Si un sistema se reparte, Mimas era de la Tierra. Si no se reparte, Saturno es de la Tierra.","Suave, letal",25,9.6
+C6_LOC06_110,C6,C6_LOC06,ACUSACIÓN errónea: Federación,LUNE,(si el jugador elige mal en el tablero) No. La Federación no disparó. Ésa es la mentira que vinieron a vender.,Respuesta al error,13,5.0
+C6_LOC06_120,C6,C6_LOC06,ACUSACIÓN errónea: Agente X,CORVO,El Agente X está muerto. Fue un peón. Aquí juzgamos al jugador.,Respuesta al error,12,4.6
+C6_LOC06_130,C6,C6_LOC06,ACUSACIÓN correcta,DELEGADA ODUYA,Kessa vota con la Federación. Y propone un principio: un sistema estelar no se reparte. Es una sola casa.,Solemne,19,7.3
+C6_LOC06_140,C6,C6_LOC06,CONT,MODERADOR,Resultado de la votación: cuarenta y siete a favor de la Federación. Tres a favor de Vega. El Directorio tiene treinta días para abandonar Titán.,Formal,25,9.6
+C6_LOC06_150,C6,C6_LOC06,CONT,CAPITANA YON,"(a Corvo, en voz baja) Directora. Solicito asilo en la Federación. Traigo una grabación interesante.",Decidida,10,3.8
+C6_LOC06_160,C6,C6_LOC06,CONT,DELEGADA ODUYA,"(a Lune) Juega usted al ajedrez con planetas, joven.",Divertida,7,2.7
+C6_LOC06_170,C6,C6_LOC06,CONT,LUNE,Sólo aposté a que Vega diría una cosa y haría la contraria.,Modesto,12,4.6
+C6_CIN01_010,C6,C6_CIN01,INICIO,GOLIAT,"(lo alcanza, se planta delante) ¿Por qué no me lo dijiste?",Herido y aliviado a la vez,6,2.3
+C6_CIN01_020,C6,C6_CIN01,CONT,LUNE,"Porque si lo sabías, se te iba a notar en la cara. Vega tenía que creer que de verdad les entregaba a Wessel.",Sincero,23,8.8
+C6_CIN01_030,C6,C6_CIN01,CONT,GOLIAT,¡Yo no tengo cara! ¡Tengo una placa frontal!,Indignado,8,3.1
+C6_CIN01_040,C6,C6_CIN01,CONT,LUNE,Y tu placa frontal no sabe mentir ni a una tostadora. En Titán te habrías puesto a gritar «¡es un truco!» al tercer segundo.,Cariñoso,24,9.2
+C6_CIN01_050,C6,C6_CIN01,CONT,GOLIAT,…Al quinto. Como mínimo.,Admite,4,1.5
+C6_CIN01_060,C6,C6_CIN01,CONT,GOLIAT,"¡Polvo de Marte, Darío! Lo siento. Pensé cosas horribles de ti. Muy horribles. Con detalles.",Conmovido,15,5.8
+C6_CIN01_070,C6,C6_CIN01,CONT,LUNE,Me alegro de que las pensaras. Quiere decir que te importaba Wessel. Y que te importaba que yo fuera alguien que no entrega a los suyos.,Le revuelve la antena,26,10.0
+C6_CIN01_080,C6,C6_CIN01,CONT,GOLIAT,Y tú… en Titán. Cuando me borraba. Gritaste. Nunca gritas.,Muy bajo,10,3.8
+C6_CIN01_090,C6,C6_CIN01,CONT,LUNE,"(pausa) GOLIAT. Hay muchas personas en este sistema más altas que tú, más fuertes y más importantes. Ninguna vale lo que vales tú. Para mí, ninguna.",La única declaración explícita de la saga,25,9.6
+C6_CIN01_100,C6,C6_CIN01,CONT,GOLIAT,(larga pausa; zumbido) …Voy a necesitar mucho lubricante. Se me empaña todo.,"Emocionado, lo disimula",9,3.5
+C6_VIA07_010,C6,C6_VIA07,RUTA 0%,CORVO,"(llamada) Darío, una pregunta oficial. La cápsula del Agente X. Los datos sobre nuestras defensas. ¿Se los dejamos a Vega en los anillos?",Preocupada,22,8.5
+C6_VIA07_020,C6,C6_VIA07,CONT,LUNE,¿La cápsula? Ah. Sí. Se me olvidó decírselo.,Despreocupado,8,3.1
+C6_VIA07_030,C6,C6_VIA07,CONT,LUNE,"(saca un cilindro del bolsillo) La tengo yo. «La órbita de siempre, polo». La cápsula daba vueltas por encima del polo sur, no alrededor de los anillos. La recogí cuando salí «a revisar las antenas».",Ligero,30,11.5
+C6_VIA07_040,C6,C6_VIA07,CONT,GOLIAT,¿La llevas en el bolsillo desde el polo sur? ¿Desde ANTES de Titán? ¿Y no nos lo dijiste?,Escándalo total,18,6.9
+C6_VIA07_050,C6,C6_VIA07,RUTA 10%,LUNE,"Quería decíroslo. Pero después vinieron los robots, y Mimas, y Titán, y la Conferencia… y entre una cosa y otra, se me pasó.","Sincero, cómico",23,8.8
+C6_VIA07_060,C6,C6_VIA07,CONT,GOLIAT,Un genio. El gran genio del Sistema Solar. Que guarda los secretos de Estado con las pelusas del bolsillo.,Desprecio fingido,19,7.3
+C6_VIA07_070,C6,C6_VIA07,CONT,GOLIAT,Ahora entiendo para qué me necesitas. Alguien tiene que vaciarte los bolsillos.,Triunfal; la última palabra es suya,12,4.6
+C6_VIA07_080,C6,C6_VIA07,CONT,CORVO,"(riendo por primera vez en la saga) GOLIAT, desde hoy eres oficialmente responsable de los bolsillos del inspector.",Afecto,11,4.2
+C6_VIA07_090,C6,C6_VIA07,RUTA 30%,WESSEL,"(radio, desde otra nave) Lune, sabéis que voy a reclamar Mimas a título personal, ¿no? Tengo una patata allí.",Divertido,15,5.8
+C6_VIA07_100,C6,C6_VIA07,RUTA 60%,GOLIAT,Darío. ¿Y ahora? ¿Adónde va la nave?,Curioso,7,2.7
+C6_VIA07_110,C6,C6_VIA07,CONT,LUNE,Más allá de Saturno hay otros planetas. Y lunas que nadie pisó. Y en algún lugar alguien está tramando algo.,Sonrisa,20,7.7
+C6_VIA07_120,C6,C6_VIA07,CONT,GOLIAT,Entonces lo de siempre.,Feliz,4,1.5
+C6_VIA07_130,C6,C6_VIA07,RUTA 95%,LUNE,Donde vaya la nave.,Cálido,4,1.5
+C6_VIA07_140,C6,C6_VIA07,CONT,GOLIAT,Donde vaya la nave.,Cálido. **FIN DEL JUEGO**,4,1.5
+C6_VIA07_R01,C6,C6_VIA07,IDLE ≥15 s,GOLIAT,¿Me compras unas botas nuevas? Unas con estrellas. Para celebrar.,Relleno (créditos),10,3.8
+C6_VIA07_R02,C6,C6_VIA07,IDLE ≥15 s,GOLIAT,Voy a escribir mis memorias. Título: «Un metro diez de leyenda».,Relleno (créditos),11,4.2
+C6_VIA07_R03,C6,C6_VIA07,IDLE ≥15 s,LUNE,"(para sí) Marte, el Cinturón, Venus, Mercurio, Júpiter, Saturno. Y todo empezó en un desguace por treinta créditos.",Relleno (créditos),16,6.2
+SIS_NAV_010,SIS,SIS_NAV,Combustible < 25 %,ERRANTE,Combustible al veinticinco por ciento.,Informativo,5,1.9
+SIS_NAV_011a,SIS,SIS_NAV,CONT,GOLIAT,Veinticinco por ciento. Es como un vaso medio lleno. Pero de un vaso pequeño.,Reacción,14,5.4
+SIS_NAV_011b,SIS,SIS_NAV,CONT,GOLIAT,¿Repostamos? Lo pregunto como pasajero preocupado y como robot que no sabe nadar en el vacío.,Reacción,16,6.2
+SIS_NAV_011L,SIS,SIS_NAV,CONT,LUNE,Anotado. Habrá que repostar pronto.,Reacción (sin GOLIAT),5,1.9
+SIS_NAV_020,SIS,SIS_NAV,Combustible < 10 %,ERRANTE,Combustible crítico. Se recomienda una estación de servicio.,Crítico,8,3.1
+SIS_NAV_021a,SIS,SIS_NAV,CONT,GOLIAT,"¡Darío! ¡Si nos quedamos a la deriva, te juro que empiezo a cantar!",Reacción,13,5.0
+SIS_NAV_021b,SIS,SIS_NAV,CONT,GOLIAT,Diez por ciento. Mis sensores de pánico están al noventa.,Reacción,10,3.8
+SIS_NAV_030,SIS,SIS_NAV,Colisión leve,ERRANTE,Impacto en el casco. Daño menor.,Informativo,6,2.3
+SIS_NAV_031a,SIS,SIS_NAV,CONT,GOLIAT,¡Eso fue una roca! ¡Las rocas me odian! ¡Es mutuo!,Reacción,10,3.8
+SIS_NAV_031b,SIS,SIS_NAV,CONT,GOLIAT,Te lo digo con cariño: esa roca estaba quieta.,Reacción,9,3.5
+SIS_NAV_031c,SIS,SIS_NAV,CONT,GOLIAT,Rayón nuevo. Lo voy a llamar «Darío».,Reacción,7,2.7
+SIS_NAV_031L,SIS,SIS_NAV,CONT,LUNE,Por todas las órbitas… concéntrate.,Reacción (sin GOLIAT),5,1.9
+SIS_NAV_040,SIS,SIS_NAV,Integridad del casco < 30 %,ERRANTE,Integridad del casco: crítica.,Crítico,4,1.5
+SIS_NAV_041a,SIS,SIS_NAV,CONT,GOLIAT,Esta nave tiene más agujeros que mis excusas. ¡Busca un hangar!,Reacción,11,4.2
+SIS_NAV_041b,SIS,SIS_NAV,CONT,GOLIAT,"Si se abre una grieta, me tapo yo. Soy del tamaño justo. Es broma. No es broma.",Reacción,17,6.5
+SIS_NAV_050,SIS,SIS_NAV,Rumbo equivocado > 10 s,ERRANTE,Desviación del rumbo planificado.,Informativo,4,1.5
+SIS_NAV_051a,SIS,SIS_NAV,CONT,GOLIAT,Eh… el destino está para el otro lado. Por si era un desvío turístico.,Reacción,14,5.4
+SIS_NAV_051b,SIS,SIS_NAV,CONT,GOLIAT,¿Paseo panorámico? Me encantan. Pero Corvo cobra por hora.,Reacción,9,3.5
+SIS_NAV_051L,SIS,SIS_NAV,CONT,LUNE,Hm. Me pasé el desvío.,Reacción (sin GOLIAT),5,1.9
+SIS_NAV_060,SIS,SIS_NAV,Velocidad excesiva cerca de un objeto,ERRANTE,Velocidad de aproximación excesiva.,Crítico,4,1.5
+SIS_NAV_061a,SIS,SIS_NAV,CONT,GOLIAT,¡Freno! ¡Freno! ¡La palanca de la izquierda se llama FRENO!,Reacción,10,3.8
+SIS_NAV_061b,SIS,SIS_NAV,CONT,GOLIAT,"Si nos estrellamos, que diga mi lápida que yo avisé.",Reacción,10,3.8
+SIS_NAV_070,SIS,SIS_NAV,Entrada en órbita,ERRANTE,Órbita estable alcanzada.,Informativo,3,1.2
+SIS_NAV_071a,SIS,SIS_NAV,CONT,GOLIAT,Orbitando. Mi actividad favorita después de quejarme.,Reacción,7,2.7
+SIS_NAV_071b,SIS,SIS_NAV,CONT,GOLIAT,Desde aquí arriba todo parece tranquilo. Siempre parece tranquilo desde arriba.,Reacción,11,4.2
+SIS_NAV_080,SIS,SIS_NAV,Aterrizaje correcto,ERRANTE,Aterrizaje completado.,Informativo,2,0.8
+SIS_NAV_081a,SIS,SIS_NAV,CONT,GOLIAT,Aterrizaje de nueve sobre diez. El punto que falta es por el susto del principio.,Reacción,15,5.8
+SIS_NAV_081b,SIS,SIS_NAV,CONT,GOLIAT,"¡Tierra firme! O hielo firme. O roca firme. Algo firme, en cualquier caso.",Reacción,13,5.0
+SIS_NAV_090,SIS,SIS_NAV,Aterrizaje brusco,ERRANTE,Aterrizaje con impacto. Tren de aterrizaje dañado.,Informativo,7,2.7
+SIS_NAV_091a,SIS,SIS_NAV,CONT,GOLIAT,Mis tornillos han cambiado de sitio. Todos.,Reacción,7,2.7
+SIS_NAV_091b,SIS,SIS_NAV,CONT,GOLIAT,Bueno… técnicamente hemos aterrizado.,Reacción,4,1.5
+SIS_NAV_100,SIS,SIS_NAV,Nuevo destino marcado,ERRANTE,Destino fijado. Ruta calculada.,Informativo,4,1.5
+SIS_NAV_101a,SIS,SIS_NAV,CONT,GOLIAT,Rumbo fijado. Allá vamos. Otra vez. Como siempre.,Reacción,8,3.1
+SIS_NAV_101b,SIS,SIS_NAV,CONT,GOLIAT,Donde vaya la nave.,Reacción (sólo con `F_PACTO`),4,1.5
+SIS_NAV_110,SIS,SIS_NAV,Partida guardada,ERRANTE,Registro de misión actualizado.,Informativo,4,1.5
+SIS_NAV_111a,SIS,SIS_NAV,CONT,GOLIAT,"Guardado en mi memoria EXCELENTE. Y en la de la nave, por si acaso.",Reacción,14,5.4
+SIS_NAV_120,SIS,SIS_NAV,Velo activado (con `F_VELO`),ERRANTE,Velo activo.,Informativo,2,0.8
+SIS_NAV_121a,SIS,SIS_NAV,CONT,GOLIAT,Modo fantasma. Buuuh.,Reacción,3,1.2
+SIS_NAV_121b,SIS,SIS_NAV,CONT,GOLIAT,¡El Espectro ha vuelto! ¡Que tiemblen los malos y los asteroides!,Reacción,11,4.2
+SIS_NAV_130,SIS,SIS_NAV,Agrav activado (con `F_AGRAV`),ERRANTE,Propulsor Agrav activo.,Informativo,3,1.2
+SIS_NAV_131a,SIS,SIS_NAV,CONT,GOLIAT,Sin peso. Me siento ligero como un pensamiento. Uno pequeño.,Reacción,10,3.8
+SIS_RLL_010,SIS,SIS_RLL,IDLE ≥15 s,GOLIAT,¿Sabías que en treinta años de mina nunca vi una estrella? Ahora las veo todo el tiempo. No me acostumbro.,Relleno,20,7.7
+SIS_RLL_020,SIS,SIS_RLL,IDLE ≥15 s,GOLIAT,"Si la *Errante* hablara de verdad, ¿crees que me caería bien? Yo creo que no. Es demasiado formal.",Relleno,18,6.9
+SIS_RLL_030,SIS,SIS_RLL,IDLE ≥15 s,LUNE,¿Estás contando rocas otra vez?,Relleno,5,1.9
+SIS_RLL_031,SIS,SIS_RLL,CONT,GOLIAT,Ochocientas doce. No me interrumpas.,Relleno,5,1.9
+SIS_RLL_040,SIS,SIS_RLL,IDLE ≥15 s,GOLIAT,Pregunta seria: ¿los inspectores se jubilan? ¿Y los robots de los inspectores? ¿Nos jubilamos juntos?,Relleno,15,5.8
+SIS_RLL_050,SIS,SIS_RLL,IDLE ≥15 s,GOLIAT,"Me he cambiado las botas. Magnéticas, color azul cobalto. Nadie lo ha notado. Nadie nota nunca nada.",Relleno; guiño a las botas,17,6.5
+SIS_RLL_060,SIS,SIS_RLL,IDLE ≥15 s · desde C2,GOLIAT,A veces pienso en Tobías Rue y su hija piloto. Ojalá le vaya bien.,Relleno,14,5.4
+SIS_RLL_070,SIS,SIS_RLL,IDLE ≥15 s · desde C3,GOLIAT,Todavía me tiemblan las juntas cuando veo una ondina. De amor. Y de miedo.,Relleno,14,5.4
+SIS_RLL_080,SIS,SIS_RLL,IDLE ≥15 s · desde C3,LUNE,Marco me escribió. Dice que ya no ronca. Miente.,Relleno,9,3.5
+SIS_RLL_090,SIS,SIS_RLL,IDLE ≥15 s · desde C4,GOLIAT,A veces pienso en Centinela. En que nadie le puso nombre.,Relleno; tono serio,11,4.2
+SIS_RLL_100,SIS,SIS_RLL,IDLE ≥15 s · desde C4,GOLIAT,"¿Te acuerdas de mi juicio en Mercurio? «Señoras, señores y doctor Garde». Inolvidable.",Relleno,13,5.0
+SIS_RLL_110,SIS,SIS_RLL,IDLE ≥15 s · desde C5,GOLIAT,"¿Le habrán conseguido ya el perro a Nordin? Un perro de verdad, con pulgas.",Relleno,14,5.4
+SIS_RLL_120,SIS,SIS_RLL,IDLE ≥15 s · desde C5,GOLIAT,Brann me apartó para que pudiera ver por la ventana. Fue la primera vez que un humano grande se hizo pequeño por mí.,"Relleno, emotivo",23,8.8
+SIS_RLL_130,SIS,SIS_RLL,IDLE ≥15 s,LUNE,"GOLIAT, ¿por qué te pusiste ese nombre?",Relleno,7,2.7
+SIS_RLL_131,SIS,SIS_RLL,CONT,GOLIAT,Porque los demás robots de la mina se llamaban por número. Y yo quería un nombre que se oyera desde lejos.,Relleno,21,8.1
+SIS_RLL_140,SIS,SIS_RLL,IDLE ≥15 s,GOLIAT,"Si algún día me desguazan, quiero que mi altavoz vaya a un faro. Para seguir hablando.","Relleno, agridulce",16,6.2
+SIS_LUN_010,SIS,SIS_LUN,IDLE ≥15 s,LUNE,(para sí) El silencio del espacio. Me gustaba más antes.,Relleno,8,3.1
+SIS_LUN_020,SIS,SIS_LUN,IDLE ≥15 s,LUNE,(para sí) Revisa los hechos. Otra vez. Lo que se repite es la pista.,Relleno,12,4.6
+SIS_LUN_030,SIS,SIS_LUN,IDLE ≥15 s,LUNE,(para sí) Helena estará despierta. Siempre está despierta cuando estoy de viaje.,Relleno,10,3.8
+SIS_LUN_040,SIS,SIS_LUN,IDLE ≥15 s,LUNE,"(para sí) *Errante*, ¿algún comentario?",Relleno,3,1.2
+SIS_LUN_041,SIS,SIS_LUN,CONT,ERRANTE,Ninguno registrado.,Relleno,2,0.8
+SIS_LUN_050,SIS,SIS_LUN,IDLE ≥15 s,LUNE,(para sí) Mi padre decía que pilotar es escuchar a la nave. La mía no dice nada.,Relleno,15,5.8
