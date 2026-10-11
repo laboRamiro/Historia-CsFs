@@ -15,6 +15,7 @@ Guion narrativo y de diálogos para un juego de pilotaje espacial punto a punto 
 | [06_CAPITULO_6_ANILLOS_DE_SATURNO.md](06_CAPITULO_6_ANILLOS_DE_SATURNO.md) | Saturno, Titán, Vesta (final) |
 | [07_AVISOS_Y_RELLENOS_DE_SISTEMA.md](07_AVISOS_Y_RELLENOS_DE_SISTEMA.md) | Avisos de navegación y *pools* de relleno |
 | [08_MAPA_DE_NAVEGACION.md](08_MAPA_DE_NAVEGACION.md) | Grafo de rutas y tabla de tramos |
+| [GUION_LUNE_GOLIAT.pdf](GUION_LUNE_GOLIAT.pdf) | **Guion completo ilustrado en PDF** (195 páginas): cada escena con la estética de su ambiente y una ficha de contexto (generado) |
 | [ESTADISTICAS.md](ESTADISTICAS.md) | Volumen de texto y audio (generado) |
 | [dialogos.csv](dialogos.csv) | Todas las líneas en formato tabla, para importar (generado) |
 
@@ -23,3 +24,9 @@ Guion narrativo y de diálogos para un juego de pilotaje espacial punto a punto 
 python3 guion_videojuego/herramientas/exportar_dialogos.py
 ```
 El script valida que no haya identificadores duplicados ni filas mal formadas, y que cada viaje tenga hitos de ruta y un *pool* de relleno.
+
+## Regenerar el PDF ilustrado
+```bash
+python3 guion_videojuego/herramientas/generar_pdf_guion.py
+```
+El contexto y el ambiente de cada escena están en `herramientas/contexto_escenas.py`. Hace falta Chromium y conexión a internet para descargar las fuentes.
